@@ -1,0 +1,6007 @@
+Council area,Year,Sex,Age,Population
+Aberdeen City,2019,Female,0,1146
+Aberdeen City,2019,Female,1,1117
+Aberdeen City,2019,Female,2,1127
+Aberdeen City,2019,Female,3,1178
+Aberdeen City,2019,Female,4,1139
+Aberdeen City,2019,Female,5,1112
+Aberdeen City,2019,Female,6,1159
+Aberdeen City,2019,Female,7,1178
+Aberdeen City,2019,Female,8,1132
+Aberdeen City,2019,Female,9,1095
+Aberdeen City,2019,Female,10,1056
+Aberdeen City,2019,Female,11,1093
+Aberdeen City,2019,Female,12,1002
+Aberdeen City,2019,Female,13,963
+Aberdeen City,2019,Female,14,949
+Aberdeen City,2019,Female,15,892
+Aberdeen City,2019,Female,16,862
+Aberdeen City,2019,Female,17,858
+Aberdeen City,2019,Female,18,1199
+Aberdeen City,2019,Female,19,1601
+Aberdeen City,2019,Female,20,1897
+Aberdeen City,2019,Female,21,1950
+Aberdeen City,2019,Female,22,2144
+Aberdeen City,2019,Female,23,1919
+Aberdeen City,2019,Female,24,1941
+Aberdeen City,2019,Female,25,1772
+Aberdeen City,2019,Female,26,1983
+Aberdeen City,2019,Female,27,2300
+Aberdeen City,2019,Female,28,2296
+Aberdeen City,2019,Female,29,2198
+Aberdeen City,2019,Female,30,2092
+Aberdeen City,2019,Female,31,1975
+Aberdeen City,2019,Female,32,1861
+Aberdeen City,2019,Female,33,1968
+Aberdeen City,2019,Female,34,1946
+Aberdeen City,2019,Female,35,1716
+Aberdeen City,2019,Female,36,1851
+Aberdeen City,2019,Female,37,1717
+Aberdeen City,2019,Female,38,1622
+Aberdeen City,2019,Female,39,1656
+Aberdeen City,2019,Female,40,1432
+Aberdeen City,2019,Female,41,1396
+Aberdeen City,2019,Female,42,1289
+Aberdeen City,2019,Female,43,1351
+Aberdeen City,2019,Female,44,1297
+Aberdeen City,2019,Female,45,1249
+Aberdeen City,2019,Female,46,1376
+Aberdeen City,2019,Female,47,1439
+Aberdeen City,2019,Female,48,1439
+Aberdeen City,2019,Female,49,1379
+Aberdeen City,2019,Female,50,1408
+Aberdeen City,2019,Female,51,1371
+Aberdeen City,2019,Female,52,1363
+Aberdeen City,2019,Female,53,1457
+Aberdeen City,2019,Female,54,1511
+Aberdeen City,2019,Female,55,1485
+Aberdeen City,2019,Female,56,1502
+Aberdeen City,2019,Female,57,1462
+Aberdeen City,2019,Female,58,1362
+Aberdeen City,2019,Female,59,1366
+Aberdeen City,2019,Female,60,1325
+Aberdeen City,2019,Female,61,1293
+Aberdeen City,2019,Female,62,1228
+Aberdeen City,2019,Female,63,1253
+Aberdeen City,2019,Female,64,1173
+Aberdeen City,2019,Female,65,1083
+Aberdeen City,2019,Female,66,1040
+Aberdeen City,2019,Female,67,1079
+Aberdeen City,2019,Female,68,1011
+Aberdeen City,2019,Female,69,999
+Aberdeen City,2019,Female,70,1081
+Aberdeen City,2019,Female,71,1047
+Aberdeen City,2019,Female,72,1192
+Aberdeen City,2019,Female,73,863
+Aberdeen City,2019,Female,74,727
+Aberdeen City,2019,Female,75,750
+Aberdeen City,2019,Female,76,751
+Aberdeen City,2019,Female,77,768
+Aberdeen City,2019,Female,78,686
+Aberdeen City,2019,Female,79,693
+Aberdeen City,2019,Female,80,676
+Aberdeen City,2019,Female,81,653
+Aberdeen City,2019,Female,82,605
+Aberdeen City,2019,Female,83,590
+Aberdeen City,2019,Female,84,539
+Aberdeen City,2019,Female,85,471
+Aberdeen City,2019,Female,86,423
+Aberdeen City,2019,Female,87,452
+Aberdeen City,2019,Female,88,338
+Aberdeen City,2019,Female,89,331
+Aberdeen City,2019,Female,90,1157
+Aberdeen City,2019,Male,0,1186
+Aberdeen City,2019,Male,1,1169
+Aberdeen City,2019,Male,2,1160
+Aberdeen City,2019,Male,3,1271
+Aberdeen City,2019,Male,4,1223
+Aberdeen City,2019,Male,5,1185
+Aberdeen City,2019,Male,6,1201
+Aberdeen City,2019,Male,7,1221
+Aberdeen City,2019,Male,8,1205
+Aberdeen City,2019,Male,9,1157
+Aberdeen City,2019,Male,10,1126
+Aberdeen City,2019,Male,11,1080
+Aberdeen City,2019,Male,12,1038
+Aberdeen City,2019,Male,13,1001
+Aberdeen City,2019,Male,14,973
+Aberdeen City,2019,Male,15,889
+Aberdeen City,2019,Male,16,909
+Aberdeen City,2019,Male,17,914
+Aberdeen City,2019,Male,18,1006
+Aberdeen City,2019,Male,19,1256
+Aberdeen City,2019,Male,20,1458
+Aberdeen City,2019,Male,21,1647
+Aberdeen City,2019,Male,22,1816
+Aberdeen City,2019,Male,23,1829
+Aberdeen City,2019,Male,24,1758
+Aberdeen City,2019,Male,25,1788
+Aberdeen City,2019,Male,26,2052
+Aberdeen City,2019,Male,27,2505
+Aberdeen City,2019,Male,28,2660
+Aberdeen City,2019,Male,29,2469
+Aberdeen City,2019,Male,30,2553
+Aberdeen City,2019,Male,31,2386
+Aberdeen City,2019,Male,32,2350
+Aberdeen City,2019,Male,33,2148
+Aberdeen City,2019,Male,34,2012
+Aberdeen City,2019,Male,35,1895
+Aberdeen City,2019,Male,36,1930
+Aberdeen City,2019,Male,37,1884
+Aberdeen City,2019,Male,38,1849
+Aberdeen City,2019,Male,39,1689
+Aberdeen City,2019,Male,40,1682
+Aberdeen City,2019,Male,41,1460
+Aberdeen City,2019,Male,42,1494
+Aberdeen City,2019,Male,43,1414
+Aberdeen City,2019,Male,44,1421
+Aberdeen City,2019,Male,45,1404
+Aberdeen City,2019,Male,46,1463
+Aberdeen City,2019,Male,47,1386
+Aberdeen City,2019,Male,48,1487
+Aberdeen City,2019,Male,49,1296
+Aberdeen City,2019,Male,50,1410
+Aberdeen City,2019,Male,51,1466
+Aberdeen City,2019,Male,52,1459
+Aberdeen City,2019,Male,53,1336
+Aberdeen City,2019,Male,54,1483
+Aberdeen City,2019,Male,55,1337
+Aberdeen City,2019,Male,56,1501
+Aberdeen City,2019,Male,57,1432
+Aberdeen City,2019,Male,58,1294
+Aberdeen City,2019,Male,59,1322
+Aberdeen City,2019,Male,60,1297
+Aberdeen City,2019,Male,61,1299
+Aberdeen City,2019,Male,62,1273
+Aberdeen City,2019,Male,63,1215
+Aberdeen City,2019,Male,64,1166
+Aberdeen City,2019,Male,65,1161
+Aberdeen City,2019,Male,66,1028
+Aberdeen City,2019,Male,67,1032
+Aberdeen City,2019,Male,68,979
+Aberdeen City,2019,Male,69,1001
+Aberdeen City,2019,Male,70,1046
+Aberdeen City,2019,Male,71,970
+Aberdeen City,2019,Male,72,1061
+Aberdeen City,2019,Male,73,767
+Aberdeen City,2019,Male,74,613
+Aberdeen City,2019,Male,75,626
+Aberdeen City,2019,Male,76,627
+Aberdeen City,2019,Male,77,583
+Aberdeen City,2019,Male,78,472
+Aberdeen City,2019,Male,79,514
+Aberdeen City,2019,Male,80,441
+Aberdeen City,2019,Male,81,471
+Aberdeen City,2019,Male,82,410
+Aberdeen City,2019,Male,83,361
+Aberdeen City,2019,Male,84,349
+Aberdeen City,2019,Male,85,303
+Aberdeen City,2019,Male,86,288
+Aberdeen City,2019,Male,87,236
+Aberdeen City,2019,Male,88,189
+Aberdeen City,2019,Male,89,140
+Aberdeen City,2019,Male,90,484
+Aberdeenshire,2019,Female,0,1275
+Aberdeenshire,2019,Female,1,1403
+Aberdeenshire,2019,Female,2,1351
+Aberdeenshire,2019,Female,3,1487
+Aberdeenshire,2019,Female,4,1463
+Aberdeenshire,2019,Female,5,1523
+Aberdeenshire,2019,Female,6,1460
+Aberdeenshire,2019,Female,7,1512
+Aberdeenshire,2019,Female,8,1621
+Aberdeenshire,2019,Female,9,1706
+Aberdeenshire,2019,Female,10,1668
+Aberdeenshire,2019,Female,11,1525
+Aberdeenshire,2019,Female,12,1524
+Aberdeenshire,2019,Female,13,1528
+Aberdeenshire,2019,Female,14,1426
+Aberdeenshire,2019,Female,15,1391
+Aberdeenshire,2019,Female,16,1387
+Aberdeenshire,2019,Female,17,1345
+Aberdeenshire,2019,Female,18,1200
+Aberdeenshire,2019,Female,19,1067
+Aberdeenshire,2019,Female,20,1075
+Aberdeenshire,2019,Female,21,1023
+Aberdeenshire,2019,Female,22,1023
+Aberdeenshire,2019,Female,23,1102
+Aberdeenshire,2019,Female,24,1193
+Aberdeenshire,2019,Female,25,1244
+Aberdeenshire,2019,Female,26,1278
+Aberdeenshire,2019,Female,27,1276
+Aberdeenshire,2019,Female,28,1277
+Aberdeenshire,2019,Female,29,1334
+Aberdeenshire,2019,Female,30,1369
+Aberdeenshire,2019,Female,31,1526
+Aberdeenshire,2019,Female,32,1559
+Aberdeenshire,2019,Female,33,1582
+Aberdeenshire,2019,Female,34,1629
+Aberdeenshire,2019,Female,35,1661
+Aberdeenshire,2019,Female,36,1696
+Aberdeenshire,2019,Female,37,1793
+Aberdeenshire,2019,Female,38,1763
+Aberdeenshire,2019,Female,39,1744
+Aberdeenshire,2019,Female,40,1726
+Aberdeenshire,2019,Female,41,1664
+Aberdeenshire,2019,Female,42,1648
+Aberdeenshire,2019,Female,43,1732
+Aberdeenshire,2019,Female,44,1703
+Aberdeenshire,2019,Female,45,1850
+Aberdeenshire,2019,Female,46,1862
+Aberdeenshire,2019,Female,47,1930
+Aberdeenshire,2019,Female,48,2147
+Aberdeenshire,2019,Female,49,1979
+Aberdeenshire,2019,Female,50,2157
+Aberdeenshire,2019,Female,51,1959
+Aberdeenshire,2019,Female,52,2080
+Aberdeenshire,2019,Female,53,2107
+Aberdeenshire,2019,Female,54,2108
+Aberdeenshire,2019,Female,55,2055
+Aberdeenshire,2019,Female,56,2110
+Aberdeenshire,2019,Female,57,1941
+Aberdeenshire,2019,Female,58,1878
+Aberdeenshire,2019,Female,59,1771
+Aberdeenshire,2019,Female,60,1778
+Aberdeenshire,2019,Female,61,1753
+Aberdeenshire,2019,Female,62,1723
+Aberdeenshire,2019,Female,63,1737
+Aberdeenshire,2019,Female,64,1654
+Aberdeenshire,2019,Female,65,1658
+Aberdeenshire,2019,Female,66,1562
+Aberdeenshire,2019,Female,67,1511
+Aberdeenshire,2019,Female,68,1514
+Aberdeenshire,2019,Female,69,1528
+Aberdeenshire,2019,Female,70,1527
+Aberdeenshire,2019,Female,71,1549
+Aberdeenshire,2019,Female,72,1678
+Aberdeenshire,2019,Female,73,1278
+Aberdeenshire,2019,Female,74,1168
+Aberdeenshire,2019,Female,75,1091
+Aberdeenshire,2019,Female,76,1069
+Aberdeenshire,2019,Female,77,1034
+Aberdeenshire,2019,Female,78,908
+Aberdeenshire,2019,Female,79,912
+Aberdeenshire,2019,Female,80,821
+Aberdeenshire,2019,Female,81,761
+Aberdeenshire,2019,Female,82,740
+Aberdeenshire,2019,Female,83,666
+Aberdeenshire,2019,Female,84,591
+Aberdeenshire,2019,Female,85,581
+Aberdeenshire,2019,Female,86,491
+Aberdeenshire,2019,Female,87,468
+Aberdeenshire,2019,Female,88,417
+Aberdeenshire,2019,Female,89,317
+Aberdeenshire,2019,Female,90,1369
+Aberdeenshire,2019,Male,0,1322
+Aberdeenshire,2019,Male,1,1417
+Aberdeenshire,2019,Male,2,1486
+Aberdeenshire,2019,Male,3,1563
+Aberdeenshire,2019,Male,4,1516
+Aberdeenshire,2019,Male,5,1556
+Aberdeenshire,2019,Male,6,1559
+Aberdeenshire,2019,Male,7,1602
+Aberdeenshire,2019,Male,8,1701
+Aberdeenshire,2019,Male,9,1737
+Aberdeenshire,2019,Male,10,1733
+Aberdeenshire,2019,Male,11,1761
+Aberdeenshire,2019,Male,12,1605
+Aberdeenshire,2019,Male,13,1579
+Aberdeenshire,2019,Male,14,1498
+Aberdeenshire,2019,Male,15,1518
+Aberdeenshire,2019,Male,16,1462
+Aberdeenshire,2019,Male,17,1424
+Aberdeenshire,2019,Male,18,1381
+Aberdeenshire,2019,Male,19,1398
+Aberdeenshire,2019,Male,20,1329
+Aberdeenshire,2019,Male,21,1365
+Aberdeenshire,2019,Male,22,1318
+Aberdeenshire,2019,Male,23,1297
+Aberdeenshire,2019,Male,24,1363
+Aberdeenshire,2019,Male,25,1410
+Aberdeenshire,2019,Male,26,1311
+Aberdeenshire,2019,Male,27,1275
+Aberdeenshire,2019,Male,28,1416
+Aberdeenshire,2019,Male,29,1384
+Aberdeenshire,2019,Male,30,1403
+Aberdeenshire,2019,Male,31,1408
+Aberdeenshire,2019,Male,32,1450
+Aberdeenshire,2019,Male,33,1510
+Aberdeenshire,2019,Male,34,1594
+Aberdeenshire,2019,Male,35,1529
+Aberdeenshire,2019,Male,36,1630
+Aberdeenshire,2019,Male,37,1687
+Aberdeenshire,2019,Male,38,1762
+Aberdeenshire,2019,Male,39,1733
+Aberdeenshire,2019,Male,40,1663
+Aberdeenshire,2019,Male,41,1612
+Aberdeenshire,2019,Male,42,1711
+Aberdeenshire,2019,Male,43,1742
+Aberdeenshire,2019,Male,44,1686
+Aberdeenshire,2019,Male,45,1803
+Aberdeenshire,2019,Male,46,1947
+Aberdeenshire,2019,Male,47,1955
+Aberdeenshire,2019,Male,48,1912
+Aberdeenshire,2019,Male,49,1934
+Aberdeenshire,2019,Male,50,1959
+Aberdeenshire,2019,Male,51,1963
+Aberdeenshire,2019,Male,52,2027
+Aberdeenshire,2019,Male,53,1960
+Aberdeenshire,2019,Male,54,2019
+Aberdeenshire,2019,Male,55,2063
+Aberdeenshire,2019,Male,56,1993
+Aberdeenshire,2019,Male,57,1936
+Aberdeenshire,2019,Male,58,1875
+Aberdeenshire,2019,Male,59,1800
+Aberdeenshire,2019,Male,60,1735
+Aberdeenshire,2019,Male,61,1819
+Aberdeenshire,2019,Male,62,1676
+Aberdeenshire,2019,Male,63,1678
+Aberdeenshire,2019,Male,64,1616
+Aberdeenshire,2019,Male,65,1609
+Aberdeenshire,2019,Male,66,1447
+Aberdeenshire,2019,Male,67,1464
+Aberdeenshire,2019,Male,68,1484
+Aberdeenshire,2019,Male,69,1453
+Aberdeenshire,2019,Male,70,1578
+Aberdeenshire,2019,Male,71,1580
+Aberdeenshire,2019,Male,72,1651
+Aberdeenshire,2019,Male,73,1180
+Aberdeenshire,2019,Male,74,1032
+Aberdeenshire,2019,Male,75,1033
+Aberdeenshire,2019,Male,76,961
+Aberdeenshire,2019,Male,77,867
+Aberdeenshire,2019,Male,78,741
+Aberdeenshire,2019,Male,79,786
+Aberdeenshire,2019,Male,80,698
+Aberdeenshire,2019,Male,81,630
+Aberdeenshire,2019,Male,82,535
+Aberdeenshire,2019,Male,83,574
+Aberdeenshire,2019,Male,84,463
+Aberdeenshire,2019,Male,85,396
+Aberdeenshire,2019,Male,86,335
+Aberdeenshire,2019,Male,87,282
+Aberdeenshire,2019,Male,88,248
+Aberdeenshire,2019,Male,89,212
+Aberdeenshire,2019,Male,90,625
+Angus,2019,Female,0,441
+Angus,2019,Female,1,479
+Angus,2019,Female,2,539
+Angus,2019,Female,3,544
+Angus,2019,Female,4,513
+Angus,2019,Female,5,590
+Angus,2019,Female,6,624
+Angus,2019,Female,7,632
+Angus,2019,Female,8,611
+Angus,2019,Female,9,664
+Angus,2019,Female,10,618
+Angus,2019,Female,11,652
+Angus,2019,Female,12,589
+Angus,2019,Female,13,590
+Angus,2019,Female,14,620
+Angus,2019,Female,15,617
+Angus,2019,Female,16,620
+Angus,2019,Female,17,584
+Angus,2019,Female,18,590
+Angus,2019,Female,19,478
+Angus,2019,Female,20,503
+Angus,2019,Female,21,534
+Angus,2019,Female,22,581
+Angus,2019,Female,23,574
+Angus,2019,Female,24,545
+Angus,2019,Female,25,592
+Angus,2019,Female,26,604
+Angus,2019,Female,27,588
+Angus,2019,Female,28,577
+Angus,2019,Female,29,513
+Angus,2019,Female,30,588
+Angus,2019,Female,31,657
+Angus,2019,Female,32,681
+Angus,2019,Female,33,680
+Angus,2019,Female,34,627
+Angus,2019,Female,35,667
+Angus,2019,Female,36,662
+Angus,2019,Female,37,727
+Angus,2019,Female,38,704
+Angus,2019,Female,39,703
+Angus,2019,Female,40,640
+Angus,2019,Female,41,653
+Angus,2019,Female,42,644
+Angus,2019,Female,43,650
+Angus,2019,Female,44,672
+Angus,2019,Female,45,733
+Angus,2019,Female,46,800
+Angus,2019,Female,47,794
+Angus,2019,Female,48,849
+Angus,2019,Female,49,792
+Angus,2019,Female,50,907
+Angus,2019,Female,51,861
+Angus,2019,Female,52,888
+Angus,2019,Female,53,898
+Angus,2019,Female,54,943
+Angus,2019,Female,55,883
+Angus,2019,Female,56,928
+Angus,2019,Female,57,951
+Angus,2019,Female,58,928
+Angus,2019,Female,59,910
+Angus,2019,Female,60,879
+Angus,2019,Female,61,820
+Angus,2019,Female,62,831
+Angus,2019,Female,63,796
+Angus,2019,Female,64,761
+Angus,2019,Female,65,808
+Angus,2019,Female,66,827
+Angus,2019,Female,67,751
+Angus,2019,Female,68,776
+Angus,2019,Female,69,757
+Angus,2019,Female,70,848
+Angus,2019,Female,71,875
+Angus,2019,Female,72,983
+Angus,2019,Female,73,647
+Angus,2019,Female,74,665
+Angus,2019,Female,75,650
+Angus,2019,Female,76,614
+Angus,2019,Female,77,569
+Angus,2019,Female,78,487
+Angus,2019,Female,79,515
+Angus,2019,Female,80,461
+Angus,2019,Female,81,474
+Angus,2019,Female,82,430
+Angus,2019,Female,83,383
+Angus,2019,Female,84,382
+Angus,2019,Female,85,336
+Angus,2019,Female,86,285
+Angus,2019,Female,87,286
+Angus,2019,Female,88,246
+Angus,2019,Female,89,196
+Angus,2019,Female,90,912
+Angus,2019,Male,0,541
+Angus,2019,Male,1,535
+Angus,2019,Male,2,563
+Angus,2019,Male,3,578
+Angus,2019,Male,4,642
+Angus,2019,Male,5,652
+Angus,2019,Male,6,610
+Angus,2019,Male,7,620
+Angus,2019,Male,8,620
+Angus,2019,Male,9,602
+Angus,2019,Male,10,655
+Angus,2019,Male,11,667
+Angus,2019,Male,12,614
+Angus,2019,Male,13,622
+Angus,2019,Male,14,649
+Angus,2019,Male,15,652
+Angus,2019,Male,16,621
+Angus,2019,Male,17,618
+Angus,2019,Male,18,672
+Angus,2019,Male,19,666
+Angus,2019,Male,20,594
+Angus,2019,Male,21,628
+Angus,2019,Male,22,670
+Angus,2019,Male,23,631
+Angus,2019,Male,24,608
+Angus,2019,Male,25,684
+Angus,2019,Male,26,613
+Angus,2019,Male,27,598
+Angus,2019,Male,28,629
+Angus,2019,Male,29,584
+Angus,2019,Male,30,582
+Angus,2019,Male,31,601
+Angus,2019,Male,32,550
+Angus,2019,Male,33,613
+Angus,2019,Male,34,600
+Angus,2019,Male,35,579
+Angus,2019,Male,36,671
+Angus,2019,Male,37,686
+Angus,2019,Male,38,602
+Angus,2019,Male,39,644
+Angus,2019,Male,40,682
+Angus,2019,Male,41,581
+Angus,2019,Male,42,554
+Angus,2019,Male,43,624
+Angus,2019,Male,44,612
+Angus,2019,Male,45,642
+Angus,2019,Male,46,771
+Angus,2019,Male,47,758
+Angus,2019,Male,48,733
+Angus,2019,Male,49,818
+Angus,2019,Male,50,865
+Angus,2019,Male,51,776
+Angus,2019,Male,52,866
+Angus,2019,Male,53,883
+Angus,2019,Male,54,882
+Angus,2019,Male,55,922
+Angus,2019,Male,56,911
+Angus,2019,Male,57,955
+Angus,2019,Male,58,787
+Angus,2019,Male,59,864
+Angus,2019,Male,60,830
+Angus,2019,Male,61,774
+Angus,2019,Male,62,772
+Angus,2019,Male,63,752
+Angus,2019,Male,64,717
+Angus,2019,Male,65,726
+Angus,2019,Male,66,769
+Angus,2019,Male,67,678
+Angus,2019,Male,68,743
+Angus,2019,Male,69,803
+Angus,2019,Male,70,746
+Angus,2019,Male,71,811
+Angus,2019,Male,72,829
+Angus,2019,Male,73,607
+Angus,2019,Male,74,590
+Angus,2019,Male,75,595
+Angus,2019,Male,76,533
+Angus,2019,Male,77,445
+Angus,2019,Male,78,437
+Angus,2019,Male,79,450
+Angus,2019,Male,80,368
+Angus,2019,Male,81,352
+Angus,2019,Male,82,344
+Angus,2019,Male,83,297
+Angus,2019,Male,84,244
+Angus,2019,Male,85,228
+Angus,2019,Male,86,179
+Angus,2019,Male,87,190
+Angus,2019,Male,88,174
+Angus,2019,Male,89,137
+Angus,2019,Male,90,352
+Argyll and Bute,2019,Female,0,318
+Argyll and Bute,2019,Female,1,277
+Argyll and Bute,2019,Female,2,330
+Argyll and Bute,2019,Female,3,353
+Argyll and Bute,2019,Female,4,389
+Argyll and Bute,2019,Female,5,393
+Argyll and Bute,2019,Female,6,364
+Argyll and Bute,2019,Female,7,454
+Argyll and Bute,2019,Female,8,408
+Argyll and Bute,2019,Female,9,439
+Argyll and Bute,2019,Female,10,452
+Argyll and Bute,2019,Female,11,425
+Argyll and Bute,2019,Female,12,414
+Argyll and Bute,2019,Female,13,418
+Argyll and Bute,2019,Female,14,424
+Argyll and Bute,2019,Female,15,433
+Argyll and Bute,2019,Female,16,405
+Argyll and Bute,2019,Female,17,407
+Argyll and Bute,2019,Female,18,422
+Argyll and Bute,2019,Female,19,372
+Argyll and Bute,2019,Female,20,372
+Argyll and Bute,2019,Female,21,349
+Argyll and Bute,2019,Female,22,364
+Argyll and Bute,2019,Female,23,419
+Argyll and Bute,2019,Female,24,368
+Argyll and Bute,2019,Female,25,371
+Argyll and Bute,2019,Female,26,344
+Argyll and Bute,2019,Female,27,329
+Argyll and Bute,2019,Female,28,327
+Argyll and Bute,2019,Female,29,399
+Argyll and Bute,2019,Female,30,394
+Argyll and Bute,2019,Female,31,343
+Argyll and Bute,2019,Female,32,381
+Argyll and Bute,2019,Female,33,369
+Argyll and Bute,2019,Female,34,429
+Argyll and Bute,2019,Female,35,388
+Argyll and Bute,2019,Female,36,432
+Argyll and Bute,2019,Female,37,393
+Argyll and Bute,2019,Female,38,466
+Argyll and Bute,2019,Female,39,418
+Argyll and Bute,2019,Female,40,424
+Argyll and Bute,2019,Female,41,393
+Argyll and Bute,2019,Female,42,444
+Argyll and Bute,2019,Female,43,450
+Argyll and Bute,2019,Female,44,509
+Argyll and Bute,2019,Female,45,474
+Argyll and Bute,2019,Female,46,545
+Argyll and Bute,2019,Female,47,617
+Argyll and Bute,2019,Female,48,607
+Argyll and Bute,2019,Female,49,675
+Argyll and Bute,2019,Female,50,620
+Argyll and Bute,2019,Female,51,641
+Argyll and Bute,2019,Female,52,674
+Argyll and Bute,2019,Female,53,706
+Argyll and Bute,2019,Female,54,801
+Argyll and Bute,2019,Female,55,733
+Argyll and Bute,2019,Female,56,756
+Argyll and Bute,2019,Female,57,719
+Argyll and Bute,2019,Female,58,695
+Argyll and Bute,2019,Female,59,724
+Argyll and Bute,2019,Female,60,696
+Argyll and Bute,2019,Female,61,689
+Argyll and Bute,2019,Female,62,683
+Argyll and Bute,2019,Female,63,678
+Argyll and Bute,2019,Female,64,611
+Argyll and Bute,2019,Female,65,603
+Argyll and Bute,2019,Female,66,632
+Argyll and Bute,2019,Female,67,635
+Argyll and Bute,2019,Female,68,650
+Argyll and Bute,2019,Female,69,641
+Argyll and Bute,2019,Female,70,636
+Argyll and Bute,2019,Female,71,682
+Argyll and Bute,2019,Female,72,768
+Argyll and Bute,2019,Female,73,560
+Argyll and Bute,2019,Female,74,543
+Argyll and Bute,2019,Female,75,527
+Argyll and Bute,2019,Female,76,466
+Argyll and Bute,2019,Female,77,446
+Argyll and Bute,2019,Female,78,434
+Argyll and Bute,2019,Female,79,413
+Argyll and Bute,2019,Female,80,406
+Argyll and Bute,2019,Female,81,340
+Argyll and Bute,2019,Female,82,374
+Argyll and Bute,2019,Female,83,315
+Argyll and Bute,2019,Female,84,318
+Argyll and Bute,2019,Female,85,253
+Argyll and Bute,2019,Female,86,217
+Argyll and Bute,2019,Female,87,222
+Argyll and Bute,2019,Female,88,203
+Argyll and Bute,2019,Female,89,147
+Argyll and Bute,2019,Female,90,576
+Argyll and Bute,2019,Male,0,334
+Argyll and Bute,2019,Male,1,364
+Argyll and Bute,2019,Male,2,385
+Argyll and Bute,2019,Male,3,365
+Argyll and Bute,2019,Male,4,372
+Argyll and Bute,2019,Male,5,387
+Argyll and Bute,2019,Male,6,414
+Argyll and Bute,2019,Male,7,403
+Argyll and Bute,2019,Male,8,447
+Argyll and Bute,2019,Male,9,431
+Argyll and Bute,2019,Male,10,455
+Argyll and Bute,2019,Male,11,469
+Argyll and Bute,2019,Male,12,416
+Argyll and Bute,2019,Male,13,452
+Argyll and Bute,2019,Male,14,454
+Argyll and Bute,2019,Male,15,467
+Argyll and Bute,2019,Male,16,416
+Argyll and Bute,2019,Male,17,432
+Argyll and Bute,2019,Male,18,450
+Argyll and Bute,2019,Male,19,529
+Argyll and Bute,2019,Male,20,587
+Argyll and Bute,2019,Male,21,614
+Argyll and Bute,2019,Male,22,608
+Argyll and Bute,2019,Male,23,526
+Argyll and Bute,2019,Male,24,541
+Argyll and Bute,2019,Male,25,555
+Argyll and Bute,2019,Male,26,511
+Argyll and Bute,2019,Male,27,473
+Argyll and Bute,2019,Male,28,479
+Argyll and Bute,2019,Male,29,337
+Argyll and Bute,2019,Male,30,410
+Argyll and Bute,2019,Male,31,387
+Argyll and Bute,2019,Male,32,358
+Argyll and Bute,2019,Male,33,377
+Argyll and Bute,2019,Male,34,395
+Argyll and Bute,2019,Male,35,423
+Argyll and Bute,2019,Male,36,386
+Argyll and Bute,2019,Male,37,426
+Argyll and Bute,2019,Male,38,456
+Argyll and Bute,2019,Male,39,499
+Argyll and Bute,2019,Male,40,441
+Argyll and Bute,2019,Male,41,467
+Argyll and Bute,2019,Male,42,464
+Argyll and Bute,2019,Male,43,422
+Argyll and Bute,2019,Male,44,436
+Argyll and Bute,2019,Male,45,461
+Argyll and Bute,2019,Male,46,517
+Argyll and Bute,2019,Male,47,527
+Argyll and Bute,2019,Male,48,529
+Argyll and Bute,2019,Male,49,538
+Argyll and Bute,2019,Male,50,611
+Argyll and Bute,2019,Male,51,666
+Argyll and Bute,2019,Male,52,708
+Argyll and Bute,2019,Male,53,648
+Argyll and Bute,2019,Male,54,636
+Argyll and Bute,2019,Male,55,662
+Argyll and Bute,2019,Male,56,735
+Argyll and Bute,2019,Male,57,681
+Argyll and Bute,2019,Male,58,725
+Argyll and Bute,2019,Male,59,666
+Argyll and Bute,2019,Male,60,643
+Argyll and Bute,2019,Male,61,638
+Argyll and Bute,2019,Male,62,634
+Argyll and Bute,2019,Male,63,663
+Argyll and Bute,2019,Male,64,636
+Argyll and Bute,2019,Male,65,619
+Argyll and Bute,2019,Male,66,582
+Argyll and Bute,2019,Male,67,593
+Argyll and Bute,2019,Male,68,639
+Argyll and Bute,2019,Male,69,589
+Argyll and Bute,2019,Male,70,675
+Argyll and Bute,2019,Male,71,615
+Argyll and Bute,2019,Male,72,658
+Argyll and Bute,2019,Male,73,503
+Argyll and Bute,2019,Male,74,476
+Argyll and Bute,2019,Male,75,490
+Argyll and Bute,2019,Male,76,446
+Argyll and Bute,2019,Male,77,390
+Argyll and Bute,2019,Male,78,342
+Argyll and Bute,2019,Male,79,368
+Argyll and Bute,2019,Male,80,306
+Argyll and Bute,2019,Male,81,315
+Argyll and Bute,2019,Male,82,234
+Argyll and Bute,2019,Male,83,220
+Argyll and Bute,2019,Male,84,219
+Argyll and Bute,2019,Male,85,166
+Argyll and Bute,2019,Male,86,156
+Argyll and Bute,2019,Male,87,143
+Argyll and Bute,2019,Male,88,113
+Argyll and Bute,2019,Male,89,99
+Argyll and Bute,2019,Male,90,247
+City of Edinburgh,2019,Female,0,2246
+City of Edinburgh,2019,Female,1,2408
+City of Edinburgh,2019,Female,2,2391
+City of Edinburgh,2019,Female,3,2387
+City of Edinburgh,2019,Female,4,2441
+City of Edinburgh,2019,Female,5,2542
+City of Edinburgh,2019,Female,6,2518
+City of Edinburgh,2019,Female,7,2545
+City of Edinburgh,2019,Female,8,2769
+City of Edinburgh,2019,Female,9,2512
+City of Edinburgh,2019,Female,10,2620
+City of Edinburgh,2019,Female,11,2522
+City of Edinburgh,2019,Female,12,2317
+City of Edinburgh,2019,Female,13,2253
+City of Edinburgh,2019,Female,14,2028
+City of Edinburgh,2019,Female,15,1980
+City of Edinburgh,2019,Female,16,1961
+City of Edinburgh,2019,Female,17,2052
+City of Edinburgh,2019,Female,18,2395
+City of Edinburgh,2019,Female,19,3614
+City of Edinburgh,2019,Female,20,4241
+City of Edinburgh,2019,Female,21,4577
+City of Edinburgh,2019,Female,22,4864
+City of Edinburgh,2019,Female,23,5127
+City of Edinburgh,2019,Female,24,5027
+City of Edinburgh,2019,Female,25,5276
+City of Edinburgh,2019,Female,26,5369
+City of Edinburgh,2019,Female,27,5948
+City of Edinburgh,2019,Female,28,6210
+City of Edinburgh,2019,Female,29,5819
+City of Edinburgh,2019,Female,30,5759
+City of Edinburgh,2019,Female,31,5385
+City of Edinburgh,2019,Female,32,4914
+City of Edinburgh,2019,Female,33,4666
+City of Edinburgh,2019,Female,34,4585
+City of Edinburgh,2019,Female,35,4384
+City of Edinburgh,2019,Female,36,4200
+City of Edinburgh,2019,Female,37,4307
+City of Edinburgh,2019,Female,38,3851
+City of Edinburgh,2019,Female,39,3848
+City of Edinburgh,2019,Female,40,3586
+City of Edinburgh,2019,Female,41,3351
+City of Edinburgh,2019,Female,42,3282
+City of Edinburgh,2019,Female,43,3190
+City of Edinburgh,2019,Female,44,3194
+City of Edinburgh,2019,Female,45,3152
+City of Edinburgh,2019,Female,46,3109
+City of Edinburgh,2019,Female,47,3295
+City of Edinburgh,2019,Female,48,3336
+City of Edinburgh,2019,Female,49,3042
+City of Edinburgh,2019,Female,50,3153
+City of Edinburgh,2019,Female,51,3231
+City of Edinburgh,2019,Female,52,3206
+City of Edinburgh,2019,Female,53,3133
+City of Edinburgh,2019,Female,54,3169
+City of Edinburgh,2019,Female,55,3236
+City of Edinburgh,2019,Female,56,3196
+City of Edinburgh,2019,Female,57,3036
+City of Edinburgh,2019,Female,58,3025
+City of Edinburgh,2019,Female,59,2984
+City of Edinburgh,2019,Female,60,2891
+City of Edinburgh,2019,Female,61,2837
+City of Edinburgh,2019,Female,62,2766
+City of Edinburgh,2019,Female,63,2524
+City of Edinburgh,2019,Female,64,2401
+City of Edinburgh,2019,Female,65,2398
+City of Edinburgh,2019,Female,66,2348
+City of Edinburgh,2019,Female,67,2294
+City of Edinburgh,2019,Female,68,2268
+City of Edinburgh,2019,Female,69,2344
+City of Edinburgh,2019,Female,70,2285
+City of Edinburgh,2019,Female,71,2320
+City of Edinburgh,2019,Female,72,2581
+City of Edinburgh,2019,Female,73,1925
+City of Edinburgh,2019,Female,74,1755
+City of Edinburgh,2019,Female,75,1708
+City of Edinburgh,2019,Female,76,1675
+City of Edinburgh,2019,Female,77,1566
+City of Edinburgh,2019,Female,78,1456
+City of Edinburgh,2019,Female,79,1445
+City of Edinburgh,2019,Female,80,1413
+City of Edinburgh,2019,Female,81,1464
+City of Edinburgh,2019,Female,82,1292
+City of Edinburgh,2019,Female,83,1278
+City of Edinburgh,2019,Female,84,1146
+City of Edinburgh,2019,Female,85,1041
+City of Edinburgh,2019,Female,86,969
+City of Edinburgh,2019,Female,87,926
+City of Edinburgh,2019,Female,88,890
+City of Edinburgh,2019,Female,89,745
+City of Edinburgh,2019,Female,90,2912
+City of Edinburgh,2019,Male,0,2444
+City of Edinburgh,2019,Male,1,2496
+City of Edinburgh,2019,Male,2,2468
+City of Edinburgh,2019,Male,3,2645
+City of Edinburgh,2019,Male,4,2648
+City of Edinburgh,2019,Male,5,2671
+City of Edinburgh,2019,Male,6,2779
+City of Edinburgh,2019,Male,7,2643
+City of Edinburgh,2019,Male,8,2815
+City of Edinburgh,2019,Male,9,2516
+City of Edinburgh,2019,Male,10,2626
+City of Edinburgh,2019,Male,11,2588
+City of Edinburgh,2019,Male,12,2437
+City of Edinburgh,2019,Male,13,2299
+City of Edinburgh,2019,Male,14,2312
+City of Edinburgh,2019,Male,15,2201
+City of Edinburgh,2019,Male,16,2169
+City of Edinburgh,2019,Male,17,2232
+City of Edinburgh,2019,Male,18,2377
+City of Edinburgh,2019,Male,19,3253
+City of Edinburgh,2019,Male,20,3748
+City of Edinburgh,2019,Male,21,4096
+City of Edinburgh,2019,Male,22,4347
+City of Edinburgh,2019,Male,23,4446
+City of Edinburgh,2019,Male,24,4438
+City of Edinburgh,2019,Male,25,4500
+City of Edinburgh,2019,Male,26,4970
+City of Edinburgh,2019,Male,27,5298
+City of Edinburgh,2019,Male,28,5802
+City of Edinburgh,2019,Male,29,5559
+City of Edinburgh,2019,Male,30,5580
+City of Edinburgh,2019,Male,31,5279
+City of Edinburgh,2019,Male,32,4935
+City of Edinburgh,2019,Male,33,4760
+City of Edinburgh,2019,Male,34,4675
+City of Edinburgh,2019,Male,35,4324
+City of Edinburgh,2019,Male,36,4448
+City of Edinburgh,2019,Male,37,4067
+City of Edinburgh,2019,Male,38,3952
+City of Edinburgh,2019,Male,39,3959
+City of Edinburgh,2019,Male,40,3871
+City of Edinburgh,2019,Male,41,3413
+City of Edinburgh,2019,Male,42,3376
+City of Edinburgh,2019,Male,43,3298
+City of Edinburgh,2019,Male,44,3289
+City of Edinburgh,2019,Male,45,3255
+City of Edinburgh,2019,Male,46,3281
+City of Edinburgh,2019,Male,47,3350
+City of Edinburgh,2019,Male,48,3298
+City of Edinburgh,2019,Male,49,3080
+City of Edinburgh,2019,Male,50,3154
+City of Edinburgh,2019,Male,51,3209
+City of Edinburgh,2019,Male,52,3268
+City of Edinburgh,2019,Male,53,3183
+City of Edinburgh,2019,Male,54,3299
+City of Edinburgh,2019,Male,55,3124
+City of Edinburgh,2019,Male,56,3255
+City of Edinburgh,2019,Male,57,3007
+City of Edinburgh,2019,Male,58,2987
+City of Edinburgh,2019,Male,59,2776
+City of Edinburgh,2019,Male,60,2703
+City of Edinburgh,2019,Male,61,2665
+City of Edinburgh,2019,Male,62,2578
+City of Edinburgh,2019,Male,63,2541
+City of Edinburgh,2019,Male,64,2330
+City of Edinburgh,2019,Male,65,2334
+City of Edinburgh,2019,Male,66,2226
+City of Edinburgh,2019,Male,67,2189
+City of Edinburgh,2019,Male,68,2053
+City of Edinburgh,2019,Male,69,2047
+City of Edinburgh,2019,Male,70,2117
+City of Edinburgh,2019,Male,71,2051
+City of Edinburgh,2019,Male,72,2291
+City of Edinburgh,2019,Male,73,1555
+City of Edinburgh,2019,Male,74,1501
+City of Edinburgh,2019,Male,75,1445
+City of Edinburgh,2019,Male,76,1321
+City of Edinburgh,2019,Male,77,1154
+City of Edinburgh,2019,Male,78,1047
+City of Edinburgh,2019,Male,79,1087
+City of Edinburgh,2019,Male,80,1030
+City of Edinburgh,2019,Male,81,960
+City of Edinburgh,2019,Male,82,894
+City of Edinburgh,2019,Male,83,860
+City of Edinburgh,2019,Male,84,801
+City of Edinburgh,2019,Male,85,706
+City of Edinburgh,2019,Male,86,607
+City of Edinburgh,2019,Male,87,525
+City of Edinburgh,2019,Male,88,512
+City of Edinburgh,2019,Male,89,312
+City of Edinburgh,2019,Male,90,1286
+Clackmannanshire,2019,Female,0,195
+Clackmannanshire,2019,Female,1,251
+Clackmannanshire,2019,Female,2,288
+Clackmannanshire,2019,Female,3,250
+Clackmannanshire,2019,Female,4,261
+Clackmannanshire,2019,Female,5,241
+Clackmannanshire,2019,Female,6,284
+Clackmannanshire,2019,Female,7,306
+Clackmannanshire,2019,Female,8,289
+Clackmannanshire,2019,Female,9,300
+Clackmannanshire,2019,Female,10,266
+Clackmannanshire,2019,Female,11,302
+Clackmannanshire,2019,Female,12,294
+Clackmannanshire,2019,Female,13,272
+Clackmannanshire,2019,Female,14,277
+Clackmannanshire,2019,Female,15,271
+Clackmannanshire,2019,Female,16,251
+Clackmannanshire,2019,Female,17,246
+Clackmannanshire,2019,Female,18,298
+Clackmannanshire,2019,Female,19,260
+Clackmannanshire,2019,Female,20,259
+Clackmannanshire,2019,Female,21,259
+Clackmannanshire,2019,Female,22,281
+Clackmannanshire,2019,Female,23,272
+Clackmannanshire,2019,Female,24,303
+Clackmannanshire,2019,Female,25,275
+Clackmannanshire,2019,Female,26,290
+Clackmannanshire,2019,Female,27,302
+Clackmannanshire,2019,Female,28,284
+Clackmannanshire,2019,Female,29,302
+Clackmannanshire,2019,Female,30,257
+Clackmannanshire,2019,Female,31,307
+Clackmannanshire,2019,Female,32,280
+Clackmannanshire,2019,Female,33,292
+Clackmannanshire,2019,Female,34,326
+Clackmannanshire,2019,Female,35,284
+Clackmannanshire,2019,Female,36,279
+Clackmannanshire,2019,Female,37,320
+Clackmannanshire,2019,Female,38,304
+Clackmannanshire,2019,Female,39,301
+Clackmannanshire,2019,Female,40,317
+Clackmannanshire,2019,Female,41,308
+Clackmannanshire,2019,Female,42,277
+Clackmannanshire,2019,Female,43,315
+Clackmannanshire,2019,Female,44,329
+Clackmannanshire,2019,Female,45,320
+Clackmannanshire,2019,Female,46,390
+Clackmannanshire,2019,Female,47,404
+Clackmannanshire,2019,Female,48,402
+Clackmannanshire,2019,Female,49,386
+Clackmannanshire,2019,Female,50,438
+Clackmannanshire,2019,Female,51,417
+Clackmannanshire,2019,Female,52,460
+Clackmannanshire,2019,Female,53,395
+Clackmannanshire,2019,Female,54,423
+Clackmannanshire,2019,Female,55,429
+Clackmannanshire,2019,Female,56,435
+Clackmannanshire,2019,Female,57,407
+Clackmannanshire,2019,Female,58,375
+Clackmannanshire,2019,Female,59,390
+Clackmannanshire,2019,Female,60,369
+Clackmannanshire,2019,Female,61,362
+Clackmannanshire,2019,Female,62,347
+Clackmannanshire,2019,Female,63,347
+Clackmannanshire,2019,Female,64,334
+Clackmannanshire,2019,Female,65,353
+Clackmannanshire,2019,Female,66,303
+Clackmannanshire,2019,Female,67,280
+Clackmannanshire,2019,Female,68,338
+Clackmannanshire,2019,Female,69,343
+Clackmannanshire,2019,Female,70,328
+Clackmannanshire,2019,Female,71,329
+Clackmannanshire,2019,Female,72,370
+Clackmannanshire,2019,Female,73,244
+Clackmannanshire,2019,Female,74,281
+Clackmannanshire,2019,Female,75,262
+Clackmannanshire,2019,Female,76,258
+Clackmannanshire,2019,Female,77,214
+Clackmannanshire,2019,Female,78,196
+Clackmannanshire,2019,Female,79,164
+Clackmannanshire,2019,Female,80,181
+Clackmannanshire,2019,Female,81,149
+Clackmannanshire,2019,Female,82,159
+Clackmannanshire,2019,Female,83,148
+Clackmannanshire,2019,Female,84,112
+Clackmannanshire,2019,Female,85,83
+Clackmannanshire,2019,Female,86,75
+Clackmannanshire,2019,Female,87,95
+Clackmannanshire,2019,Female,88,60
+Clackmannanshire,2019,Female,89,85
+Clackmannanshire,2019,Female,90,232
+Clackmannanshire,2019,Male,0,235
+Clackmannanshire,2019,Male,1,272
+Clackmannanshire,2019,Male,2,254
+Clackmannanshire,2019,Male,3,297
+Clackmannanshire,2019,Male,4,315
+Clackmannanshire,2019,Male,5,272
+Clackmannanshire,2019,Male,6,318
+Clackmannanshire,2019,Male,7,330
+Clackmannanshire,2019,Male,8,290
+Clackmannanshire,2019,Male,9,242
+Clackmannanshire,2019,Male,10,295
+Clackmannanshire,2019,Male,11,331
+Clackmannanshire,2019,Male,12,296
+Clackmannanshire,2019,Male,13,281
+Clackmannanshire,2019,Male,14,277
+Clackmannanshire,2019,Male,15,294
+Clackmannanshire,2019,Male,16,277
+Clackmannanshire,2019,Male,17,307
+Clackmannanshire,2019,Male,18,262
+Clackmannanshire,2019,Male,19,309
+Clackmannanshire,2019,Male,20,300
+Clackmannanshire,2019,Male,21,283
+Clackmannanshire,2019,Male,22,296
+Clackmannanshire,2019,Male,23,302
+Clackmannanshire,2019,Male,24,332
+Clackmannanshire,2019,Male,25,326
+Clackmannanshire,2019,Male,26,320
+Clackmannanshire,2019,Male,27,288
+Clackmannanshire,2019,Male,28,279
+Clackmannanshire,2019,Male,29,267
+Clackmannanshire,2019,Male,30,241
+Clackmannanshire,2019,Male,31,309
+Clackmannanshire,2019,Male,32,291
+Clackmannanshire,2019,Male,33,308
+Clackmannanshire,2019,Male,34,283
+Clackmannanshire,2019,Male,35,249
+Clackmannanshire,2019,Male,36,299
+Clackmannanshire,2019,Male,37,262
+Clackmannanshire,2019,Male,38,314
+Clackmannanshire,2019,Male,39,326
+Clackmannanshire,2019,Male,40,276
+Clackmannanshire,2019,Male,41,294
+Clackmannanshire,2019,Male,42,272
+Clackmannanshire,2019,Male,43,317
+Clackmannanshire,2019,Male,44,319
+Clackmannanshire,2019,Male,45,289
+Clackmannanshire,2019,Male,46,338
+Clackmannanshire,2019,Male,47,370
+Clackmannanshire,2019,Male,48,392
+Clackmannanshire,2019,Male,49,390
+Clackmannanshire,2019,Male,50,424
+Clackmannanshire,2019,Male,51,403
+Clackmannanshire,2019,Male,52,458
+Clackmannanshire,2019,Male,53,386
+Clackmannanshire,2019,Male,54,372
+Clackmannanshire,2019,Male,55,425
+Clackmannanshire,2019,Male,56,392
+Clackmannanshire,2019,Male,57,392
+Clackmannanshire,2019,Male,58,406
+Clackmannanshire,2019,Male,59,345
+Clackmannanshire,2019,Male,60,391
+Clackmannanshire,2019,Male,61,301
+Clackmannanshire,2019,Male,62,347
+Clackmannanshire,2019,Male,63,294
+Clackmannanshire,2019,Male,64,302
+Clackmannanshire,2019,Male,65,304
+Clackmannanshire,2019,Male,66,321
+Clackmannanshire,2019,Male,67,314
+Clackmannanshire,2019,Male,68,281
+Clackmannanshire,2019,Male,69,319
+Clackmannanshire,2019,Male,70,325
+Clackmannanshire,2019,Male,71,323
+Clackmannanshire,2019,Male,72,312
+Clackmannanshire,2019,Male,73,242
+Clackmannanshire,2019,Male,74,228
+Clackmannanshire,2019,Male,75,218
+Clackmannanshire,2019,Male,76,197
+Clackmannanshire,2019,Male,77,180
+Clackmannanshire,2019,Male,78,160
+Clackmannanshire,2019,Male,79,125
+Clackmannanshire,2019,Male,80,117
+Clackmannanshire,2019,Male,81,142
+Clackmannanshire,2019,Male,82,128
+Clackmannanshire,2019,Male,83,89
+Clackmannanshire,2019,Male,84,98
+Clackmannanshire,2019,Male,85,74
+Clackmannanshire,2019,Male,86,46
+Clackmannanshire,2019,Male,87,58
+Clackmannanshire,2019,Male,88,45
+Clackmannanshire,2019,Male,89,46
+Clackmannanshire,2019,Male,90,127
+Dumfries and Galloway,2019,Female,0,572
+Dumfries and Galloway,2019,Female,1,643
+Dumfries and Galloway,2019,Female,2,621
+Dumfries and Galloway,2019,Female,3,642
+Dumfries and Galloway,2019,Female,4,663
+Dumfries and Galloway,2019,Female,5,642
+Dumfries and Galloway,2019,Female,6,690
+Dumfries and Galloway,2019,Female,7,715
+Dumfries and Galloway,2019,Female,8,797
+Dumfries and Galloway,2019,Female,9,773
+Dumfries and Galloway,2019,Female,10,792
+Dumfries and Galloway,2019,Female,11,813
+Dumfries and Galloway,2019,Female,12,788
+Dumfries and Galloway,2019,Female,13,759
+Dumfries and Galloway,2019,Female,14,778
+Dumfries and Galloway,2019,Female,15,737
+Dumfries and Galloway,2019,Female,16,738
+Dumfries and Galloway,2019,Female,17,664
+Dumfries and Galloway,2019,Female,18,664
+Dumfries and Galloway,2019,Female,19,617
+Dumfries and Galloway,2019,Female,20,611
+Dumfries and Galloway,2019,Female,21,750
+Dumfries and Galloway,2019,Female,22,696
+Dumfries and Galloway,2019,Female,23,694
+Dumfries and Galloway,2019,Female,24,784
+Dumfries and Galloway,2019,Female,25,769
+Dumfries and Galloway,2019,Female,26,760
+Dumfries and Galloway,2019,Female,27,717
+Dumfries and Galloway,2019,Female,28,754
+Dumfries and Galloway,2019,Female,29,750
+Dumfries and Galloway,2019,Female,30,727
+Dumfries and Galloway,2019,Female,31,842
+Dumfries and Galloway,2019,Female,32,782
+Dumfries and Galloway,2019,Female,33,716
+Dumfries and Galloway,2019,Female,34,741
+Dumfries and Galloway,2019,Female,35,802
+Dumfries and Galloway,2019,Female,36,758
+Dumfries and Galloway,2019,Female,37,830
+Dumfries and Galloway,2019,Female,38,769
+Dumfries and Galloway,2019,Female,39,766
+Dumfries and Galloway,2019,Female,40,764
+Dumfries and Galloway,2019,Female,41,731
+Dumfries and Galloway,2019,Female,42,669
+Dumfries and Galloway,2019,Female,43,770
+Dumfries and Galloway,2019,Female,44,833
+Dumfries and Galloway,2019,Female,45,849
+Dumfries and Galloway,2019,Female,46,909
+Dumfries and Galloway,2019,Female,47,967
+Dumfries and Galloway,2019,Female,48,1089
+Dumfries and Galloway,2019,Female,49,1042
+Dumfries and Galloway,2019,Female,50,1207
+Dumfries and Galloway,2019,Female,51,1192
+Dumfries and Galloway,2019,Female,52,1251
+Dumfries and Galloway,2019,Female,53,1156
+Dumfries and Galloway,2019,Female,54,1306
+Dumfries and Galloway,2019,Female,55,1311
+Dumfries and Galloway,2019,Female,56,1309
+Dumfries and Galloway,2019,Female,57,1297
+Dumfries and Galloway,2019,Female,58,1233
+Dumfries and Galloway,2019,Female,59,1184
+Dumfries and Galloway,2019,Female,60,1192
+Dumfries and Galloway,2019,Female,61,1170
+Dumfries and Galloway,2019,Female,62,1109
+Dumfries and Galloway,2019,Female,63,1174
+Dumfries and Galloway,2019,Female,64,1131
+Dumfries and Galloway,2019,Female,65,1096
+Dumfries and Galloway,2019,Female,66,1092
+Dumfries and Galloway,2019,Female,67,1101
+Dumfries and Galloway,2019,Female,68,1049
+Dumfries and Galloway,2019,Female,69,1102
+Dumfries and Galloway,2019,Female,70,1056
+Dumfries and Galloway,2019,Female,71,1105
+Dumfries and Galloway,2019,Female,72,1226
+Dumfries and Galloway,2019,Female,73,928
+Dumfries and Galloway,2019,Female,74,923
+Dumfries and Galloway,2019,Female,75,908
+Dumfries and Galloway,2019,Female,76,912
+Dumfries and Galloway,2019,Female,77,826
+Dumfries and Galloway,2019,Female,78,723
+Dumfries and Galloway,2019,Female,79,697
+Dumfries and Galloway,2019,Female,80,642
+Dumfries and Galloway,2019,Female,81,560
+Dumfries and Galloway,2019,Female,82,594
+Dumfries and Galloway,2019,Female,83,574
+Dumfries and Galloway,2019,Female,84,491
+Dumfries and Galloway,2019,Female,85,468
+Dumfries and Galloway,2019,Female,86,418
+Dumfries and Galloway,2019,Female,87,363
+Dumfries and Galloway,2019,Female,88,314
+Dumfries and Galloway,2019,Female,89,285
+Dumfries and Galloway,2019,Female,90,1001
+Dumfries and Galloway,2019,Male,0,590
+Dumfries and Galloway,2019,Male,1,619
+Dumfries and Galloway,2019,Male,2,662
+Dumfries and Galloway,2019,Male,3,670
+Dumfries and Galloway,2019,Male,4,674
+Dumfries and Galloway,2019,Male,5,735
+Dumfries and Galloway,2019,Male,6,732
+Dumfries and Galloway,2019,Male,7,745
+Dumfries and Galloway,2019,Male,8,790
+Dumfries and Galloway,2019,Male,9,805
+Dumfries and Galloway,2019,Male,10,792
+Dumfries and Galloway,2019,Male,11,785
+Dumfries and Galloway,2019,Male,12,830
+Dumfries and Galloway,2019,Male,13,823
+Dumfries and Galloway,2019,Male,14,806
+Dumfries and Galloway,2019,Male,15,760
+Dumfries and Galloway,2019,Male,16,776
+Dumfries and Galloway,2019,Male,17,747
+Dumfries and Galloway,2019,Male,18,751
+Dumfries and Galloway,2019,Male,19,720
+Dumfries and Galloway,2019,Male,20,774
+Dumfries and Galloway,2019,Male,21,805
+Dumfries and Galloway,2019,Male,22,725
+Dumfries and Galloway,2019,Male,23,803
+Dumfries and Galloway,2019,Male,24,850
+Dumfries and Galloway,2019,Male,25,791
+Dumfries and Galloway,2019,Male,26,734
+Dumfries and Galloway,2019,Male,27,720
+Dumfries and Galloway,2019,Male,28,727
+Dumfries and Galloway,2019,Male,29,714
+Dumfries and Galloway,2019,Male,30,724
+Dumfries and Galloway,2019,Male,31,736
+Dumfries and Galloway,2019,Male,32,726
+Dumfries and Galloway,2019,Male,33,729
+Dumfries and Galloway,2019,Male,34,762
+Dumfries and Galloway,2019,Male,35,707
+Dumfries and Galloway,2019,Male,36,668
+Dumfries and Galloway,2019,Male,37,706
+Dumfries and Galloway,2019,Male,38,696
+Dumfries and Galloway,2019,Male,39,706
+Dumfries and Galloway,2019,Male,40,647
+Dumfries and Galloway,2019,Male,41,643
+Dumfries and Galloway,2019,Male,42,623
+Dumfries and Galloway,2019,Male,43,727
+Dumfries and Galloway,2019,Male,44,688
+Dumfries and Galloway,2019,Male,45,774
+Dumfries and Galloway,2019,Male,46,792
+Dumfries and Galloway,2019,Male,47,944
+Dumfries and Galloway,2019,Male,48,961
+Dumfries and Galloway,2019,Male,49,1018
+Dumfries and Galloway,2019,Male,50,1027
+Dumfries and Galloway,2019,Male,51,1027
+Dumfries and Galloway,2019,Male,52,1084
+Dumfries and Galloway,2019,Male,53,1170
+Dumfries and Galloway,2019,Male,54,1239
+Dumfries and Galloway,2019,Male,55,1215
+Dumfries and Galloway,2019,Male,56,1212
+Dumfries and Galloway,2019,Male,57,1163
+Dumfries and Galloway,2019,Male,58,1188
+Dumfries and Galloway,2019,Male,59,1140
+Dumfries and Galloway,2019,Male,60,1134
+Dumfries and Galloway,2019,Male,61,1126
+Dumfries and Galloway,2019,Male,62,1076
+Dumfries and Galloway,2019,Male,63,1023
+Dumfries and Galloway,2019,Male,64,1063
+Dumfries and Galloway,2019,Male,65,1088
+Dumfries and Galloway,2019,Male,66,1047
+Dumfries and Galloway,2019,Male,67,1050
+Dumfries and Galloway,2019,Male,68,1054
+Dumfries and Galloway,2019,Male,69,1073
+Dumfries and Galloway,2019,Male,70,1126
+Dumfries and Galloway,2019,Male,71,1103
+Dumfries and Galloway,2019,Male,72,1145
+Dumfries and Galloway,2019,Male,73,877
+Dumfries and Galloway,2019,Male,74,802
+Dumfries and Galloway,2019,Male,75,835
+Dumfries and Galloway,2019,Male,76,758
+Dumfries and Galloway,2019,Male,77,687
+Dumfries and Galloway,2019,Male,78,657
+Dumfries and Galloway,2019,Male,79,622
+Dumfries and Galloway,2019,Male,80,542
+Dumfries and Galloway,2019,Male,81,550
+Dumfries and Galloway,2019,Male,82,503
+Dumfries and Galloway,2019,Male,83,459
+Dumfries and Galloway,2019,Male,84,355
+Dumfries and Galloway,2019,Male,85,332
+Dumfries and Galloway,2019,Male,86,314
+Dumfries and Galloway,2019,Male,87,250
+Dumfries and Galloway,2019,Male,88,203
+Dumfries and Galloway,2019,Male,89,173
+Dumfries and Galloway,2019,Male,90,511
+Dundee City,2019,Female,0,670
+Dundee City,2019,Female,1,715
+Dundee City,2019,Female,2,734
+Dundee City,2019,Female,3,699
+Dundee City,2019,Female,4,778
+Dundee City,2019,Female,5,721
+Dundee City,2019,Female,6,788
+Dundee City,2019,Female,7,839
+Dundee City,2019,Female,8,767
+Dundee City,2019,Female,9,711
+Dundee City,2019,Female,10,749
+Dundee City,2019,Female,11,779
+Dundee City,2019,Female,12,713
+Dundee City,2019,Female,13,679
+Dundee City,2019,Female,14,710
+Dundee City,2019,Female,15,650
+Dundee City,2019,Female,16,643
+Dundee City,2019,Female,17,659
+Dundee City,2019,Female,18,949
+Dundee City,2019,Female,19,1443
+Dundee City,2019,Female,20,1550
+Dundee City,2019,Female,21,1619
+Dundee City,2019,Female,22,1539
+Dundee City,2019,Female,23,1367
+Dundee City,2019,Female,24,1251
+Dundee City,2019,Female,25,1151
+Dundee City,2019,Female,26,1286
+Dundee City,2019,Female,27,1481
+Dundee City,2019,Female,28,1475
+Dundee City,2019,Female,29,1432
+Dundee City,2019,Female,30,1219
+Dundee City,2019,Female,31,1222
+Dundee City,2019,Female,32,1159
+Dundee City,2019,Female,33,1033
+Dundee City,2019,Female,34,1083
+Dundee City,2019,Female,35,1056
+Dundee City,2019,Female,36,953
+Dundee City,2019,Female,37,1026
+Dundee City,2019,Female,38,992
+Dundee City,2019,Female,39,859
+Dundee City,2019,Female,40,862
+Dundee City,2019,Female,41,758
+Dundee City,2019,Female,42,765
+Dundee City,2019,Female,43,785
+Dundee City,2019,Female,44,761
+Dundee City,2019,Female,45,737
+Dundee City,2019,Female,46,797
+Dundee City,2019,Female,47,846
+Dundee City,2019,Female,48,890
+Dundee City,2019,Female,49,877
+Dundee City,2019,Female,50,910
+Dundee City,2019,Female,51,941
+Dundee City,2019,Female,52,912
+Dundee City,2019,Female,53,974
+Dundee City,2019,Female,54,1075
+Dundee City,2019,Female,55,980
+Dundee City,2019,Female,56,1048
+Dundee City,2019,Female,57,1037
+Dundee City,2019,Female,58,1064
+Dundee City,2019,Female,59,1002
+Dundee City,2019,Female,60,916
+Dundee City,2019,Female,61,947
+Dundee City,2019,Female,62,921
+Dundee City,2019,Female,63,808
+Dundee City,2019,Female,64,774
+Dundee City,2019,Female,65,711
+Dundee City,2019,Female,66,787
+Dundee City,2019,Female,67,695
+Dundee City,2019,Female,68,691
+Dundee City,2019,Female,69,757
+Dundee City,2019,Female,70,740
+Dundee City,2019,Female,71,812
+Dundee City,2019,Female,72,888
+Dundee City,2019,Female,73,630
+Dundee City,2019,Female,74,608
+Dundee City,2019,Female,75,562
+Dundee City,2019,Female,76,537
+Dundee City,2019,Female,77,552
+Dundee City,2019,Female,78,503
+Dundee City,2019,Female,79,477
+Dundee City,2019,Female,80,495
+Dundee City,2019,Female,81,522
+Dundee City,2019,Female,82,432
+Dundee City,2019,Female,83,418
+Dundee City,2019,Female,84,411
+Dundee City,2019,Female,85,428
+Dundee City,2019,Female,86,320
+Dundee City,2019,Female,87,297
+Dundee City,2019,Female,88,262
+Dundee City,2019,Female,89,242
+Dundee City,2019,Female,90,879
+Dundee City,2019,Male,0,747
+Dundee City,2019,Male,1,738
+Dundee City,2019,Male,2,776
+Dundee City,2019,Male,3,782
+Dundee City,2019,Male,4,772
+Dundee City,2019,Male,5,738
+Dundee City,2019,Male,6,849
+Dundee City,2019,Male,7,859
+Dundee City,2019,Male,8,854
+Dundee City,2019,Male,9,759
+Dundee City,2019,Male,10,829
+Dundee City,2019,Male,11,738
+Dundee City,2019,Male,12,736
+Dundee City,2019,Male,13,703
+Dundee City,2019,Male,14,744
+Dundee City,2019,Male,15,718
+Dundee City,2019,Male,16,712
+Dundee City,2019,Male,17,705
+Dundee City,2019,Male,18,850
+Dundee City,2019,Male,19,1113
+Dundee City,2019,Male,20,1190
+Dundee City,2019,Male,21,1320
+Dundee City,2019,Male,22,1378
+Dundee City,2019,Male,23,1354
+Dundee City,2019,Male,24,1239
+Dundee City,2019,Male,25,1294
+Dundee City,2019,Male,26,1334
+Dundee City,2019,Male,27,1565
+Dundee City,2019,Male,28,1504
+Dundee City,2019,Male,29,1451
+Dundee City,2019,Male,30,1359
+Dundee City,2019,Male,31,1253
+Dundee City,2019,Male,32,1240
+Dundee City,2019,Male,33,1064
+Dundee City,2019,Male,34,1130
+Dundee City,2019,Male,35,997
+Dundee City,2019,Male,36,931
+Dundee City,2019,Male,37,949
+Dundee City,2019,Male,38,883
+Dundee City,2019,Male,39,802
+Dundee City,2019,Male,40,742
+Dundee City,2019,Male,41,722
+Dundee City,2019,Male,42,723
+Dundee City,2019,Male,43,750
+Dundee City,2019,Male,44,677
+Dundee City,2019,Male,45,654
+Dundee City,2019,Male,46,720
+Dundee City,2019,Male,47,778
+Dundee City,2019,Male,48,912
+Dundee City,2019,Male,49,838
+Dundee City,2019,Male,50,903
+Dundee City,2019,Male,51,895
+Dundee City,2019,Male,52,864
+Dundee City,2019,Male,53,918
+Dundee City,2019,Male,54,922
+Dundee City,2019,Male,55,913
+Dundee City,2019,Male,56,954
+Dundee City,2019,Male,57,911
+Dundee City,2019,Male,58,894
+Dundee City,2019,Male,59,906
+Dundee City,2019,Male,60,880
+Dundee City,2019,Male,61,896
+Dundee City,2019,Male,62,881
+Dundee City,2019,Male,63,763
+Dundee City,2019,Male,64,742
+Dundee City,2019,Male,65,696
+Dundee City,2019,Male,66,671
+Dundee City,2019,Male,67,675
+Dundee City,2019,Male,68,646
+Dundee City,2019,Male,69,629
+Dundee City,2019,Male,70,666
+Dundee City,2019,Male,71,681
+Dundee City,2019,Male,72,786
+Dundee City,2019,Male,73,558
+Dundee City,2019,Male,74,472
+Dundee City,2019,Male,75,498
+Dundee City,2019,Male,76,429
+Dundee City,2019,Male,77,410
+Dundee City,2019,Male,78,359
+Dundee City,2019,Male,79,420
+Dundee City,2019,Male,80,380
+Dundee City,2019,Male,81,340
+Dundee City,2019,Male,82,294
+Dundee City,2019,Male,83,285
+Dundee City,2019,Male,84,256
+Dundee City,2019,Male,85,232
+Dundee City,2019,Male,86,191
+Dundee City,2019,Male,87,181
+Dundee City,2019,Male,88,165
+Dundee City,2019,Male,89,106
+Dundee City,2019,Male,90,385
+East Ayrshire,2019,Female,0,568
+East Ayrshire,2019,Female,1,591
+East Ayrshire,2019,Female,2,586
+East Ayrshire,2019,Female,3,641
+East Ayrshire,2019,Female,4,623
+East Ayrshire,2019,Female,5,616
+East Ayrshire,2019,Female,6,654
+East Ayrshire,2019,Female,7,689
+East Ayrshire,2019,Female,8,699
+East Ayrshire,2019,Female,9,658
+East Ayrshire,2019,Female,10,696
+East Ayrshire,2019,Female,11,653
+East Ayrshire,2019,Female,12,639
+East Ayrshire,2019,Female,13,643
+East Ayrshire,2019,Female,14,635
+East Ayrshire,2019,Female,15,652
+East Ayrshire,2019,Female,16,625
+East Ayrshire,2019,Female,17,663
+East Ayrshire,2019,Female,18,622
+East Ayrshire,2019,Female,19,632
+East Ayrshire,2019,Female,20,629
+East Ayrshire,2019,Female,21,652
+East Ayrshire,2019,Female,22,601
+East Ayrshire,2019,Female,23,673
+East Ayrshire,2019,Female,24,682
+East Ayrshire,2019,Female,25,729
+East Ayrshire,2019,Female,26,717
+East Ayrshire,2019,Female,27,728
+East Ayrshire,2019,Female,28,776
+East Ayrshire,2019,Female,29,733
+East Ayrshire,2019,Female,30,738
+East Ayrshire,2019,Female,31,756
+East Ayrshire,2019,Female,32,787
+East Ayrshire,2019,Female,33,781
+East Ayrshire,2019,Female,34,751
+East Ayrshire,2019,Female,35,738
+East Ayrshire,2019,Female,36,698
+East Ayrshire,2019,Female,37,719
+East Ayrshire,2019,Female,38,766
+East Ayrshire,2019,Female,39,805
+East Ayrshire,2019,Female,40,713
+East Ayrshire,2019,Female,41,672
+East Ayrshire,2019,Female,42,632
+East Ayrshire,2019,Female,43,730
+East Ayrshire,2019,Female,44,763
+East Ayrshire,2019,Female,45,776
+East Ayrshire,2019,Female,46,807
+East Ayrshire,2019,Female,47,920
+East Ayrshire,2019,Female,48,999
+East Ayrshire,2019,Female,49,929
+East Ayrshire,2019,Female,50,986
+East Ayrshire,2019,Female,51,1032
+East Ayrshire,2019,Female,52,1063
+East Ayrshire,2019,Female,53,1013
+East Ayrshire,2019,Female,54,1059
+East Ayrshire,2019,Female,55,989
+East Ayrshire,2019,Female,56,1001
+East Ayrshire,2019,Female,57,936
+East Ayrshire,2019,Female,58,949
+East Ayrshire,2019,Female,59,909
+East Ayrshire,2019,Female,60,865
+East Ayrshire,2019,Female,61,870
+East Ayrshire,2019,Female,62,861
+East Ayrshire,2019,Female,63,804
+East Ayrshire,2019,Female,64,784
+East Ayrshire,2019,Female,65,759
+East Ayrshire,2019,Female,66,792
+East Ayrshire,2019,Female,67,755
+East Ayrshire,2019,Female,68,708
+East Ayrshire,2019,Female,69,734
+East Ayrshire,2019,Female,70,735
+East Ayrshire,2019,Female,71,817
+East Ayrshire,2019,Female,72,872
+East Ayrshire,2019,Female,73,593
+East Ayrshire,2019,Female,74,613
+East Ayrshire,2019,Female,75,577
+East Ayrshire,2019,Female,76,554
+East Ayrshire,2019,Female,77,511
+East Ayrshire,2019,Female,78,458
+East Ayrshire,2019,Female,79,467
+East Ayrshire,2019,Female,80,396
+East Ayrshire,2019,Female,81,394
+East Ayrshire,2019,Female,82,407
+East Ayrshire,2019,Female,83,328
+East Ayrshire,2019,Female,84,303
+East Ayrshire,2019,Female,85,292
+East Ayrshire,2019,Female,86,251
+East Ayrshire,2019,Female,87,229
+East Ayrshire,2019,Female,88,163
+East Ayrshire,2019,Female,89,160
+East Ayrshire,2019,Female,90,647
+East Ayrshire,2019,Male,0,573
+East Ayrshire,2019,Male,1,616
+East Ayrshire,2019,Male,2,633
+East Ayrshire,2019,Male,3,692
+East Ayrshire,2019,Male,4,730
+East Ayrshire,2019,Male,5,640
+East Ayrshire,2019,Male,6,690
+East Ayrshire,2019,Male,7,760
+East Ayrshire,2019,Male,8,735
+East Ayrshire,2019,Male,9,689
+East Ayrshire,2019,Male,10,680
+East Ayrshire,2019,Male,11,710
+East Ayrshire,2019,Male,12,695
+East Ayrshire,2019,Male,13,630
+East Ayrshire,2019,Male,14,653
+East Ayrshire,2019,Male,15,684
+East Ayrshire,2019,Male,16,604
+East Ayrshire,2019,Male,17,614
+East Ayrshire,2019,Male,18,635
+East Ayrshire,2019,Male,19,639
+East Ayrshire,2019,Male,20,611
+East Ayrshire,2019,Male,21,723
+East Ayrshire,2019,Male,22,720
+East Ayrshire,2019,Male,23,702
+East Ayrshire,2019,Male,24,752
+East Ayrshire,2019,Male,25,767
+East Ayrshire,2019,Male,26,714
+East Ayrshire,2019,Male,27,679
+East Ayrshire,2019,Male,28,701
+East Ayrshire,2019,Male,29,726
+East Ayrshire,2019,Male,30,726
+East Ayrshire,2019,Male,31,695
+East Ayrshire,2019,Male,32,715
+East Ayrshire,2019,Male,33,750
+East Ayrshire,2019,Male,34,683
+East Ayrshire,2019,Male,35,643
+East Ayrshire,2019,Male,36,708
+East Ayrshire,2019,Male,37,706
+East Ayrshire,2019,Male,38,688
+East Ayrshire,2019,Male,39,693
+East Ayrshire,2019,Male,40,682
+East Ayrshire,2019,Male,41,620
+East Ayrshire,2019,Male,42,595
+East Ayrshire,2019,Male,43,658
+East Ayrshire,2019,Male,44,708
+East Ayrshire,2019,Male,45,700
+East Ayrshire,2019,Male,46,813
+East Ayrshire,2019,Male,47,822
+East Ayrshire,2019,Male,48,837
+East Ayrshire,2019,Male,49,861
+East Ayrshire,2019,Male,50,916
+East Ayrshire,2019,Male,51,889
+East Ayrshire,2019,Male,52,886
+East Ayrshire,2019,Male,53,929
+East Ayrshire,2019,Male,54,994
+East Ayrshire,2019,Male,55,925
+East Ayrshire,2019,Male,56,892
+East Ayrshire,2019,Male,57,864
+East Ayrshire,2019,Male,58,889
+East Ayrshire,2019,Male,59,847
+East Ayrshire,2019,Male,60,909
+East Ayrshire,2019,Male,61,822
+East Ayrshire,2019,Male,62,801
+East Ayrshire,2019,Male,63,757
+East Ayrshire,2019,Male,64,732
+East Ayrshire,2019,Male,65,752
+East Ayrshire,2019,Male,66,761
+East Ayrshire,2019,Male,67,685
+East Ayrshire,2019,Male,68,697
+East Ayrshire,2019,Male,69,715
+East Ayrshire,2019,Male,70,705
+East Ayrshire,2019,Male,71,685
+East Ayrshire,2019,Male,72,769
+East Ayrshire,2019,Male,73,564
+East Ayrshire,2019,Male,74,552
+East Ayrshire,2019,Male,75,531
+East Ayrshire,2019,Male,76,481
+East Ayrshire,2019,Male,77,369
+East Ayrshire,2019,Male,78,382
+East Ayrshire,2019,Male,79,359
+East Ayrshire,2019,Male,80,376
+East Ayrshire,2019,Male,81,340
+East Ayrshire,2019,Male,82,290
+East Ayrshire,2019,Male,83,236
+East Ayrshire,2019,Male,84,228
+East Ayrshire,2019,Male,85,196
+East Ayrshire,2019,Male,86,166
+East Ayrshire,2019,Male,87,130
+East Ayrshire,2019,Male,88,112
+East Ayrshire,2019,Male,89,82
+East Ayrshire,2019,Male,90,274
+East Dunbartonshire,2019,Female,0,488
+East Dunbartonshire,2019,Female,1,484
+East Dunbartonshire,2019,Female,2,539
+East Dunbartonshire,2019,Female,3,546
+East Dunbartonshire,2019,Female,4,611
+East Dunbartonshire,2019,Female,5,634
+East Dunbartonshire,2019,Female,6,622
+East Dunbartonshire,2019,Female,7,579
+East Dunbartonshire,2019,Female,8,659
+East Dunbartonshire,2019,Female,9,634
+East Dunbartonshire,2019,Female,10,601
+East Dunbartonshire,2019,Female,11,627
+East Dunbartonshire,2019,Female,12,608
+East Dunbartonshire,2019,Female,13,602
+East Dunbartonshire,2019,Female,14,596
+East Dunbartonshire,2019,Female,15,562
+East Dunbartonshire,2019,Female,16,573
+East Dunbartonshire,2019,Female,17,578
+East Dunbartonshire,2019,Female,18,528
+East Dunbartonshire,2019,Female,19,486
+East Dunbartonshire,2019,Female,20,525
+East Dunbartonshire,2019,Female,21,510
+East Dunbartonshire,2019,Female,22,514
+East Dunbartonshire,2019,Female,23,542
+East Dunbartonshire,2019,Female,24,484
+East Dunbartonshire,2019,Female,25,547
+East Dunbartonshire,2019,Female,26,506
+East Dunbartonshire,2019,Female,27,583
+East Dunbartonshire,2019,Female,28,500
+East Dunbartonshire,2019,Female,29,448
+East Dunbartonshire,2019,Female,30,496
+East Dunbartonshire,2019,Female,31,560
+East Dunbartonshire,2019,Female,32,485
+East Dunbartonshire,2019,Female,33,542
+East Dunbartonshire,2019,Female,34,514
+East Dunbartonshire,2019,Female,35,603
+East Dunbartonshire,2019,Female,36,587
+East Dunbartonshire,2019,Female,37,579
+East Dunbartonshire,2019,Female,38,683
+East Dunbartonshire,2019,Female,39,702
+East Dunbartonshire,2019,Female,40,669
+East Dunbartonshire,2019,Female,41,646
+East Dunbartonshire,2019,Female,42,633
+East Dunbartonshire,2019,Female,43,649
+East Dunbartonshire,2019,Female,44,656
+East Dunbartonshire,2019,Female,45,674
+East Dunbartonshire,2019,Female,46,745
+East Dunbartonshire,2019,Female,47,804
+East Dunbartonshire,2019,Female,48,877
+East Dunbartonshire,2019,Female,49,832
+East Dunbartonshire,2019,Female,50,827
+East Dunbartonshire,2019,Female,51,829
+East Dunbartonshire,2019,Female,52,909
+East Dunbartonshire,2019,Female,53,873
+East Dunbartonshire,2019,Female,54,868
+East Dunbartonshire,2019,Female,55,927
+East Dunbartonshire,2019,Female,56,908
+East Dunbartonshire,2019,Female,57,916
+East Dunbartonshire,2019,Female,58,885
+East Dunbartonshire,2019,Female,59,813
+East Dunbartonshire,2019,Female,60,861
+East Dunbartonshire,2019,Female,61,825
+East Dunbartonshire,2019,Female,62,848
+East Dunbartonshire,2019,Female,63,748
+East Dunbartonshire,2019,Female,64,727
+East Dunbartonshire,2019,Female,65,712
+East Dunbartonshire,2019,Female,66,707
+East Dunbartonshire,2019,Female,67,666
+East Dunbartonshire,2019,Female,68,638
+East Dunbartonshire,2019,Female,69,707
+East Dunbartonshire,2019,Female,70,722
+East Dunbartonshire,2019,Female,71,694
+East Dunbartonshire,2019,Female,72,755
+East Dunbartonshire,2019,Female,73,595
+East Dunbartonshire,2019,Female,74,566
+East Dunbartonshire,2019,Female,75,595
+East Dunbartonshire,2019,Female,76,577
+East Dunbartonshire,2019,Female,77,467
+East Dunbartonshire,2019,Female,78,487
+East Dunbartonshire,2019,Female,79,488
+East Dunbartonshire,2019,Female,80,522
+East Dunbartonshire,2019,Female,81,444
+East Dunbartonshire,2019,Female,82,468
+East Dunbartonshire,2019,Female,83,368
+East Dunbartonshire,2019,Female,84,368
+East Dunbartonshire,2019,Female,85,351
+East Dunbartonshire,2019,Female,86,302
+East Dunbartonshire,2019,Female,87,274
+East Dunbartonshire,2019,Female,88,218
+East Dunbartonshire,2019,Female,89,208
+East Dunbartonshire,2019,Female,90,754
+East Dunbartonshire,2019,Male,0,458
+East Dunbartonshire,2019,Male,1,542
+East Dunbartonshire,2019,Male,2,637
+East Dunbartonshire,2019,Male,3,593
+East Dunbartonshire,2019,Male,4,613
+East Dunbartonshire,2019,Male,5,640
+East Dunbartonshire,2019,Male,6,621
+East Dunbartonshire,2019,Male,7,618
+East Dunbartonshire,2019,Male,8,709
+East Dunbartonshire,2019,Male,9,647
+East Dunbartonshire,2019,Male,10,691
+East Dunbartonshire,2019,Male,11,647
+East Dunbartonshire,2019,Male,12,602
+East Dunbartonshire,2019,Male,13,651
+East Dunbartonshire,2019,Male,14,666
+East Dunbartonshire,2019,Male,15,671
+East Dunbartonshire,2019,Male,16,585
+East Dunbartonshire,2019,Male,17,584
+East Dunbartonshire,2019,Male,18,620
+East Dunbartonshire,2019,Male,19,622
+East Dunbartonshire,2019,Male,20,589
+East Dunbartonshire,2019,Male,21,642
+East Dunbartonshire,2019,Male,22,572
+East Dunbartonshire,2019,Male,23,673
+East Dunbartonshire,2019,Male,24,636
+East Dunbartonshire,2019,Male,25,636
+East Dunbartonshire,2019,Male,26,616
+East Dunbartonshire,2019,Male,27,591
+East Dunbartonshire,2019,Male,28,600
+East Dunbartonshire,2019,Male,29,600
+East Dunbartonshire,2019,Male,30,551
+East Dunbartonshire,2019,Male,31,516
+East Dunbartonshire,2019,Male,32,496
+East Dunbartonshire,2019,Male,33,548
+East Dunbartonshire,2019,Male,34,566
+East Dunbartonshire,2019,Male,35,472
+East Dunbartonshire,2019,Male,36,528
+East Dunbartonshire,2019,Male,37,584
+East Dunbartonshire,2019,Male,38,542
+East Dunbartonshire,2019,Male,39,549
+East Dunbartonshire,2019,Male,40,625
+East Dunbartonshire,2019,Male,41,522
+East Dunbartonshire,2019,Male,42,571
+East Dunbartonshire,2019,Male,43,600
+East Dunbartonshire,2019,Male,44,574
+East Dunbartonshire,2019,Male,45,567
+East Dunbartonshire,2019,Male,46,652
+East Dunbartonshire,2019,Male,47,713
+East Dunbartonshire,2019,Male,48,735
+East Dunbartonshire,2019,Male,49,734
+East Dunbartonshire,2019,Male,50,730
+East Dunbartonshire,2019,Male,51,742
+East Dunbartonshire,2019,Male,52,775
+East Dunbartonshire,2019,Male,53,750
+East Dunbartonshire,2019,Male,54,886
+East Dunbartonshire,2019,Male,55,810
+East Dunbartonshire,2019,Male,56,817
+East Dunbartonshire,2019,Male,57,844
+East Dunbartonshire,2019,Male,58,797
+East Dunbartonshire,2019,Male,59,747
+East Dunbartonshire,2019,Male,60,801
+East Dunbartonshire,2019,Male,61,728
+East Dunbartonshire,2019,Male,62,716
+East Dunbartonshire,2019,Male,63,691
+East Dunbartonshire,2019,Male,64,697
+East Dunbartonshire,2019,Male,65,632
+East Dunbartonshire,2019,Male,66,662
+East Dunbartonshire,2019,Male,67,555
+East Dunbartonshire,2019,Male,68,639
+East Dunbartonshire,2019,Male,69,610
+East Dunbartonshire,2019,Male,70,594
+East Dunbartonshire,2019,Male,71,640
+East Dunbartonshire,2019,Male,72,693
+East Dunbartonshire,2019,Male,73,464
+East Dunbartonshire,2019,Male,74,499
+East Dunbartonshire,2019,Male,75,486
+East Dunbartonshire,2019,Male,76,434
+East Dunbartonshire,2019,Male,77,371
+East Dunbartonshire,2019,Male,78,338
+East Dunbartonshire,2019,Male,79,383
+East Dunbartonshire,2019,Male,80,322
+East Dunbartonshire,2019,Male,81,350
+East Dunbartonshire,2019,Male,82,349
+East Dunbartonshire,2019,Male,83,285
+East Dunbartonshire,2019,Male,84,271
+East Dunbartonshire,2019,Male,85,238
+East Dunbartonshire,2019,Male,86,192
+East Dunbartonshire,2019,Male,87,182
+East Dunbartonshire,2019,Male,88,148
+East Dunbartonshire,2019,Male,89,129
+East Dunbartonshire,2019,Male,90,357
+East Lothian,2019,Female,0,504
+East Lothian,2019,Female,1,493
+East Lothian,2019,Female,2,523
+East Lothian,2019,Female,3,585
+East Lothian,2019,Female,4,613
+East Lothian,2019,Female,5,608
+East Lothian,2019,Female,6,597
+East Lothian,2019,Female,7,663
+East Lothian,2019,Female,8,665
+East Lothian,2019,Female,9,617
+East Lothian,2019,Female,10,656
+East Lothian,2019,Female,11,679
+East Lothian,2019,Female,12,625
+East Lothian,2019,Female,13,582
+East Lothian,2019,Female,14,535
+East Lothian,2019,Female,15,595
+East Lothian,2019,Female,16,520
+East Lothian,2019,Female,17,511
+East Lothian,2019,Female,18,567
+East Lothian,2019,Female,19,523
+East Lothian,2019,Female,20,466
+East Lothian,2019,Female,21,548
+East Lothian,2019,Female,22,534
+East Lothian,2019,Female,23,524
+East Lothian,2019,Female,24,535
+East Lothian,2019,Female,25,599
+East Lothian,2019,Female,26,683
+East Lothian,2019,Female,27,744
+East Lothian,2019,Female,28,573
+East Lothian,2019,Female,29,597
+East Lothian,2019,Female,30,610
+East Lothian,2019,Female,31,572
+East Lothian,2019,Female,32,606
+East Lothian,2019,Female,33,674
+East Lothian,2019,Female,34,633
+East Lothian,2019,Female,35,624
+East Lothian,2019,Female,36,688
+East Lothian,2019,Female,37,712
+East Lothian,2019,Female,38,731
+East Lothian,2019,Female,39,657
+East Lothian,2019,Female,40,697
+East Lothian,2019,Female,41,640
+East Lothian,2019,Female,42,684
+East Lothian,2019,Female,43,685
+East Lothian,2019,Female,44,677
+East Lothian,2019,Female,45,678
+East Lothian,2019,Female,46,732
+East Lothian,2019,Female,47,790
+East Lothian,2019,Female,48,877
+East Lothian,2019,Female,49,823
+East Lothian,2019,Female,50,868
+East Lothian,2019,Female,51,954
+East Lothian,2019,Female,52,926
+East Lothian,2019,Female,53,795
+East Lothian,2019,Female,54,892
+East Lothian,2019,Female,55,875
+East Lothian,2019,Female,56,890
+East Lothian,2019,Female,57,834
+East Lothian,2019,Female,58,819
+East Lothian,2019,Female,59,846
+East Lothian,2019,Female,60,811
+East Lothian,2019,Female,61,745
+East Lothian,2019,Female,62,749
+East Lothian,2019,Female,63,691
+East Lothian,2019,Female,64,707
+East Lothian,2019,Female,65,642
+East Lothian,2019,Female,66,638
+East Lothian,2019,Female,67,642
+East Lothian,2019,Female,68,636
+East Lothian,2019,Female,69,626
+East Lothian,2019,Female,70,623
+East Lothian,2019,Female,71,707
+East Lothian,2019,Female,72,702
+East Lothian,2019,Female,73,540
+East Lothian,2019,Female,74,486
+East Lothian,2019,Female,75,578
+East Lothian,2019,Female,76,467
+East Lothian,2019,Female,77,476
+East Lothian,2019,Female,78,424
+East Lothian,2019,Female,79,401
+East Lothian,2019,Female,80,387
+East Lothian,2019,Female,81,398
+East Lothian,2019,Female,82,327
+East Lothian,2019,Female,83,322
+East Lothian,2019,Female,84,266
+East Lothian,2019,Female,85,291
+East Lothian,2019,Female,86,259
+East Lothian,2019,Female,87,201
+East Lothian,2019,Female,88,186
+East Lothian,2019,Female,89,181
+East Lothian,2019,Female,90,595
+East Lothian,2019,Male,0,533
+East Lothian,2019,Male,1,577
+East Lothian,2019,Male,2,588
+East Lothian,2019,Male,3,648
+East Lothian,2019,Male,4,593
+East Lothian,2019,Male,5,631
+East Lothian,2019,Male,6,609
+East Lothian,2019,Male,7,668
+East Lothian,2019,Male,8,705
+East Lothian,2019,Male,9,644
+East Lothian,2019,Male,10,673
+East Lothian,2019,Male,11,705
+East Lothian,2019,Male,12,656
+East Lothian,2019,Male,13,699
+East Lothian,2019,Male,14,636
+East Lothian,2019,Male,15,595
+East Lothian,2019,Male,16,514
+East Lothian,2019,Male,17,583
+East Lothian,2019,Male,18,524
+East Lothian,2019,Male,19,519
+East Lothian,2019,Male,20,513
+East Lothian,2019,Male,21,514
+East Lothian,2019,Male,22,590
+East Lothian,2019,Male,23,621
+East Lothian,2019,Male,24,623
+East Lothian,2019,Male,25,607
+East Lothian,2019,Male,26,574
+East Lothian,2019,Male,27,611
+East Lothian,2019,Male,28,558
+East Lothian,2019,Male,29,487
+East Lothian,2019,Male,30,463
+East Lothian,2019,Male,31,584
+East Lothian,2019,Male,32,552
+East Lothian,2019,Male,33,553
+East Lothian,2019,Male,34,549
+East Lothian,2019,Male,35,536
+East Lothian,2019,Male,36,580
+East Lothian,2019,Male,37,593
+East Lothian,2019,Male,38,597
+East Lothian,2019,Male,39,574
+East Lothian,2019,Male,40,648
+East Lothian,2019,Male,41,570
+East Lothian,2019,Male,42,584
+East Lothian,2019,Male,43,649
+East Lothian,2019,Male,44,642
+East Lothian,2019,Male,45,685
+East Lothian,2019,Male,46,777
+East Lothian,2019,Male,47,733
+East Lothian,2019,Male,48,750
+East Lothian,2019,Male,49,755
+East Lothian,2019,Male,50,715
+East Lothian,2019,Male,51,746
+East Lothian,2019,Male,52,787
+East Lothian,2019,Male,53,784
+East Lothian,2019,Male,54,882
+East Lothian,2019,Male,55,765
+East Lothian,2019,Male,56,849
+East Lothian,2019,Male,57,811
+East Lothian,2019,Male,58,809
+East Lothian,2019,Male,59,715
+East Lothian,2019,Male,60,753
+East Lothian,2019,Male,61,709
+East Lothian,2019,Male,62,740
+East Lothian,2019,Male,63,666
+East Lothian,2019,Male,64,600
+East Lothian,2019,Male,65,624
+East Lothian,2019,Male,66,544
+East Lothian,2019,Male,67,557
+East Lothian,2019,Male,68,556
+East Lothian,2019,Male,69,567
+East Lothian,2019,Male,70,541
+East Lothian,2019,Male,71,623
+East Lothian,2019,Male,72,652
+East Lothian,2019,Male,73,500
+East Lothian,2019,Male,74,456
+East Lothian,2019,Male,75,471
+East Lothian,2019,Male,76,406
+East Lothian,2019,Male,77,365
+East Lothian,2019,Male,78,339
+East Lothian,2019,Male,79,312
+East Lothian,2019,Male,80,265
+East Lothian,2019,Male,81,307
+East Lothian,2019,Male,82,231
+East Lothian,2019,Male,83,232
+East Lothian,2019,Male,84,204
+East Lothian,2019,Male,85,192
+East Lothian,2019,Male,86,143
+East Lothian,2019,Male,87,151
+East Lothian,2019,Male,88,110
+East Lothian,2019,Male,89,88
+East Lothian,2019,Male,90,294
+East Renfrewshire,2019,Female,0,417
+East Renfrewshire,2019,Female,1,450
+East Renfrewshire,2019,Female,2,493
+East Renfrewshire,2019,Female,3,554
+East Renfrewshire,2019,Female,4,533
+East Renfrewshire,2019,Female,5,572
+East Renfrewshire,2019,Female,6,649
+East Renfrewshire,2019,Female,7,642
+East Renfrewshire,2019,Female,8,664
+East Renfrewshire,2019,Female,9,659
+East Renfrewshire,2019,Female,10,641
+East Renfrewshire,2019,Female,11,642
+East Renfrewshire,2019,Female,12,663
+East Renfrewshire,2019,Female,13,639
+East Renfrewshire,2019,Female,14,639
+East Renfrewshire,2019,Female,15,630
+East Renfrewshire,2019,Female,16,602
+East Renfrewshire,2019,Female,17,568
+East Renfrewshire,2019,Female,18,522
+East Renfrewshire,2019,Female,19,483
+East Renfrewshire,2019,Female,20,468
+East Renfrewshire,2019,Female,21,486
+East Renfrewshire,2019,Female,22,509
+East Renfrewshire,2019,Female,23,472
+East Renfrewshire,2019,Female,24,445
+East Renfrewshire,2019,Female,25,411
+East Renfrewshire,2019,Female,26,495
+East Renfrewshire,2019,Female,27,415
+East Renfrewshire,2019,Female,28,419
+East Renfrewshire,2019,Female,29,417
+East Renfrewshire,2019,Female,30,508
+East Renfrewshire,2019,Female,31,517
+East Renfrewshire,2019,Female,32,450
+East Renfrewshire,2019,Female,33,467
+East Renfrewshire,2019,Female,34,441
+East Renfrewshire,2019,Female,35,537
+East Renfrewshire,2019,Female,36,510
+East Renfrewshire,2019,Female,37,575
+East Renfrewshire,2019,Female,38,618
+East Renfrewshire,2019,Female,39,646
+East Renfrewshire,2019,Female,40,668
+East Renfrewshire,2019,Female,41,652
+East Renfrewshire,2019,Female,42,622
+East Renfrewshire,2019,Female,43,665
+East Renfrewshire,2019,Female,44,633
+East Renfrewshire,2019,Female,45,646
+East Renfrewshire,2019,Female,46,701
+East Renfrewshire,2019,Female,47,684
+East Renfrewshire,2019,Female,48,742
+East Renfrewshire,2019,Female,49,708
+East Renfrewshire,2019,Female,50,783
+East Renfrewshire,2019,Female,51,781
+East Renfrewshire,2019,Female,52,780
+East Renfrewshire,2019,Female,53,728
+East Renfrewshire,2019,Female,54,751
+East Renfrewshire,2019,Female,55,821
+East Renfrewshire,2019,Female,56,722
+East Renfrewshire,2019,Female,57,738
+East Renfrewshire,2019,Female,58,682
+East Renfrewshire,2019,Female,59,693
+East Renfrewshire,2019,Female,60,659
+East Renfrewshire,2019,Female,61,653
+East Renfrewshire,2019,Female,62,637
+East Renfrewshire,2019,Female,63,642
+East Renfrewshire,2019,Female,64,594
+East Renfrewshire,2019,Female,65,579
+East Renfrewshire,2019,Female,66,561
+East Renfrewshire,2019,Female,67,536
+East Renfrewshire,2019,Female,68,536
+East Renfrewshire,2019,Female,69,513
+East Renfrewshire,2019,Female,70,561
+East Renfrewshire,2019,Female,71,579
+East Renfrewshire,2019,Female,72,613
+East Renfrewshire,2019,Female,73,435
+East Renfrewshire,2019,Female,74,464
+East Renfrewshire,2019,Female,75,475
+East Renfrewshire,2019,Female,76,460
+East Renfrewshire,2019,Female,77,388
+East Renfrewshire,2019,Female,78,404
+East Renfrewshire,2019,Female,79,361
+East Renfrewshire,2019,Female,80,336
+East Renfrewshire,2019,Female,81,345
+East Renfrewshire,2019,Female,82,325
+East Renfrewshire,2019,Female,83,344
+East Renfrewshire,2019,Female,84,297
+East Renfrewshire,2019,Female,85,295
+East Renfrewshire,2019,Female,86,236
+East Renfrewshire,2019,Female,87,235
+East Renfrewshire,2019,Female,88,203
+East Renfrewshire,2019,Female,89,175
+East Renfrewshire,2019,Female,90,713
+East Renfrewshire,2019,Male,0,468
+East Renfrewshire,2019,Male,1,464
+East Renfrewshire,2019,Male,2,545
+East Renfrewshire,2019,Male,3,571
+East Renfrewshire,2019,Male,4,608
+East Renfrewshire,2019,Male,5,635
+East Renfrewshire,2019,Male,6,636
+East Renfrewshire,2019,Male,7,705
+East Renfrewshire,2019,Male,8,736
+East Renfrewshire,2019,Male,9,674
+East Renfrewshire,2019,Male,10,638
+East Renfrewshire,2019,Male,11,715
+East Renfrewshire,2019,Male,12,701
+East Renfrewshire,2019,Male,13,643
+East Renfrewshire,2019,Male,14,669
+East Renfrewshire,2019,Male,15,630
+East Renfrewshire,2019,Male,16,564
+East Renfrewshire,2019,Male,17,569
+East Renfrewshire,2019,Male,18,578
+East Renfrewshire,2019,Male,19,563
+East Renfrewshire,2019,Male,20,556
+East Renfrewshire,2019,Male,21,554
+East Renfrewshire,2019,Male,22,557
+East Renfrewshire,2019,Male,23,539
+East Renfrewshire,2019,Male,24,527
+East Renfrewshire,2019,Male,25,554
+East Renfrewshire,2019,Male,26,483
+East Renfrewshire,2019,Male,27,473
+East Renfrewshire,2019,Male,28,427
+East Renfrewshire,2019,Male,29,452
+East Renfrewshire,2019,Male,30,409
+East Renfrewshire,2019,Male,31,404
+East Renfrewshire,2019,Male,32,387
+East Renfrewshire,2019,Male,33,414
+East Renfrewshire,2019,Male,34,410
+East Renfrewshire,2019,Male,35,428
+East Renfrewshire,2019,Male,36,417
+East Renfrewshire,2019,Male,37,504
+East Renfrewshire,2019,Male,38,499
+East Renfrewshire,2019,Male,39,553
+East Renfrewshire,2019,Male,40,515
+East Renfrewshire,2019,Male,41,566
+East Renfrewshire,2019,Male,42,552
+East Renfrewshire,2019,Male,43,562
+East Renfrewshire,2019,Male,44,556
+East Renfrewshire,2019,Male,45,593
+East Renfrewshire,2019,Male,46,661
+East Renfrewshire,2019,Male,47,662
+East Renfrewshire,2019,Male,48,648
+East Renfrewshire,2019,Male,49,627
+East Renfrewshire,2019,Male,50,661
+East Renfrewshire,2019,Male,51,622
+East Renfrewshire,2019,Male,52,702
+East Renfrewshire,2019,Male,53,723
+East Renfrewshire,2019,Male,54,626
+East Renfrewshire,2019,Male,55,709
+East Renfrewshire,2019,Male,56,672
+East Renfrewshire,2019,Male,57,676
+East Renfrewshire,2019,Male,58,641
+East Renfrewshire,2019,Male,59,620
+East Renfrewshire,2019,Male,60,662
+East Renfrewshire,2019,Male,61,619
+East Renfrewshire,2019,Male,62,598
+East Renfrewshire,2019,Male,63,620
+East Renfrewshire,2019,Male,64,539
+East Renfrewshire,2019,Male,65,491
+East Renfrewshire,2019,Male,66,508
+East Renfrewshire,2019,Male,67,496
+East Renfrewshire,2019,Male,68,445
+East Renfrewshire,2019,Male,69,469
+East Renfrewshire,2019,Male,70,457
+East Renfrewshire,2019,Male,71,479
+East Renfrewshire,2019,Male,72,498
+East Renfrewshire,2019,Male,73,401
+East Renfrewshire,2019,Male,74,352
+East Renfrewshire,2019,Male,75,361
+East Renfrewshire,2019,Male,76,314
+East Renfrewshire,2019,Male,77,292
+East Renfrewshire,2019,Male,78,278
+East Renfrewshire,2019,Male,79,247
+East Renfrewshire,2019,Male,80,295
+East Renfrewshire,2019,Male,81,250
+East Renfrewshire,2019,Male,82,243
+East Renfrewshire,2019,Male,83,222
+East Renfrewshire,2019,Male,84,182
+East Renfrewshire,2019,Male,85,165
+East Renfrewshire,2019,Male,86,157
+East Renfrewshire,2019,Male,87,133
+East Renfrewshire,2019,Male,88,101
+East Renfrewshire,2019,Male,89,83
+East Renfrewshire,2019,Male,90,298
+Falkirk,2019,Female,0,706
+Falkirk,2019,Female,1,746
+Falkirk,2019,Female,2,794
+Falkirk,2019,Female,3,721
+Falkirk,2019,Female,4,818
+Falkirk,2019,Female,5,860
+Falkirk,2019,Female,6,825
+Falkirk,2019,Female,7,915
+Falkirk,2019,Female,8,899
+Falkirk,2019,Female,9,941
+Falkirk,2019,Female,10,1012
+Falkirk,2019,Female,11,959
+Falkirk,2019,Female,12,896
+Falkirk,2019,Female,13,885
+Falkirk,2019,Female,14,840
+Falkirk,2019,Female,15,823
+Falkirk,2019,Female,16,819
+Falkirk,2019,Female,17,762
+Falkirk,2019,Female,18,794
+Falkirk,2019,Female,19,765
+Falkirk,2019,Female,20,801
+Falkirk,2019,Female,21,787
+Falkirk,2019,Female,22,834
+Falkirk,2019,Female,23,837
+Falkirk,2019,Female,24,902
+Falkirk,2019,Female,25,965
+Falkirk,2019,Female,26,962
+Falkirk,2019,Female,27,1011
+Falkirk,2019,Female,28,1024
+Falkirk,2019,Female,29,924
+Falkirk,2019,Female,30,925
+Falkirk,2019,Female,31,1063
+Falkirk,2019,Female,32,1014
+Falkirk,2019,Female,33,1038
+Falkirk,2019,Female,34,1078
+Falkirk,2019,Female,35,1050
+Falkirk,2019,Female,36,1107
+Falkirk,2019,Female,37,1122
+Falkirk,2019,Female,38,1066
+Falkirk,2019,Female,39,1052
+Falkirk,2019,Female,40,1092
+Falkirk,2019,Female,41,985
+Falkirk,2019,Female,42,994
+Falkirk,2019,Female,43,1075
+Falkirk,2019,Female,44,1107
+Falkirk,2019,Female,45,1155
+Falkirk,2019,Female,46,1210
+Falkirk,2019,Female,47,1309
+Falkirk,2019,Female,48,1234
+Falkirk,2019,Female,49,1203
+Falkirk,2019,Female,50,1303
+Falkirk,2019,Female,51,1374
+Falkirk,2019,Female,52,1304
+Falkirk,2019,Female,53,1316
+Falkirk,2019,Female,54,1238
+Falkirk,2019,Female,55,1262
+Falkirk,2019,Female,56,1207
+Falkirk,2019,Female,57,1235
+Falkirk,2019,Female,58,1141
+Falkirk,2019,Female,59,1117
+Falkirk,2019,Female,60,1111
+Falkirk,2019,Female,61,1077
+Falkirk,2019,Female,62,1027
+Falkirk,2019,Female,63,1019
+Falkirk,2019,Female,64,966
+Falkirk,2019,Female,65,921
+Falkirk,2019,Female,66,935
+Falkirk,2019,Female,67,884
+Falkirk,2019,Female,68,996
+Falkirk,2019,Female,69,927
+Falkirk,2019,Female,70,932
+Falkirk,2019,Female,71,930
+Falkirk,2019,Female,72,977
+Falkirk,2019,Female,73,737
+Falkirk,2019,Female,74,709
+Falkirk,2019,Female,75,720
+Falkirk,2019,Female,76,637
+Falkirk,2019,Female,77,628
+Falkirk,2019,Female,78,550
+Falkirk,2019,Female,79,581
+Falkirk,2019,Female,80,606
+Falkirk,2019,Female,81,514
+Falkirk,2019,Female,82,494
+Falkirk,2019,Female,83,429
+Falkirk,2019,Female,84,391
+Falkirk,2019,Female,85,333
+Falkirk,2019,Female,86,315
+Falkirk,2019,Female,87,280
+Falkirk,2019,Female,88,239
+Falkirk,2019,Female,89,198
+Falkirk,2019,Female,90,773
+Falkirk,2019,Male,0,765
+Falkirk,2019,Male,1,820
+Falkirk,2019,Male,2,773
+Falkirk,2019,Male,3,928
+Falkirk,2019,Male,4,881
+Falkirk,2019,Male,5,887
+Falkirk,2019,Male,6,886
+Falkirk,2019,Male,7,987
+Falkirk,2019,Male,8,992
+Falkirk,2019,Male,9,967
+Falkirk,2019,Male,10,958
+Falkirk,2019,Male,11,922
+Falkirk,2019,Male,12,989
+Falkirk,2019,Male,13,900
+Falkirk,2019,Male,14,946
+Falkirk,2019,Male,15,871
+Falkirk,2019,Male,16,866
+Falkirk,2019,Male,17,873
+Falkirk,2019,Male,18,864
+Falkirk,2019,Male,19,962
+Falkirk,2019,Male,20,954
+Falkirk,2019,Male,21,937
+Falkirk,2019,Male,22,911
+Falkirk,2019,Male,23,954
+Falkirk,2019,Male,24,953
+Falkirk,2019,Male,25,873
+Falkirk,2019,Male,26,950
+Falkirk,2019,Male,27,921
+Falkirk,2019,Male,28,982
+Falkirk,2019,Male,29,982
+Falkirk,2019,Male,30,930
+Falkirk,2019,Male,31,943
+Falkirk,2019,Male,32,902
+Falkirk,2019,Male,33,961
+Falkirk,2019,Male,34,1008
+Falkirk,2019,Male,35,928
+Falkirk,2019,Male,36,898
+Falkirk,2019,Male,37,1024
+Falkirk,2019,Male,38,1043
+Falkirk,2019,Male,39,1033
+Falkirk,2019,Male,40,1024
+Falkirk,2019,Male,41,1005
+Falkirk,2019,Male,42,979
+Falkirk,2019,Male,43,983
+Falkirk,2019,Male,44,1066
+Falkirk,2019,Male,45,1051
+Falkirk,2019,Male,46,1131
+Falkirk,2019,Male,47,1210
+Falkirk,2019,Male,48,1251
+Falkirk,2019,Male,49,1260
+Falkirk,2019,Male,50,1228
+Falkirk,2019,Male,51,1222
+Falkirk,2019,Male,52,1258
+Falkirk,2019,Male,53,1200
+Falkirk,2019,Male,54,1293
+Falkirk,2019,Male,55,1260
+Falkirk,2019,Male,56,1240
+Falkirk,2019,Male,57,1170
+Falkirk,2019,Male,58,1131
+Falkirk,2019,Male,59,1089
+Falkirk,2019,Male,60,1066
+Falkirk,2019,Male,61,1054
+Falkirk,2019,Male,62,990
+Falkirk,2019,Male,63,915
+Falkirk,2019,Male,64,838
+Falkirk,2019,Male,65,856
+Falkirk,2019,Male,66,861
+Falkirk,2019,Male,67,810
+Falkirk,2019,Male,68,840
+Falkirk,2019,Male,69,863
+Falkirk,2019,Male,70,857
+Falkirk,2019,Male,71,874
+Falkirk,2019,Male,72,997
+Falkirk,2019,Male,73,653
+Falkirk,2019,Male,74,633
+Falkirk,2019,Male,75,608
+Falkirk,2019,Male,76,592
+Falkirk,2019,Male,77,473
+Falkirk,2019,Male,78,450
+Falkirk,2019,Male,79,432
+Falkirk,2019,Male,80,425
+Falkirk,2019,Male,81,370
+Falkirk,2019,Male,82,331
+Falkirk,2019,Male,83,304
+Falkirk,2019,Male,84,301
+Falkirk,2019,Male,85,262
+Falkirk,2019,Male,86,200
+Falkirk,2019,Male,87,171
+Falkirk,2019,Male,88,154
+Falkirk,2019,Male,89,117
+Falkirk,2019,Male,90,379
+Fife,2019,Female,0,1691
+Fife,2019,Female,1,1732
+Fife,2019,Female,2,1742
+Fife,2019,Female,3,1890
+Fife,2019,Female,4,2005
+Fife,2019,Female,5,1932
+Fife,2019,Female,6,2000
+Fife,2019,Female,7,2044
+Fife,2019,Female,8,2169
+Fife,2019,Female,9,2061
+Fife,2019,Female,10,2162
+Fife,2019,Female,11,2123
+Fife,2019,Female,12,2006
+Fife,2019,Female,13,2045
+Fife,2019,Female,14,1918
+Fife,2019,Female,15,1906
+Fife,2019,Female,16,1857
+Fife,2019,Female,17,1793
+Fife,2019,Female,18,2026
+Fife,2019,Female,19,2294
+Fife,2019,Female,20,2418
+Fife,2019,Female,21,2367
+Fife,2019,Female,22,2431
+Fife,2019,Female,23,2306
+Fife,2019,Female,24,2246
+Fife,2019,Female,25,2263
+Fife,2019,Female,26,2285
+Fife,2019,Female,27,2275
+Fife,2019,Female,28,2292
+Fife,2019,Female,29,2263
+Fife,2019,Female,30,2305
+Fife,2019,Female,31,2286
+Fife,2019,Female,32,2259
+Fife,2019,Female,33,2233
+Fife,2019,Female,34,2233
+Fife,2019,Female,35,2160
+Fife,2019,Female,36,2309
+Fife,2019,Female,37,2239
+Fife,2019,Female,38,2370
+Fife,2019,Female,39,2350
+Fife,2019,Female,40,2310
+Fife,2019,Female,41,2133
+Fife,2019,Female,42,2036
+Fife,2019,Female,43,2249
+Fife,2019,Female,44,2302
+Fife,2019,Female,45,2247
+Fife,2019,Female,46,2436
+Fife,2019,Female,47,2641
+Fife,2019,Female,48,2815
+Fife,2019,Female,49,2685
+Fife,2019,Female,50,2842
+Fife,2019,Female,51,2905
+Fife,2019,Female,52,2803
+Fife,2019,Female,53,2894
+Fife,2019,Female,54,2967
+Fife,2019,Female,55,2931
+Fife,2019,Female,56,2912
+Fife,2019,Female,57,2815
+Fife,2019,Female,58,2647
+Fife,2019,Female,59,2690
+Fife,2019,Female,60,2715
+Fife,2019,Female,61,2623
+Fife,2019,Female,62,2438
+Fife,2019,Female,63,2445
+Fife,2019,Female,64,2325
+Fife,2019,Female,65,2328
+Fife,2019,Female,66,2276
+Fife,2019,Female,67,2231
+Fife,2019,Female,68,2257
+Fife,2019,Female,69,2272
+Fife,2019,Female,70,2358
+Fife,2019,Female,71,2458
+Fife,2019,Female,72,2633
+Fife,2019,Female,73,1902
+Fife,2019,Female,74,1856
+Fife,2019,Female,75,1891
+Fife,2019,Female,76,1703
+Fife,2019,Female,77,1565
+Fife,2019,Female,78,1359
+Fife,2019,Female,79,1405
+Fife,2019,Female,80,1304
+Fife,2019,Female,81,1240
+Fife,2019,Female,82,1201
+Fife,2019,Female,83,1122
+Fife,2019,Female,84,962
+Fife,2019,Female,85,886
+Fife,2019,Female,86,804
+Fife,2019,Female,87,688
+Fife,2019,Female,88,612
+Fife,2019,Female,89,562
+Fife,2019,Female,90,2169
+Fife,2019,Male,0,1731
+Fife,2019,Male,1,1818
+Fife,2019,Male,2,1930
+Fife,2019,Male,3,1964
+Fife,2019,Male,4,2038
+Fife,2019,Male,5,2103
+Fife,2019,Male,6,2134
+Fife,2019,Male,7,2180
+Fife,2019,Male,8,2299
+Fife,2019,Male,9,2254
+Fife,2019,Male,10,2205
+Fife,2019,Male,11,2200
+Fife,2019,Male,12,2069
+Fife,2019,Male,13,2080
+Fife,2019,Male,14,2074
+Fife,2019,Male,15,2047
+Fife,2019,Male,16,1950
+Fife,2019,Male,17,1896
+Fife,2019,Male,18,2154
+Fife,2019,Male,19,2357
+Fife,2019,Male,20,2586
+Fife,2019,Male,21,2381
+Fife,2019,Male,22,2380
+Fife,2019,Male,23,2357
+Fife,2019,Male,24,2262
+Fife,2019,Male,25,2306
+Fife,2019,Male,26,2211
+Fife,2019,Male,27,2259
+Fife,2019,Male,28,2147
+Fife,2019,Male,29,2136
+Fife,2019,Male,30,2152
+Fife,2019,Male,31,2077
+Fife,2019,Male,32,1957
+Fife,2019,Male,33,2061
+Fife,2019,Male,34,1989
+Fife,2019,Male,35,2006
+Fife,2019,Male,36,2021
+Fife,2019,Male,37,2225
+Fife,2019,Male,38,2168
+Fife,2019,Male,39,2133
+Fife,2019,Male,40,2161
+Fife,2019,Male,41,1971
+Fife,2019,Male,42,2082
+Fife,2019,Male,43,2084
+Fife,2019,Male,44,2086
+Fife,2019,Male,45,2241
+Fife,2019,Male,46,2337
+Fife,2019,Male,47,2431
+Fife,2019,Male,48,2557
+Fife,2019,Male,49,2512
+Fife,2019,Male,50,2694
+Fife,2019,Male,51,2728
+Fife,2019,Male,52,2870
+Fife,2019,Male,53,2605
+Fife,2019,Male,54,2745
+Fife,2019,Male,55,2706
+Fife,2019,Male,56,2633
+Fife,2019,Male,57,2606
+Fife,2019,Male,58,2612
+Fife,2019,Male,59,2674
+Fife,2019,Male,60,2477
+Fife,2019,Male,61,2457
+Fife,2019,Male,62,2421
+Fife,2019,Male,63,2254
+Fife,2019,Male,64,2193
+Fife,2019,Male,65,2216
+Fife,2019,Male,66,2036
+Fife,2019,Male,67,1998
+Fife,2019,Male,68,2098
+Fife,2019,Male,69,2059
+Fife,2019,Male,70,2113
+Fife,2019,Male,71,2205
+Fife,2019,Male,72,2466
+Fife,2019,Male,73,1776
+Fife,2019,Male,74,1693
+Fife,2019,Male,75,1579
+Fife,2019,Male,76,1474
+Fife,2019,Male,77,1376
+Fife,2019,Male,78,1128
+Fife,2019,Male,79,1107
+Fife,2019,Male,80,1073
+Fife,2019,Male,81,970
+Fife,2019,Male,82,863
+Fife,2019,Male,83,787
+Fife,2019,Male,84,711
+Fife,2019,Male,85,589
+Fife,2019,Male,86,542
+Fife,2019,Male,87,451
+Fife,2019,Male,88,357
+Fife,2019,Male,89,288
+Fife,2019,Male,90,1025
+Glasgow City,2019,Female,0,3290
+Glasgow City,2019,Female,1,3173
+Glasgow City,2019,Female,2,3204
+Glasgow City,2019,Female,3,3265
+Glasgow City,2019,Female,4,3265
+Glasgow City,2019,Female,5,3291
+Glasgow City,2019,Female,6,3280
+Glasgow City,2019,Female,7,3355
+Glasgow City,2019,Female,8,3382
+Glasgow City,2019,Female,9,2993
+Glasgow City,2019,Female,10,3041
+Glasgow City,2019,Female,11,2940
+Glasgow City,2019,Female,12,2834
+Glasgow City,2019,Female,13,2641
+Glasgow City,2019,Female,14,2657
+Glasgow City,2019,Female,15,2589
+Glasgow City,2019,Female,16,2637
+Glasgow City,2019,Female,17,2641
+Glasgow City,2019,Female,18,3296
+Glasgow City,2019,Female,19,4022
+Glasgow City,2019,Female,20,4786
+Glasgow City,2019,Female,21,5192
+Glasgow City,2019,Female,22,5661
+Glasgow City,2019,Female,23,6022
+Glasgow City,2019,Female,24,6040
+Glasgow City,2019,Female,25,6108
+Glasgow City,2019,Female,26,6803
+Glasgow City,2019,Female,27,7404
+Glasgow City,2019,Female,28,7166
+Glasgow City,2019,Female,29,6765
+Glasgow City,2019,Female,30,6681
+Glasgow City,2019,Female,31,6252
+Glasgow City,2019,Female,32,5982
+Glasgow City,2019,Female,33,5518
+Glasgow City,2019,Female,34,5388
+Glasgow City,2019,Female,35,4941
+Glasgow City,2019,Female,36,4977
+Glasgow City,2019,Female,37,4724
+Glasgow City,2019,Female,38,4564
+Glasgow City,2019,Female,39,4424
+Glasgow City,2019,Female,40,4099
+Glasgow City,2019,Female,41,3760
+Glasgow City,2019,Female,42,3421
+Glasgow City,2019,Female,43,3680
+Glasgow City,2019,Female,44,3507
+Glasgow City,2019,Female,45,3450
+Glasgow City,2019,Female,46,3671
+Glasgow City,2019,Female,47,3835
+Glasgow City,2019,Female,48,4036
+Glasgow City,2019,Female,49,4092
+Glasgow City,2019,Female,50,4306
+Glasgow City,2019,Female,51,4339
+Glasgow City,2019,Female,52,4092
+Glasgow City,2019,Female,53,4276
+Glasgow City,2019,Female,54,4368
+Glasgow City,2019,Female,55,4441
+Glasgow City,2019,Female,56,4304
+Glasgow City,2019,Female,57,4278
+Glasgow City,2019,Female,58,4111
+Glasgow City,2019,Female,59,3848
+Glasgow City,2019,Female,60,3831
+Glasgow City,2019,Female,61,3676
+Glasgow City,2019,Female,62,3467
+Glasgow City,2019,Female,63,3420
+Glasgow City,2019,Female,64,3070
+Glasgow City,2019,Female,65,2915
+Glasgow City,2019,Female,66,2599
+Glasgow City,2019,Female,67,2512
+Glasgow City,2019,Female,68,2479
+Glasgow City,2019,Female,69,2468
+Glasgow City,2019,Female,70,2445
+Glasgow City,2019,Female,71,2436
+Glasgow City,2019,Female,72,2580
+Glasgow City,2019,Female,73,1961
+Glasgow City,2019,Female,74,1970
+Glasgow City,2019,Female,75,1900
+Glasgow City,2019,Female,76,1794
+Glasgow City,2019,Female,77,1672
+Glasgow City,2019,Female,78,1668
+Glasgow City,2019,Female,79,1746
+Glasgow City,2019,Female,80,1675
+Glasgow City,2019,Female,81,1620
+Glasgow City,2019,Female,82,1490
+Glasgow City,2019,Female,83,1359
+Glasgow City,2019,Female,84,1378
+Glasgow City,2019,Female,85,1207
+Glasgow City,2019,Female,86,1087
+Glasgow City,2019,Female,87,1004
+Glasgow City,2019,Female,88,901
+Glasgow City,2019,Female,89,772
+Glasgow City,2019,Female,90,2874
+Glasgow City,2019,Male,0,3309
+Glasgow City,2019,Male,1,3274
+Glasgow City,2019,Male,2,3457
+Glasgow City,2019,Male,3,3348
+Glasgow City,2019,Male,4,3463
+Glasgow City,2019,Male,5,3429
+Glasgow City,2019,Male,6,3424
+Glasgow City,2019,Male,7,3509
+Glasgow City,2019,Male,8,3472
+Glasgow City,2019,Male,9,3060
+Glasgow City,2019,Male,10,3186
+Glasgow City,2019,Male,11,3093
+Glasgow City,2019,Male,12,2904
+Glasgow City,2019,Male,13,2932
+Glasgow City,2019,Male,14,2811
+Glasgow City,2019,Male,15,2795
+Glasgow City,2019,Male,16,2789
+Glasgow City,2019,Male,17,2865
+Glasgow City,2019,Male,18,3292
+Glasgow City,2019,Male,19,4106
+Glasgow City,2019,Male,20,4471
+Glasgow City,2019,Male,21,4944
+Glasgow City,2019,Male,22,5316
+Glasgow City,2019,Male,23,5801
+Glasgow City,2019,Male,24,5879
+Glasgow City,2019,Male,25,6018
+Glasgow City,2019,Male,26,6539
+Glasgow City,2019,Male,27,7576
+Glasgow City,2019,Male,28,7291
+Glasgow City,2019,Male,29,6979
+Glasgow City,2019,Male,30,6862
+Glasgow City,2019,Male,31,6544
+Glasgow City,2019,Male,32,6107
+Glasgow City,2019,Male,33,6156
+Glasgow City,2019,Male,34,5725
+Glasgow City,2019,Male,35,5402
+Glasgow City,2019,Male,36,5320
+Glasgow City,2019,Male,37,5061
+Glasgow City,2019,Male,38,4894
+Glasgow City,2019,Male,39,4681
+Glasgow City,2019,Male,40,4332
+Glasgow City,2019,Male,41,3870
+Glasgow City,2019,Male,42,3546
+Glasgow City,2019,Male,43,3671
+Glasgow City,2019,Male,44,3548
+Glasgow City,2019,Male,45,3540
+Glasgow City,2019,Male,46,3605
+Glasgow City,2019,Male,47,3741
+Glasgow City,2019,Male,48,3782
+Glasgow City,2019,Male,49,3777
+Glasgow City,2019,Male,50,3932
+Glasgow City,2019,Male,51,3933
+Glasgow City,2019,Male,52,3942
+Glasgow City,2019,Male,53,3880
+Glasgow City,2019,Male,54,3815
+Glasgow City,2019,Male,55,3821
+Glasgow City,2019,Male,56,3921
+Glasgow City,2019,Male,57,3877
+Glasgow City,2019,Male,58,3648
+Glasgow City,2019,Male,59,3474
+Glasgow City,2019,Male,60,3390
+Glasgow City,2019,Male,61,3219
+Glasgow City,2019,Male,62,3115
+Glasgow City,2019,Male,63,3059
+Glasgow City,2019,Male,64,2862
+Glasgow City,2019,Male,65,2632
+Glasgow City,2019,Male,66,2543
+Glasgow City,2019,Male,67,2425
+Glasgow City,2019,Male,68,2396
+Glasgow City,2019,Male,69,2236
+Glasgow City,2019,Male,70,2192
+Glasgow City,2019,Male,71,2224
+Glasgow City,2019,Male,72,2298
+Glasgow City,2019,Male,73,1698
+Glasgow City,2019,Male,74,1575
+Glasgow City,2019,Male,75,1563
+Glasgow City,2019,Male,76,1449
+Glasgow City,2019,Male,77,1311
+Glasgow City,2019,Male,78,1155
+Glasgow City,2019,Male,79,1115
+Glasgow City,2019,Male,80,1066
+Glasgow City,2019,Male,81,976
+Glasgow City,2019,Male,82,938
+Glasgow City,2019,Male,83,776
+Glasgow City,2019,Male,84,727
+Glasgow City,2019,Male,85,571
+Glasgow City,2019,Male,86,559
+Glasgow City,2019,Male,87,481
+Glasgow City,2019,Male,88,416
+Glasgow City,2019,Male,89,320
+Glasgow City,2019,Male,90,1010
+Highland,2019,Female,0,922
+Highland,2019,Female,1,1040
+Highland,2019,Female,2,1036
+Highland,2019,Female,3,1106
+Highland,2019,Female,4,1191
+Highland,2019,Female,5,1096
+Highland,2019,Female,6,1221
+Highland,2019,Female,7,1222
+Highland,2019,Female,8,1248
+Highland,2019,Female,9,1233
+Highland,2019,Female,10,1265
+Highland,2019,Female,11,1313
+Highland,2019,Female,12,1273
+Highland,2019,Female,13,1277
+Highland,2019,Female,14,1252
+Highland,2019,Female,15,1274
+Highland,2019,Female,16,1245
+Highland,2019,Female,17,1230
+Highland,2019,Female,18,1101
+Highland,2019,Female,19,957
+Highland,2019,Female,20,1060
+Highland,2019,Female,21,1043
+Highland,2019,Female,22,1040
+Highland,2019,Female,23,1081
+Highland,2019,Female,24,1164
+Highland,2019,Female,25,1282
+Highland,2019,Female,26,1203
+Highland,2019,Female,27,1166
+Highland,2019,Female,28,1245
+Highland,2019,Female,29,1229
+Highland,2019,Female,30,1235
+Highland,2019,Female,31,1325
+Highland,2019,Female,32,1385
+Highland,2019,Female,33,1354
+Highland,2019,Female,34,1416
+Highland,2019,Female,35,1432
+Highland,2019,Female,36,1465
+Highland,2019,Female,37,1509
+Highland,2019,Female,38,1470
+Highland,2019,Female,39,1438
+Highland,2019,Female,40,1362
+Highland,2019,Female,41,1265
+Highland,2019,Female,42,1283
+Highland,2019,Female,43,1402
+Highland,2019,Female,44,1451
+Highland,2019,Female,45,1458
+Highland,2019,Female,46,1582
+Highland,2019,Female,47,1713
+Highland,2019,Female,48,1778
+Highland,2019,Female,49,1803
+Highland,2019,Female,50,1819
+Highland,2019,Female,51,1914
+Highland,2019,Female,52,1818
+Highland,2019,Female,53,1931
+Highland,2019,Female,54,2076
+Highland,2019,Female,55,2079
+Highland,2019,Female,56,1856
+Highland,2019,Female,57,1829
+Highland,2019,Female,58,1928
+Highland,2019,Female,59,1764
+Highland,2019,Female,60,1816
+Highland,2019,Female,61,1783
+Highland,2019,Female,62,1670
+Highland,2019,Female,63,1688
+Highland,2019,Female,64,1589
+Highland,2019,Female,65,1628
+Highland,2019,Female,66,1640
+Highland,2019,Female,67,1555
+Highland,2019,Female,68,1542
+Highland,2019,Female,69,1536
+Highland,2019,Female,70,1561
+Highland,2019,Female,71,1612
+Highland,2019,Female,72,1680
+Highland,2019,Female,73,1284
+Highland,2019,Female,74,1139
+Highland,2019,Female,75,1255
+Highland,2019,Female,76,1246
+Highland,2019,Female,77,1046
+Highland,2019,Female,78,980
+Highland,2019,Female,79,954
+Highland,2019,Female,80,906
+Highland,2019,Female,81,864
+Highland,2019,Female,82,746
+Highland,2019,Female,83,778
+Highland,2019,Female,84,682
+Highland,2019,Female,85,611
+Highland,2019,Female,86,559
+Highland,2019,Female,87,521
+Highland,2019,Female,88,439
+Highland,2019,Female,89,364
+Highland,2019,Female,90,1437
+Highland,2019,Male,0,1049
+Highland,2019,Male,1,1042
+Highland,2019,Male,2,1130
+Highland,2019,Male,3,1193
+Highland,2019,Male,4,1230
+Highland,2019,Male,5,1210
+Highland,2019,Male,6,1203
+Highland,2019,Male,7,1288
+Highland,2019,Male,8,1323
+Highland,2019,Male,9,1263
+Highland,2019,Male,10,1447
+Highland,2019,Male,11,1382
+Highland,2019,Male,12,1353
+Highland,2019,Male,13,1338
+Highland,2019,Male,14,1353
+Highland,2019,Male,15,1263
+Highland,2019,Male,16,1241
+Highland,2019,Male,17,1287
+Highland,2019,Male,18,1297
+Highland,2019,Male,19,1187
+Highland,2019,Male,20,1296
+Highland,2019,Male,21,1219
+Highland,2019,Male,22,1233
+Highland,2019,Male,23,1223
+Highland,2019,Male,24,1335
+Highland,2019,Male,25,1333
+Highland,2019,Male,26,1210
+Highland,2019,Male,27,1233
+Highland,2019,Male,28,1264
+Highland,2019,Male,29,1202
+Highland,2019,Male,30,1224
+Highland,2019,Male,31,1299
+Highland,2019,Male,32,1311
+Highland,2019,Male,33,1376
+Highland,2019,Male,34,1324
+Highland,2019,Male,35,1394
+Highland,2019,Male,36,1239
+Highland,2019,Male,37,1328
+Highland,2019,Male,38,1492
+Highland,2019,Male,39,1383
+Highland,2019,Male,40,1355
+Highland,2019,Male,41,1262
+Highland,2019,Male,42,1209
+Highland,2019,Male,43,1300
+Highland,2019,Male,44,1326
+Highland,2019,Male,45,1284
+Highland,2019,Male,46,1423
+Highland,2019,Male,47,1484
+Highland,2019,Male,48,1640
+Highland,2019,Male,49,1565
+Highland,2019,Male,50,1609
+Highland,2019,Male,51,1761
+Highland,2019,Male,52,1806
+Highland,2019,Male,53,1880
+Highland,2019,Male,54,1873
+Highland,2019,Male,55,1841
+Highland,2019,Male,56,1816
+Highland,2019,Male,57,1796
+Highland,2019,Male,58,1778
+Highland,2019,Male,59,1767
+Highland,2019,Male,60,1713
+Highland,2019,Male,61,1660
+Highland,2019,Male,62,1730
+Highland,2019,Male,63,1615
+Highland,2019,Male,64,1551
+Highland,2019,Male,65,1575
+Highland,2019,Male,66,1489
+Highland,2019,Male,67,1505
+Highland,2019,Male,68,1470
+Highland,2019,Male,69,1487
+Highland,2019,Male,70,1506
+Highland,2019,Male,71,1610
+Highland,2019,Male,72,1531
+Highland,2019,Male,73,1223
+Highland,2019,Male,74,1117
+Highland,2019,Male,75,1155
+Highland,2019,Male,76,1008
+Highland,2019,Male,77,944
+Highland,2019,Male,78,756
+Highland,2019,Male,79,777
+Highland,2019,Male,80,724
+Highland,2019,Male,81,680
+Highland,2019,Male,82,575
+Highland,2019,Male,83,522
+Highland,2019,Male,84,490
+Highland,2019,Male,85,466
+Highland,2019,Male,86,377
+Highland,2019,Male,87,335
+Highland,2019,Male,88,267
+Highland,2019,Male,89,228
+Highland,2019,Male,90,706
+Inverclyde,2019,Female,0,324
+Inverclyde,2019,Female,1,328
+Inverclyde,2019,Female,2,336
+Inverclyde,2019,Female,3,329
+Inverclyde,2019,Female,4,366
+Inverclyde,2019,Female,5,362
+Inverclyde,2019,Female,6,400
+Inverclyde,2019,Female,7,370
+Inverclyde,2019,Female,8,396
+Inverclyde,2019,Female,9,405
+Inverclyde,2019,Female,10,403
+Inverclyde,2019,Female,11,410
+Inverclyde,2019,Female,12,389
+Inverclyde,2019,Female,13,422
+Inverclyde,2019,Female,14,398
+Inverclyde,2019,Female,15,399
+Inverclyde,2019,Female,16,393
+Inverclyde,2019,Female,17,372
+Inverclyde,2019,Female,18,400
+Inverclyde,2019,Female,19,404
+Inverclyde,2019,Female,20,412
+Inverclyde,2019,Female,21,373
+Inverclyde,2019,Female,22,431
+Inverclyde,2019,Female,23,456
+Inverclyde,2019,Female,24,462
+Inverclyde,2019,Female,25,450
+Inverclyde,2019,Female,26,417
+Inverclyde,2019,Female,27,481
+Inverclyde,2019,Female,28,478
+Inverclyde,2019,Female,29,485
+Inverclyde,2019,Female,30,422
+Inverclyde,2019,Female,31,459
+Inverclyde,2019,Female,32,409
+Inverclyde,2019,Female,33,487
+Inverclyde,2019,Female,34,430
+Inverclyde,2019,Female,35,425
+Inverclyde,2019,Female,36,453
+Inverclyde,2019,Female,37,440
+Inverclyde,2019,Female,38,473
+Inverclyde,2019,Female,39,493
+Inverclyde,2019,Female,40,452
+Inverclyde,2019,Female,41,413
+Inverclyde,2019,Female,42,415
+Inverclyde,2019,Female,43,427
+Inverclyde,2019,Female,44,523
+Inverclyde,2019,Female,45,467
+Inverclyde,2019,Female,46,514
+Inverclyde,2019,Female,47,521
+Inverclyde,2019,Female,48,633
+Inverclyde,2019,Female,49,582
+Inverclyde,2019,Female,50,624
+Inverclyde,2019,Female,51,689
+Inverclyde,2019,Female,52,687
+Inverclyde,2019,Female,53,679
+Inverclyde,2019,Female,54,661
+Inverclyde,2019,Female,55,694
+Inverclyde,2019,Female,56,697
+Inverclyde,2019,Female,57,668
+Inverclyde,2019,Female,58,660
+Inverclyde,2019,Female,59,671
+Inverclyde,2019,Female,60,672
+Inverclyde,2019,Female,61,570
+Inverclyde,2019,Female,62,599
+Inverclyde,2019,Female,63,530
+Inverclyde,2019,Female,64,531
+Inverclyde,2019,Female,65,516
+Inverclyde,2019,Female,66,492
+Inverclyde,2019,Female,67,479
+Inverclyde,2019,Female,68,498
+Inverclyde,2019,Female,69,501
+Inverclyde,2019,Female,70,495
+Inverclyde,2019,Female,71,526
+Inverclyde,2019,Female,72,516
+Inverclyde,2019,Female,73,393
+Inverclyde,2019,Female,74,377
+Inverclyde,2019,Female,75,398
+Inverclyde,2019,Female,76,398
+Inverclyde,2019,Female,77,327
+Inverclyde,2019,Female,78,317
+Inverclyde,2019,Female,79,300
+Inverclyde,2019,Female,80,317
+Inverclyde,2019,Female,81,293
+Inverclyde,2019,Female,82,300
+Inverclyde,2019,Female,83,267
+Inverclyde,2019,Female,84,213
+Inverclyde,2019,Female,85,207
+Inverclyde,2019,Female,86,197
+Inverclyde,2019,Female,87,217
+Inverclyde,2019,Female,88,174
+Inverclyde,2019,Female,89,129
+Inverclyde,2019,Female,90,544
+Inverclyde,2019,Male,0,342
+Inverclyde,2019,Male,1,342
+Inverclyde,2019,Male,2,361
+Inverclyde,2019,Male,3,380
+Inverclyde,2019,Male,4,401
+Inverclyde,2019,Male,5,413
+Inverclyde,2019,Male,6,389
+Inverclyde,2019,Male,7,436
+Inverclyde,2019,Male,8,453
+Inverclyde,2019,Male,9,460
+Inverclyde,2019,Male,10,409
+Inverclyde,2019,Male,11,452
+Inverclyde,2019,Male,12,445
+Inverclyde,2019,Male,13,384
+Inverclyde,2019,Male,14,457
+Inverclyde,2019,Male,15,442
+Inverclyde,2019,Male,16,395
+Inverclyde,2019,Male,17,363
+Inverclyde,2019,Male,18,412
+Inverclyde,2019,Male,19,422
+Inverclyde,2019,Male,20,456
+Inverclyde,2019,Male,21,442
+Inverclyde,2019,Male,22,461
+Inverclyde,2019,Male,23,476
+Inverclyde,2019,Male,24,477
+Inverclyde,2019,Male,25,441
+Inverclyde,2019,Male,26,453
+Inverclyde,2019,Male,27,482
+Inverclyde,2019,Male,28,506
+Inverclyde,2019,Male,29,442
+Inverclyde,2019,Male,30,433
+Inverclyde,2019,Male,31,444
+Inverclyde,2019,Male,32,433
+Inverclyde,2019,Male,33,474
+Inverclyde,2019,Male,34,415
+Inverclyde,2019,Male,35,414
+Inverclyde,2019,Male,36,431
+Inverclyde,2019,Male,37,466
+Inverclyde,2019,Male,38,406
+Inverclyde,2019,Male,39,431
+Inverclyde,2019,Male,40,418
+Inverclyde,2019,Male,41,373
+Inverclyde,2019,Male,42,386
+Inverclyde,2019,Male,43,369
+Inverclyde,2019,Male,44,401
+Inverclyde,2019,Male,45,407
+Inverclyde,2019,Male,46,430
+Inverclyde,2019,Male,47,477
+Inverclyde,2019,Male,48,464
+Inverclyde,2019,Male,49,510
+Inverclyde,2019,Male,50,504
+Inverclyde,2019,Male,51,587
+Inverclyde,2019,Male,52,608
+Inverclyde,2019,Male,53,618
+Inverclyde,2019,Male,54,632
+Inverclyde,2019,Male,55,606
+Inverclyde,2019,Male,56,660
+Inverclyde,2019,Male,57,680
+Inverclyde,2019,Male,58,660
+Inverclyde,2019,Male,59,594
+Inverclyde,2019,Male,60,590
+Inverclyde,2019,Male,61,517
+Inverclyde,2019,Male,62,527
+Inverclyde,2019,Male,63,528
+Inverclyde,2019,Male,64,484
+Inverclyde,2019,Male,65,433
+Inverclyde,2019,Male,66,455
+Inverclyde,2019,Male,67,426
+Inverclyde,2019,Male,68,465
+Inverclyde,2019,Male,69,441
+Inverclyde,2019,Male,70,414
+Inverclyde,2019,Male,71,393
+Inverclyde,2019,Male,72,448
+Inverclyde,2019,Male,73,379
+Inverclyde,2019,Male,74,316
+Inverclyde,2019,Male,75,358
+Inverclyde,2019,Male,76,301
+Inverclyde,2019,Male,77,256
+Inverclyde,2019,Male,78,259
+Inverclyde,2019,Male,79,211
+Inverclyde,2019,Male,80,222
+Inverclyde,2019,Male,81,207
+Inverclyde,2019,Male,82,184
+Inverclyde,2019,Male,83,156
+Inverclyde,2019,Male,84,158
+Inverclyde,2019,Male,85,105
+Inverclyde,2019,Male,86,101
+Inverclyde,2019,Male,87,94
+Inverclyde,2019,Male,88,63
+Inverclyde,2019,Male,89,70
+Inverclyde,2019,Male,90,202
+Midlothian,2019,Female,0,535
+Midlothian,2019,Female,1,571
+Midlothian,2019,Female,2,555
+Midlothian,2019,Female,3,599
+Midlothian,2019,Female,4,602
+Midlothian,2019,Female,5,610
+Midlothian,2019,Female,6,596
+Midlothian,2019,Female,7,576
+Midlothian,2019,Female,8,605
+Midlothian,2019,Female,9,565
+Midlothian,2019,Female,10,518
+Midlothian,2019,Female,11,568
+Midlothian,2019,Female,12,482
+Midlothian,2019,Female,13,521
+Midlothian,2019,Female,14,496
+Midlothian,2019,Female,15,481
+Midlothian,2019,Female,16,458
+Midlothian,2019,Female,17,439
+Midlothian,2019,Female,18,484
+Midlothian,2019,Female,19,466
+Midlothian,2019,Female,20,483
+Midlothian,2019,Female,21,432
+Midlothian,2019,Female,22,481
+Midlothian,2019,Female,23,426
+Midlothian,2019,Female,24,534
+Midlothian,2019,Female,25,552
+Midlothian,2019,Female,26,589
+Midlothian,2019,Female,27,630
+Midlothian,2019,Female,28,625
+Midlothian,2019,Female,29,578
+Midlothian,2019,Female,30,599
+Midlothian,2019,Female,31,654
+Midlothian,2019,Female,32,621
+Midlothian,2019,Female,33,620
+Midlothian,2019,Female,34,658
+Midlothian,2019,Female,35,644
+Midlothian,2019,Female,36,642
+Midlothian,2019,Female,37,712
+Midlothian,2019,Female,38,675
+Midlothian,2019,Female,39,663
+Midlothian,2019,Female,40,646
+Midlothian,2019,Female,41,549
+Midlothian,2019,Female,42,532
+Midlothian,2019,Female,43,569
+Midlothian,2019,Female,44,562
+Midlothian,2019,Female,45,588
+Midlothian,2019,Female,46,564
+Midlothian,2019,Female,47,654
+Midlothian,2019,Female,48,730
+Midlothian,2019,Female,49,704
+Midlothian,2019,Female,50,695
+Midlothian,2019,Female,51,708
+Midlothian,2019,Female,52,690
+Midlothian,2019,Female,53,703
+Midlothian,2019,Female,54,682
+Midlothian,2019,Female,55,659
+Midlothian,2019,Female,56,725
+Midlothian,2019,Female,57,682
+Midlothian,2019,Female,58,693
+Midlothian,2019,Female,59,632
+Midlothian,2019,Female,60,626
+Midlothian,2019,Female,61,630
+Midlothian,2019,Female,62,634
+Midlothian,2019,Female,63,537
+Midlothian,2019,Female,64,562
+Midlothian,2019,Female,65,529
+Midlothian,2019,Female,66,537
+Midlothian,2019,Female,67,514
+Midlothian,2019,Female,68,557
+Midlothian,2019,Female,69,501
+Midlothian,2019,Female,70,558
+Midlothian,2019,Female,71,564
+Midlothian,2019,Female,72,621
+Midlothian,2019,Female,73,465
+Midlothian,2019,Female,74,404
+Midlothian,2019,Female,75,437
+Midlothian,2019,Female,76,398
+Midlothian,2019,Female,77,323
+Midlothian,2019,Female,78,331
+Midlothian,2019,Female,79,315
+Midlothian,2019,Female,80,289
+Midlothian,2019,Female,81,274
+Midlothian,2019,Female,82,266
+Midlothian,2019,Female,83,258
+Midlothian,2019,Female,84,238
+Midlothian,2019,Female,85,187
+Midlothian,2019,Female,86,161
+Midlothian,2019,Female,87,166
+Midlothian,2019,Female,88,127
+Midlothian,2019,Female,89,120
+Midlothian,2019,Female,90,385
+Midlothian,2019,Male,0,574
+Midlothian,2019,Male,1,559
+Midlothian,2019,Male,2,595
+Midlothian,2019,Male,3,635
+Midlothian,2019,Male,4,622
+Midlothian,2019,Male,5,603
+Midlothian,2019,Male,6,546
+Midlothian,2019,Male,7,619
+Midlothian,2019,Male,8,555
+Midlothian,2019,Male,9,582
+Midlothian,2019,Male,10,581
+Midlothian,2019,Male,11,502
+Midlothian,2019,Male,12,527
+Midlothian,2019,Male,13,535
+Midlothian,2019,Male,14,522
+Midlothian,2019,Male,15,516
+Midlothian,2019,Male,16,502
+Midlothian,2019,Male,17,482
+Midlothian,2019,Male,18,481
+Midlothian,2019,Male,19,483
+Midlothian,2019,Male,20,482
+Midlothian,2019,Male,21,458
+Midlothian,2019,Male,22,458
+Midlothian,2019,Male,23,491
+Midlothian,2019,Male,24,507
+Midlothian,2019,Male,25,521
+Midlothian,2019,Male,26,505
+Midlothian,2019,Male,27,531
+Midlothian,2019,Male,28,566
+Midlothian,2019,Male,29,539
+Midlothian,2019,Male,30,575
+Midlothian,2019,Male,31,580
+Midlothian,2019,Male,32,539
+Midlothian,2019,Male,33,609
+Midlothian,2019,Male,34,545
+Midlothian,2019,Male,35,560
+Midlothian,2019,Male,36,595
+Midlothian,2019,Male,37,576
+Midlothian,2019,Male,38,571
+Midlothian,2019,Male,39,642
+Midlothian,2019,Male,40,572
+Midlothian,2019,Male,41,529
+Midlothian,2019,Male,42,520
+Midlothian,2019,Male,43,536
+Midlothian,2019,Male,44,538
+Midlothian,2019,Male,45,594
+Midlothian,2019,Male,46,575
+Midlothian,2019,Male,47,574
+Midlothian,2019,Male,48,626
+Midlothian,2019,Male,49,632
+Midlothian,2019,Male,50,613
+Midlothian,2019,Male,51,651
+Midlothian,2019,Male,52,657
+Midlothian,2019,Male,53,594
+Midlothian,2019,Male,54,645
+Midlothian,2019,Male,55,648
+Midlothian,2019,Male,56,641
+Midlothian,2019,Male,57,640
+Midlothian,2019,Male,58,579
+Midlothian,2019,Male,59,615
+Midlothian,2019,Male,60,577
+Midlothian,2019,Male,61,560
+Midlothian,2019,Male,62,565
+Midlothian,2019,Male,63,548
+Midlothian,2019,Male,64,476
+Midlothian,2019,Male,65,516
+Midlothian,2019,Male,66,494
+Midlothian,2019,Male,67,484
+Midlothian,2019,Male,68,469
+Midlothian,2019,Male,69,498
+Midlothian,2019,Male,70,498
+Midlothian,2019,Male,71,465
+Midlothian,2019,Male,72,545
+Midlothian,2019,Male,73,412
+Midlothian,2019,Male,74,393
+Midlothian,2019,Male,75,360
+Midlothian,2019,Male,76,333
+Midlothian,2019,Male,77,281
+Midlothian,2019,Male,78,271
+Midlothian,2019,Male,79,219
+Midlothian,2019,Male,80,234
+Midlothian,2019,Male,81,230
+Midlothian,2019,Male,82,180
+Midlothian,2019,Male,83,161
+Midlothian,2019,Male,84,151
+Midlothian,2019,Male,85,109
+Midlothian,2019,Male,86,107
+Midlothian,2019,Male,87,90
+Midlothian,2019,Male,88,87
+Midlothian,2019,Male,89,83
+Midlothian,2019,Male,90,188
+Moray,2019,Female,0,392
+Moray,2019,Female,1,367
+Moray,2019,Female,2,446
+Moray,2019,Female,3,441
+Moray,2019,Female,4,453
+Moray,2019,Female,5,467
+Moray,2019,Female,6,489
+Moray,2019,Female,7,504
+Moray,2019,Female,8,519
+Moray,2019,Female,9,523
+Moray,2019,Female,10,561
+Moray,2019,Female,11,598
+Moray,2019,Female,12,519
+Moray,2019,Female,13,500
+Moray,2019,Female,14,555
+Moray,2019,Female,15,529
+Moray,2019,Female,16,517
+Moray,2019,Female,17,491
+Moray,2019,Female,18,456
+Moray,2019,Female,19,407
+Moray,2019,Female,20,412
+Moray,2019,Female,21,387
+Moray,2019,Female,22,446
+Moray,2019,Female,23,494
+Moray,2019,Female,24,511
+Moray,2019,Female,25,577
+Moray,2019,Female,26,537
+Moray,2019,Female,27,556
+Moray,2019,Female,28,482
+Moray,2019,Female,29,518
+Moray,2019,Female,30,556
+Moray,2019,Female,31,552
+Moray,2019,Female,32,557
+Moray,2019,Female,33,579
+Moray,2019,Female,34,628
+Moray,2019,Female,35,566
+Moray,2019,Female,36,553
+Moray,2019,Female,37,594
+Moray,2019,Female,38,528
+Moray,2019,Female,39,563
+Moray,2019,Female,40,533
+Moray,2019,Female,41,501
+Moray,2019,Female,42,504
+Moray,2019,Female,43,567
+Moray,2019,Female,44,593
+Moray,2019,Female,45,613
+Moray,2019,Female,46,655
+Moray,2019,Female,47,707
+Moray,2019,Female,48,744
+Moray,2019,Female,49,725
+Moray,2019,Female,50,714
+Moray,2019,Female,51,708
+Moray,2019,Female,52,729
+Moray,2019,Female,53,771
+Moray,2019,Female,54,762
+Moray,2019,Female,55,715
+Moray,2019,Female,56,762
+Moray,2019,Female,57,719
+Moray,2019,Female,58,700
+Moray,2019,Female,59,669
+Moray,2019,Female,60,655
+Moray,2019,Female,61,668
+Moray,2019,Female,62,674
+Moray,2019,Female,63,653
+Moray,2019,Female,64,635
+Moray,2019,Female,65,591
+Moray,2019,Female,66,612
+Moray,2019,Female,67,563
+Moray,2019,Female,68,616
+Moray,2019,Female,69,606
+Moray,2019,Female,70,585
+Moray,2019,Female,71,600
+Moray,2019,Female,72,706
+Moray,2019,Female,73,520
+Moray,2019,Female,74,529
+Moray,2019,Female,75,485
+Moray,2019,Female,76,472
+Moray,2019,Female,77,409
+Moray,2019,Female,78,389
+Moray,2019,Female,79,377
+Moray,2019,Female,80,346
+Moray,2019,Female,81,345
+Moray,2019,Female,82,298
+Moray,2019,Female,83,286
+Moray,2019,Female,84,332
+Moray,2019,Female,85,236
+Moray,2019,Female,86,230
+Moray,2019,Female,87,218
+Moray,2019,Female,88,203
+Moray,2019,Female,89,135
+Moray,2019,Female,90,579
+Moray,2019,Male,0,421
+Moray,2019,Male,1,448
+Moray,2019,Male,2,451
+Moray,2019,Male,3,521
+Moray,2019,Male,4,486
+Moray,2019,Male,5,495
+Moray,2019,Male,6,531
+Moray,2019,Male,7,464
+Moray,2019,Male,8,588
+Moray,2019,Male,9,557
+Moray,2019,Male,10,562
+Moray,2019,Male,11,618
+Moray,2019,Male,12,565
+Moray,2019,Male,13,552
+Moray,2019,Male,14,497
+Moray,2019,Male,15,526
+Moray,2019,Male,16,568
+Moray,2019,Male,17,572
+Moray,2019,Male,18,543
+Moray,2019,Male,19,547
+Moray,2019,Male,20,578
+Moray,2019,Male,21,551
+Moray,2019,Male,22,566
+Moray,2019,Male,23,648
+Moray,2019,Male,24,578
+Moray,2019,Male,25,549
+Moray,2019,Male,26,532
+Moray,2019,Male,27,618
+Moray,2019,Male,28,538
+Moray,2019,Male,29,505
+Moray,2019,Male,30,505
+Moray,2019,Male,31,591
+Moray,2019,Male,32,607
+Moray,2019,Male,33,528
+Moray,2019,Male,34,560
+Moray,2019,Male,35,563
+Moray,2019,Male,36,507
+Moray,2019,Male,37,532
+Moray,2019,Male,38,532
+Moray,2019,Male,39,631
+Moray,2019,Male,40,609
+Moray,2019,Male,41,500
+Moray,2019,Male,42,506
+Moray,2019,Male,43,561
+Moray,2019,Male,44,552
+Moray,2019,Male,45,601
+Moray,2019,Male,46,599
+Moray,2019,Male,47,680
+Moray,2019,Male,48,712
+Moray,2019,Male,49,679
+Moray,2019,Male,50,728
+Moray,2019,Male,51,751
+Moray,2019,Male,52,742
+Moray,2019,Male,53,716
+Moray,2019,Male,54,723
+Moray,2019,Male,55,732
+Moray,2019,Male,56,720
+Moray,2019,Male,57,740
+Moray,2019,Male,58,688
+Moray,2019,Male,59,685
+Moray,2019,Male,60,635
+Moray,2019,Male,61,662
+Moray,2019,Male,62,628
+Moray,2019,Male,63,661
+Moray,2019,Male,64,557
+Moray,2019,Male,65,570
+Moray,2019,Male,66,588
+Moray,2019,Male,67,558
+Moray,2019,Male,68,554
+Moray,2019,Male,69,570
+Moray,2019,Male,70,525
+Moray,2019,Male,71,589
+Moray,2019,Male,72,567
+Moray,2019,Male,73,444
+Moray,2019,Male,74,400
+Moray,2019,Male,75,439
+Moray,2019,Male,76,398
+Moray,2019,Male,77,343
+Moray,2019,Male,78,326
+Moray,2019,Male,79,315
+Moray,2019,Male,80,316
+Moray,2019,Male,81,275
+Moray,2019,Male,82,278
+Moray,2019,Male,83,192
+Moray,2019,Male,84,210
+Moray,2019,Male,85,190
+Moray,2019,Male,86,163
+Moray,2019,Male,87,115
+Moray,2019,Male,88,108
+Moray,2019,Male,89,96
+Moray,2019,Male,90,319
+Na h-Eileanan Siar,2019,Female,0,103
+Na h-Eileanan Siar,2019,Female,1,93
+Na h-Eileanan Siar,2019,Female,2,113
+Na h-Eileanan Siar,2019,Female,3,112
+Na h-Eileanan Siar,2019,Female,4,115
+Na h-Eileanan Siar,2019,Female,5,124
+Na h-Eileanan Siar,2019,Female,6,140
+Na h-Eileanan Siar,2019,Female,7,121
+Na h-Eileanan Siar,2019,Female,8,124
+Na h-Eileanan Siar,2019,Female,9,122
+Na h-Eileanan Siar,2019,Female,10,133
+Na h-Eileanan Siar,2019,Female,11,131
+Na h-Eileanan Siar,2019,Female,12,160
+Na h-Eileanan Siar,2019,Female,13,147
+Na h-Eileanan Siar,2019,Female,14,130
+Na h-Eileanan Siar,2019,Female,15,158
+Na h-Eileanan Siar,2019,Female,16,149
+Na h-Eileanan Siar,2019,Female,17,133
+Na h-Eileanan Siar,2019,Female,18,134
+Na h-Eileanan Siar,2019,Female,19,87
+Na h-Eileanan Siar,2019,Female,20,94
+Na h-Eileanan Siar,2019,Female,21,94
+Na h-Eileanan Siar,2019,Female,22,100
+Na h-Eileanan Siar,2019,Female,23,112
+Na h-Eileanan Siar,2019,Female,24,99
+Na h-Eileanan Siar,2019,Female,25,141
+Na h-Eileanan Siar,2019,Female,26,116
+Na h-Eileanan Siar,2019,Female,27,111
+Na h-Eileanan Siar,2019,Female,28,96
+Na h-Eileanan Siar,2019,Female,29,107
+Na h-Eileanan Siar,2019,Female,30,124
+Na h-Eileanan Siar,2019,Female,31,144
+Na h-Eileanan Siar,2019,Female,32,147
+Na h-Eileanan Siar,2019,Female,33,119
+Na h-Eileanan Siar,2019,Female,34,122
+Na h-Eileanan Siar,2019,Female,35,131
+Na h-Eileanan Siar,2019,Female,36,143
+Na h-Eileanan Siar,2019,Female,37,161
+Na h-Eileanan Siar,2019,Female,38,142
+Na h-Eileanan Siar,2019,Female,39,150
+Na h-Eileanan Siar,2019,Female,40,177
+Na h-Eileanan Siar,2019,Female,41,138
+Na h-Eileanan Siar,2019,Female,42,169
+Na h-Eileanan Siar,2019,Female,43,164
+Na h-Eileanan Siar,2019,Female,44,167
+Na h-Eileanan Siar,2019,Female,45,165
+Na h-Eileanan Siar,2019,Female,46,174
+Na h-Eileanan Siar,2019,Female,47,186
+Na h-Eileanan Siar,2019,Female,48,173
+Na h-Eileanan Siar,2019,Female,49,208
+Na h-Eileanan Siar,2019,Female,50,220
+Na h-Eileanan Siar,2019,Female,51,226
+Na h-Eileanan Siar,2019,Female,52,195
+Na h-Eileanan Siar,2019,Female,53,217
+Na h-Eileanan Siar,2019,Female,54,220
+Na h-Eileanan Siar,2019,Female,55,194
+Na h-Eileanan Siar,2019,Female,56,215
+Na h-Eileanan Siar,2019,Female,57,233
+Na h-Eileanan Siar,2019,Female,58,210
+Na h-Eileanan Siar,2019,Female,59,190
+Na h-Eileanan Siar,2019,Female,60,204
+Na h-Eileanan Siar,2019,Female,61,185
+Na h-Eileanan Siar,2019,Female,62,188
+Na h-Eileanan Siar,2019,Female,63,185
+Na h-Eileanan Siar,2019,Female,64,199
+Na h-Eileanan Siar,2019,Female,65,187
+Na h-Eileanan Siar,2019,Female,66,169
+Na h-Eileanan Siar,2019,Female,67,211
+Na h-Eileanan Siar,2019,Female,68,199
+Na h-Eileanan Siar,2019,Female,69,189
+Na h-Eileanan Siar,2019,Female,70,199
+Na h-Eileanan Siar,2019,Female,71,170
+Na h-Eileanan Siar,2019,Female,72,208
+Na h-Eileanan Siar,2019,Female,73,173
+Na h-Eileanan Siar,2019,Female,74,134
+Na h-Eileanan Siar,2019,Female,75,148
+Na h-Eileanan Siar,2019,Female,76,169
+Na h-Eileanan Siar,2019,Female,77,120
+Na h-Eileanan Siar,2019,Female,78,147
+Na h-Eileanan Siar,2019,Female,79,154
+Na h-Eileanan Siar,2019,Female,80,120
+Na h-Eileanan Siar,2019,Female,81,128
+Na h-Eileanan Siar,2019,Female,82,113
+Na h-Eileanan Siar,2019,Female,83,97
+Na h-Eileanan Siar,2019,Female,84,91
+Na h-Eileanan Siar,2019,Female,85,95
+Na h-Eileanan Siar,2019,Female,86,89
+Na h-Eileanan Siar,2019,Female,87,82
+Na h-Eileanan Siar,2019,Female,88,64
+Na h-Eileanan Siar,2019,Female,89,50
+Na h-Eileanan Siar,2019,Female,90,234
+Na h-Eileanan Siar,2019,Male,0,93
+Na h-Eileanan Siar,2019,Male,1,120
+Na h-Eileanan Siar,2019,Male,2,138
+Na h-Eileanan Siar,2019,Male,3,130
+Na h-Eileanan Siar,2019,Male,4,107
+Na h-Eileanan Siar,2019,Male,5,140
+Na h-Eileanan Siar,2019,Male,6,120
+Na h-Eileanan Siar,2019,Male,7,166
+Na h-Eileanan Siar,2019,Male,8,138
+Na h-Eileanan Siar,2019,Male,9,147
+Na h-Eileanan Siar,2019,Male,10,157
+Na h-Eileanan Siar,2019,Male,11,168
+Na h-Eileanan Siar,2019,Male,12,155
+Na h-Eileanan Siar,2019,Male,13,156
+Na h-Eileanan Siar,2019,Male,14,144
+Na h-Eileanan Siar,2019,Male,15,149
+Na h-Eileanan Siar,2019,Male,16,138
+Na h-Eileanan Siar,2019,Male,17,118
+Na h-Eileanan Siar,2019,Male,18,111
+Na h-Eileanan Siar,2019,Male,19,105
+Na h-Eileanan Siar,2019,Male,20,126
+Na h-Eileanan Siar,2019,Male,21,100
+Na h-Eileanan Siar,2019,Male,22,128
+Na h-Eileanan Siar,2019,Male,23,132
+Na h-Eileanan Siar,2019,Male,24,123
+Na h-Eileanan Siar,2019,Male,25,139
+Na h-Eileanan Siar,2019,Male,26,88
+Na h-Eileanan Siar,2019,Male,27,124
+Na h-Eileanan Siar,2019,Male,28,85
+Na h-Eileanan Siar,2019,Male,29,119
+Na h-Eileanan Siar,2019,Male,30,141
+Na h-Eileanan Siar,2019,Male,31,126
+Na h-Eileanan Siar,2019,Male,32,150
+Na h-Eileanan Siar,2019,Male,33,120
+Na h-Eileanan Siar,2019,Male,34,119
+Na h-Eileanan Siar,2019,Male,35,134
+Na h-Eileanan Siar,2019,Male,36,115
+Na h-Eileanan Siar,2019,Male,37,141
+Na h-Eileanan Siar,2019,Male,38,130
+Na h-Eileanan Siar,2019,Male,39,135
+Na h-Eileanan Siar,2019,Male,40,144
+Na h-Eileanan Siar,2019,Male,41,140
+Na h-Eileanan Siar,2019,Male,42,155
+Na h-Eileanan Siar,2019,Male,43,145
+Na h-Eileanan Siar,2019,Male,44,161
+Na h-Eileanan Siar,2019,Male,45,164
+Na h-Eileanan Siar,2019,Male,46,173
+Na h-Eileanan Siar,2019,Male,47,189
+Na h-Eileanan Siar,2019,Male,48,226
+Na h-Eileanan Siar,2019,Male,49,189
+Na h-Eileanan Siar,2019,Male,50,210
+Na h-Eileanan Siar,2019,Male,51,214
+Na h-Eileanan Siar,2019,Male,52,234
+Na h-Eileanan Siar,2019,Male,53,189
+Na h-Eileanan Siar,2019,Male,54,202
+Na h-Eileanan Siar,2019,Male,55,230
+Na h-Eileanan Siar,2019,Male,56,203
+Na h-Eileanan Siar,2019,Male,57,247
+Na h-Eileanan Siar,2019,Male,58,202
+Na h-Eileanan Siar,2019,Male,59,210
+Na h-Eileanan Siar,2019,Male,60,229
+Na h-Eileanan Siar,2019,Male,61,193
+Na h-Eileanan Siar,2019,Male,62,212
+Na h-Eileanan Siar,2019,Male,63,192
+Na h-Eileanan Siar,2019,Male,64,213
+Na h-Eileanan Siar,2019,Male,65,184
+Na h-Eileanan Siar,2019,Male,66,210
+Na h-Eileanan Siar,2019,Male,67,178
+Na h-Eileanan Siar,2019,Male,68,162
+Na h-Eileanan Siar,2019,Male,69,215
+Na h-Eileanan Siar,2019,Male,70,187
+Na h-Eileanan Siar,2019,Male,71,208
+Na h-Eileanan Siar,2019,Male,72,202
+Na h-Eileanan Siar,2019,Male,73,152
+Na h-Eileanan Siar,2019,Male,74,129
+Na h-Eileanan Siar,2019,Male,75,141
+Na h-Eileanan Siar,2019,Male,76,118
+Na h-Eileanan Siar,2019,Male,77,120
+Na h-Eileanan Siar,2019,Male,78,104
+Na h-Eileanan Siar,2019,Male,79,104
+Na h-Eileanan Siar,2019,Male,80,125
+Na h-Eileanan Siar,2019,Male,81,96
+Na h-Eileanan Siar,2019,Male,82,75
+Na h-Eileanan Siar,2019,Male,83,63
+Na h-Eileanan Siar,2019,Male,84,66
+Na h-Eileanan Siar,2019,Male,85,57
+Na h-Eileanan Siar,2019,Male,86,49
+Na h-Eileanan Siar,2019,Male,87,30
+Na h-Eileanan Siar,2019,Male,88,37
+Na h-Eileanan Siar,2019,Male,89,21
+Na h-Eileanan Siar,2019,Male,90,122
+North Ayrshire,2019,Female,0,514
+North Ayrshire,2019,Female,1,571
+North Ayrshire,2019,Female,2,590
+North Ayrshire,2019,Female,3,628
+North Ayrshire,2019,Female,4,643
+North Ayrshire,2019,Female,5,684
+North Ayrshire,2019,Female,6,664
+North Ayrshire,2019,Female,7,728
+North Ayrshire,2019,Female,8,794
+North Ayrshire,2019,Female,9,696
+North Ayrshire,2019,Female,10,772
+North Ayrshire,2019,Female,11,738
+North Ayrshire,2019,Female,12,768
+North Ayrshire,2019,Female,13,728
+North Ayrshire,2019,Female,14,720
+North Ayrshire,2019,Female,15,713
+North Ayrshire,2019,Female,16,718
+North Ayrshire,2019,Female,17,684
+North Ayrshire,2019,Female,18,722
+North Ayrshire,2019,Female,19,671
+North Ayrshire,2019,Female,20,694
+North Ayrshire,2019,Female,21,733
+North Ayrshire,2019,Female,22,735
+North Ayrshire,2019,Female,23,756
+North Ayrshire,2019,Female,24,786
+North Ayrshire,2019,Female,25,821
+North Ayrshire,2019,Female,26,731
+North Ayrshire,2019,Female,27,748
+North Ayrshire,2019,Female,28,756
+North Ayrshire,2019,Female,29,727
+North Ayrshire,2019,Female,30,748
+North Ayrshire,2019,Female,31,825
+North Ayrshire,2019,Female,32,764
+North Ayrshire,2019,Female,33,767
+North Ayrshire,2019,Female,34,746
+North Ayrshire,2019,Female,35,721
+North Ayrshire,2019,Female,36,727
+North Ayrshire,2019,Female,37,773
+North Ayrshire,2019,Female,38,800
+North Ayrshire,2019,Female,39,736
+North Ayrshire,2019,Female,40,730
+North Ayrshire,2019,Female,41,705
+North Ayrshire,2019,Female,42,718
+North Ayrshire,2019,Female,43,843
+North Ayrshire,2019,Female,44,859
+North Ayrshire,2019,Female,45,821
+North Ayrshire,2019,Female,46,907
+North Ayrshire,2019,Female,47,985
+North Ayrshire,2019,Female,48,1050
+North Ayrshire,2019,Female,49,1066
+North Ayrshire,2019,Female,50,1074
+North Ayrshire,2019,Female,51,1090
+North Ayrshire,2019,Female,52,1142
+North Ayrshire,2019,Female,53,1134
+North Ayrshire,2019,Female,54,1151
+North Ayrshire,2019,Female,55,1178
+North Ayrshire,2019,Female,56,1191
+North Ayrshire,2019,Female,57,1086
+North Ayrshire,2019,Female,58,1045
+North Ayrshire,2019,Female,59,1034
+North Ayrshire,2019,Female,60,1091
+North Ayrshire,2019,Female,61,1067
+North Ayrshire,2019,Female,62,987
+North Ayrshire,2019,Female,63,996
+North Ayrshire,2019,Female,64,932
+North Ayrshire,2019,Female,65,970
+North Ayrshire,2019,Female,66,975
+North Ayrshire,2019,Female,67,883
+North Ayrshire,2019,Female,68,898
+North Ayrshire,2019,Female,69,847
+North Ayrshire,2019,Female,70,970
+North Ayrshire,2019,Female,71,970
+North Ayrshire,2019,Female,72,1063
+North Ayrshire,2019,Female,73,777
+North Ayrshire,2019,Female,74,730
+North Ayrshire,2019,Female,75,736
+North Ayrshire,2019,Female,76,717
+North Ayrshire,2019,Female,77,692
+North Ayrshire,2019,Female,78,600
+North Ayrshire,2019,Female,79,593
+North Ayrshire,2019,Female,80,496
+North Ayrshire,2019,Female,81,509
+North Ayrshire,2019,Female,82,439
+North Ayrshire,2019,Female,83,435
+North Ayrshire,2019,Female,84,363
+North Ayrshire,2019,Female,85,373
+North Ayrshire,2019,Female,86,306
+North Ayrshire,2019,Female,87,294
+North Ayrshire,2019,Female,88,232
+North Ayrshire,2019,Female,89,180
+North Ayrshire,2019,Female,90,819
+North Ayrshire,2019,Male,0,546
+North Ayrshire,2019,Male,1,654
+North Ayrshire,2019,Male,2,624
+North Ayrshire,2019,Male,3,718
+North Ayrshire,2019,Male,4,682
+North Ayrshire,2019,Male,5,691
+North Ayrshire,2019,Male,6,687
+North Ayrshire,2019,Male,7,761
+North Ayrshire,2019,Male,8,768
+North Ayrshire,2019,Male,9,720
+North Ayrshire,2019,Male,10,793
+North Ayrshire,2019,Male,11,775
+North Ayrshire,2019,Male,12,801
+North Ayrshire,2019,Male,13,808
+North Ayrshire,2019,Male,14,772
+North Ayrshire,2019,Male,15,717
+North Ayrshire,2019,Male,16,743
+North Ayrshire,2019,Male,17,701
+North Ayrshire,2019,Male,18,755
+North Ayrshire,2019,Male,19,715
+North Ayrshire,2019,Male,20,747
+North Ayrshire,2019,Male,21,807
+North Ayrshire,2019,Male,22,853
+North Ayrshire,2019,Male,23,786
+North Ayrshire,2019,Male,24,850
+North Ayrshire,2019,Male,25,810
+North Ayrshire,2019,Male,26,786
+North Ayrshire,2019,Male,27,740
+North Ayrshire,2019,Male,28,802
+North Ayrshire,2019,Male,29,621
+North Ayrshire,2019,Male,30,716
+North Ayrshire,2019,Male,31,697
+North Ayrshire,2019,Male,32,622
+North Ayrshire,2019,Male,33,616
+North Ayrshire,2019,Male,34,627
+North Ayrshire,2019,Male,35,628
+North Ayrshire,2019,Male,36,610
+North Ayrshire,2019,Male,37,675
+North Ayrshire,2019,Male,38,632
+North Ayrshire,2019,Male,39,684
+North Ayrshire,2019,Male,40,645
+North Ayrshire,2019,Male,41,608
+North Ayrshire,2019,Male,42,572
+North Ayrshire,2019,Male,43,677
+North Ayrshire,2019,Male,44,657
+North Ayrshire,2019,Male,45,773
+North Ayrshire,2019,Male,46,754
+North Ayrshire,2019,Male,47,818
+North Ayrshire,2019,Male,48,877
+North Ayrshire,2019,Male,49,852
+North Ayrshire,2019,Male,50,980
+North Ayrshire,2019,Male,51,945
+North Ayrshire,2019,Male,52,973
+North Ayrshire,2019,Male,53,942
+North Ayrshire,2019,Male,54,1003
+North Ayrshire,2019,Male,55,1074
+North Ayrshire,2019,Male,56,975
+North Ayrshire,2019,Male,57,1056
+North Ayrshire,2019,Male,58,954
+North Ayrshire,2019,Male,59,974
+North Ayrshire,2019,Male,60,1001
+North Ayrshire,2019,Male,61,928
+North Ayrshire,2019,Male,62,920
+North Ayrshire,2019,Male,63,913
+North Ayrshire,2019,Male,64,875
+North Ayrshire,2019,Male,65,813
+North Ayrshire,2019,Male,66,833
+North Ayrshire,2019,Male,67,828
+North Ayrshire,2019,Male,68,827
+North Ayrshire,2019,Male,69,826
+North Ayrshire,2019,Male,70,823
+North Ayrshire,2019,Male,71,922
+North Ayrshire,2019,Male,72,891
+North Ayrshire,2019,Male,73,687
+North Ayrshire,2019,Male,74,650
+North Ayrshire,2019,Male,75,657
+North Ayrshire,2019,Male,76,596
+North Ayrshire,2019,Male,77,496
+North Ayrshire,2019,Male,78,438
+North Ayrshire,2019,Male,79,517
+North Ayrshire,2019,Male,80,435
+North Ayrshire,2019,Male,81,369
+North Ayrshire,2019,Male,82,309
+North Ayrshire,2019,Male,83,296
+North Ayrshire,2019,Male,84,252
+North Ayrshire,2019,Male,85,227
+North Ayrshire,2019,Male,86,214
+North Ayrshire,2019,Male,87,205
+North Ayrshire,2019,Male,88,134
+North Ayrshire,2019,Male,89,90
+North Ayrshire,2019,Male,90,330
+North Lanarkshire,2019,Female,0,1722
+North Lanarkshire,2019,Female,1,1708
+North Lanarkshire,2019,Female,2,1751
+North Lanarkshire,2019,Female,3,1813
+North Lanarkshire,2019,Female,4,1885
+North Lanarkshire,2019,Female,5,1832
+North Lanarkshire,2019,Female,6,1871
+North Lanarkshire,2019,Female,7,1922
+North Lanarkshire,2019,Female,8,2045
+North Lanarkshire,2019,Female,9,2027
+North Lanarkshire,2019,Female,10,2137
+North Lanarkshire,2019,Female,11,2025
+North Lanarkshire,2019,Female,12,1978
+North Lanarkshire,2019,Female,13,1956
+North Lanarkshire,2019,Female,14,1971
+North Lanarkshire,2019,Female,15,1974
+North Lanarkshire,2019,Female,16,1909
+North Lanarkshire,2019,Female,17,1905
+North Lanarkshire,2019,Female,18,1914
+North Lanarkshire,2019,Female,19,1869
+North Lanarkshire,2019,Female,20,1951
+North Lanarkshire,2019,Female,21,2022
+North Lanarkshire,2019,Female,22,2089
+North Lanarkshire,2019,Female,23,1962
+North Lanarkshire,2019,Female,24,1928
+North Lanarkshire,2019,Female,25,1945
+North Lanarkshire,2019,Female,26,2102
+North Lanarkshire,2019,Female,27,2233
+North Lanarkshire,2019,Female,28,2154
+North Lanarkshire,2019,Female,29,2072
+North Lanarkshire,2019,Female,30,2194
+North Lanarkshire,2019,Female,31,2209
+North Lanarkshire,2019,Female,32,2287
+North Lanarkshire,2019,Female,33,2291
+North Lanarkshire,2019,Female,34,2343
+North Lanarkshire,2019,Female,35,2324
+North Lanarkshire,2019,Female,36,2316
+North Lanarkshire,2019,Female,37,2360
+North Lanarkshire,2019,Female,38,2436
+North Lanarkshire,2019,Female,39,2393
+North Lanarkshire,2019,Female,40,2200
+North Lanarkshire,2019,Female,41,2167
+North Lanarkshire,2019,Female,42,2001
+North Lanarkshire,2019,Female,43,2261
+North Lanarkshire,2019,Female,44,2206
+North Lanarkshire,2019,Female,45,2233
+North Lanarkshire,2019,Female,46,2360
+North Lanarkshire,2019,Female,47,2665
+North Lanarkshire,2019,Female,48,2627
+North Lanarkshire,2019,Female,49,2610
+North Lanarkshire,2019,Female,50,2787
+North Lanarkshire,2019,Female,51,2795
+North Lanarkshire,2019,Female,52,2717
+North Lanarkshire,2019,Female,53,2717
+North Lanarkshire,2019,Female,54,2810
+North Lanarkshire,2019,Female,55,2681
+North Lanarkshire,2019,Female,56,2756
+North Lanarkshire,2019,Female,57,2594
+North Lanarkshire,2019,Female,58,2456
+North Lanarkshire,2019,Female,59,2414
+North Lanarkshire,2019,Female,60,2323
+North Lanarkshire,2019,Female,61,2365
+North Lanarkshire,2019,Female,62,2217
+North Lanarkshire,2019,Female,63,2147
+North Lanarkshire,2019,Female,64,2079
+North Lanarkshire,2019,Female,65,1992
+North Lanarkshire,2019,Female,66,1962
+North Lanarkshire,2019,Female,67,1880
+North Lanarkshire,2019,Female,68,1792
+North Lanarkshire,2019,Female,69,1839
+North Lanarkshire,2019,Female,70,1835
+North Lanarkshire,2019,Female,71,1863
+North Lanarkshire,2019,Female,72,1892
+North Lanarkshire,2019,Female,73,1480
+North Lanarkshire,2019,Female,74,1433
+North Lanarkshire,2019,Female,75,1421
+North Lanarkshire,2019,Female,76,1445
+North Lanarkshire,2019,Female,77,1246
+North Lanarkshire,2019,Female,78,1077
+North Lanarkshire,2019,Female,79,1121
+North Lanarkshire,2019,Female,80,1137
+North Lanarkshire,2019,Female,81,1058
+North Lanarkshire,2019,Female,82,958
+North Lanarkshire,2019,Female,83,890
+North Lanarkshire,2019,Female,84,803
+North Lanarkshire,2019,Female,85,655
+North Lanarkshire,2019,Female,86,600
+North Lanarkshire,2019,Female,87,536
+North Lanarkshire,2019,Female,88,432
+North Lanarkshire,2019,Female,89,372
+North Lanarkshire,2019,Female,90,1275
+North Lanarkshire,2019,Male,0,1760
+North Lanarkshire,2019,Male,1,1843
+North Lanarkshire,2019,Male,2,1786
+North Lanarkshire,2019,Male,3,1975
+North Lanarkshire,2019,Male,4,1915
+North Lanarkshire,2019,Male,5,1956
+North Lanarkshire,2019,Male,6,2031
+North Lanarkshire,2019,Male,7,2084
+North Lanarkshire,2019,Male,8,2092
+North Lanarkshire,2019,Male,9,2045
+North Lanarkshire,2019,Male,10,2100
+North Lanarkshire,2019,Male,11,2215
+North Lanarkshire,2019,Male,12,2150
+North Lanarkshire,2019,Male,13,2076
+North Lanarkshire,2019,Male,14,2099
+North Lanarkshire,2019,Male,15,2092
+North Lanarkshire,2019,Male,16,1992
+North Lanarkshire,2019,Male,17,1877
+North Lanarkshire,2019,Male,18,1939
+North Lanarkshire,2019,Male,19,1922
+North Lanarkshire,2019,Male,20,2164
+North Lanarkshire,2019,Male,21,1988
+North Lanarkshire,2019,Male,22,2233
+North Lanarkshire,2019,Male,23,2128
+North Lanarkshire,2019,Male,24,2124
+North Lanarkshire,2019,Male,25,2159
+North Lanarkshire,2019,Male,26,2088
+North Lanarkshire,2019,Male,27,2163
+North Lanarkshire,2019,Male,28,2151
+North Lanarkshire,2019,Male,29,2033
+North Lanarkshire,2019,Male,30,1961
+North Lanarkshire,2019,Male,31,2167
+North Lanarkshire,2019,Male,32,1954
+North Lanarkshire,2019,Male,33,2092
+North Lanarkshire,2019,Male,34,2079
+North Lanarkshire,2019,Male,35,2050
+North Lanarkshire,2019,Male,36,2202
+North Lanarkshire,2019,Male,37,2236
+North Lanarkshire,2019,Male,38,2313
+North Lanarkshire,2019,Male,39,2246
+North Lanarkshire,2019,Male,40,2170
+North Lanarkshire,2019,Male,41,1979
+North Lanarkshire,2019,Male,42,1884
+North Lanarkshire,2019,Male,43,2221
+North Lanarkshire,2019,Male,44,2108
+North Lanarkshire,2019,Male,45,2104
+North Lanarkshire,2019,Male,46,2247
+North Lanarkshire,2019,Male,47,2308
+North Lanarkshire,2019,Male,48,2399
+North Lanarkshire,2019,Male,49,2445
+North Lanarkshire,2019,Male,50,2529
+North Lanarkshire,2019,Male,51,2569
+North Lanarkshire,2019,Male,52,2634
+North Lanarkshire,2019,Male,53,2581
+North Lanarkshire,2019,Male,54,2631
+North Lanarkshire,2019,Male,55,2552
+North Lanarkshire,2019,Male,56,2359
+North Lanarkshire,2019,Male,57,2534
+North Lanarkshire,2019,Male,58,2330
+North Lanarkshire,2019,Male,59,2218
+North Lanarkshire,2019,Male,60,2153
+North Lanarkshire,2019,Male,61,2067
+North Lanarkshire,2019,Male,62,2017
+North Lanarkshire,2019,Male,63,1927
+North Lanarkshire,2019,Male,64,1812
+North Lanarkshire,2019,Male,65,1825
+North Lanarkshire,2019,Male,66,1761
+North Lanarkshire,2019,Male,67,1643
+North Lanarkshire,2019,Male,68,1602
+North Lanarkshire,2019,Male,69,1680
+North Lanarkshire,2019,Male,70,1636
+North Lanarkshire,2019,Male,71,1638
+North Lanarkshire,2019,Male,72,1690
+North Lanarkshire,2019,Male,73,1311
+North Lanarkshire,2019,Male,74,1144
+North Lanarkshire,2019,Male,75,1172
+North Lanarkshire,2019,Male,76,1078
+North Lanarkshire,2019,Male,77,931
+North Lanarkshire,2019,Male,78,863
+North Lanarkshire,2019,Male,79,869
+North Lanarkshire,2019,Male,80,815
+North Lanarkshire,2019,Male,81,779
+North Lanarkshire,2019,Male,82,560
+North Lanarkshire,2019,Male,83,548
+North Lanarkshire,2019,Male,84,462
+North Lanarkshire,2019,Male,85,395
+North Lanarkshire,2019,Male,86,404
+North Lanarkshire,2019,Male,87,299
+North Lanarkshire,2019,Male,88,243
+North Lanarkshire,2019,Male,89,190
+North Lanarkshire,2019,Male,90,567
+Orkney Islands,2019,Female,0,79
+Orkney Islands,2019,Female,1,99
+Orkney Islands,2019,Female,2,104
+Orkney Islands,2019,Female,3,98
+Orkney Islands,2019,Female,4,99
+Orkney Islands,2019,Female,5,92
+Orkney Islands,2019,Female,6,92
+Orkney Islands,2019,Female,7,93
+Orkney Islands,2019,Female,8,128
+Orkney Islands,2019,Female,9,113
+Orkney Islands,2019,Female,10,107
+Orkney Islands,2019,Female,11,139
+Orkney Islands,2019,Female,12,122
+Orkney Islands,2019,Female,13,127
+Orkney Islands,2019,Female,14,130
+Orkney Islands,2019,Female,15,98
+Orkney Islands,2019,Female,16,110
+Orkney Islands,2019,Female,17,116
+Orkney Islands,2019,Female,18,99
+Orkney Islands,2019,Female,19,84
+Orkney Islands,2019,Female,20,87
+Orkney Islands,2019,Female,21,75
+Orkney Islands,2019,Female,22,82
+Orkney Islands,2019,Female,23,81
+Orkney Islands,2019,Female,24,107
+Orkney Islands,2019,Female,25,113
+Orkney Islands,2019,Female,26,120
+Orkney Islands,2019,Female,27,119
+Orkney Islands,2019,Female,28,123
+Orkney Islands,2019,Female,29,120
+Orkney Islands,2019,Female,30,114
+Orkney Islands,2019,Female,31,132
+Orkney Islands,2019,Female,32,141
+Orkney Islands,2019,Female,33,134
+Orkney Islands,2019,Female,34,138
+Orkney Islands,2019,Female,35,118
+Orkney Islands,2019,Female,36,136
+Orkney Islands,2019,Female,37,120
+Orkney Islands,2019,Female,38,128
+Orkney Islands,2019,Female,39,118
+Orkney Islands,2019,Female,40,157
+Orkney Islands,2019,Female,41,110
+Orkney Islands,2019,Female,42,106
+Orkney Islands,2019,Female,43,121
+Orkney Islands,2019,Female,44,137
+Orkney Islands,2019,Female,45,143
+Orkney Islands,2019,Female,46,157
+Orkney Islands,2019,Female,47,151
+Orkney Islands,2019,Female,48,165
+Orkney Islands,2019,Female,49,165
+Orkney Islands,2019,Female,50,169
+Orkney Islands,2019,Female,51,183
+Orkney Islands,2019,Female,52,181
+Orkney Islands,2019,Female,53,197
+Orkney Islands,2019,Female,54,193
+Orkney Islands,2019,Female,55,180
+Orkney Islands,2019,Female,56,179
+Orkney Islands,2019,Female,57,162
+Orkney Islands,2019,Female,58,163
+Orkney Islands,2019,Female,59,158
+Orkney Islands,2019,Female,60,165
+Orkney Islands,2019,Female,61,147
+Orkney Islands,2019,Female,62,169
+Orkney Islands,2019,Female,63,167
+Orkney Islands,2019,Female,64,159
+Orkney Islands,2019,Female,65,127
+Orkney Islands,2019,Female,66,157
+Orkney Islands,2019,Female,67,142
+Orkney Islands,2019,Female,68,160
+Orkney Islands,2019,Female,69,144
+Orkney Islands,2019,Female,70,146
+Orkney Islands,2019,Female,71,156
+Orkney Islands,2019,Female,72,163
+Orkney Islands,2019,Female,73,122
+Orkney Islands,2019,Female,74,121
+Orkney Islands,2019,Female,75,121
+Orkney Islands,2019,Female,76,136
+Orkney Islands,2019,Female,77,137
+Orkney Islands,2019,Female,78,83
+Orkney Islands,2019,Female,79,112
+Orkney Islands,2019,Female,80,78
+Orkney Islands,2019,Female,81,90
+Orkney Islands,2019,Female,82,79
+Orkney Islands,2019,Female,83,64
+Orkney Islands,2019,Female,84,58
+Orkney Islands,2019,Female,85,60
+Orkney Islands,2019,Female,86,44
+Orkney Islands,2019,Female,87,30
+Orkney Islands,2019,Female,88,53
+Orkney Islands,2019,Female,89,44
+Orkney Islands,2019,Female,90,138
+Orkney Islands,2019,Male,0,107
+Orkney Islands,2019,Male,1,89
+Orkney Islands,2019,Male,2,106
+Orkney Islands,2019,Male,3,89
+Orkney Islands,2019,Male,4,116
+Orkney Islands,2019,Male,5,111
+Orkney Islands,2019,Male,6,129
+Orkney Islands,2019,Male,7,133
+Orkney Islands,2019,Male,8,126
+Orkney Islands,2019,Male,9,117
+Orkney Islands,2019,Male,10,137
+Orkney Islands,2019,Male,11,114
+Orkney Islands,2019,Male,12,138
+Orkney Islands,2019,Male,13,120
+Orkney Islands,2019,Male,14,115
+Orkney Islands,2019,Male,15,115
+Orkney Islands,2019,Male,16,110
+Orkney Islands,2019,Male,17,106
+Orkney Islands,2019,Male,18,103
+Orkney Islands,2019,Male,19,83
+Orkney Islands,2019,Male,20,113
+Orkney Islands,2019,Male,21,104
+Orkney Islands,2019,Male,22,134
+Orkney Islands,2019,Male,23,125
+Orkney Islands,2019,Male,24,128
+Orkney Islands,2019,Male,25,108
+Orkney Islands,2019,Male,26,120
+Orkney Islands,2019,Male,27,112
+Orkney Islands,2019,Male,28,116
+Orkney Islands,2019,Male,29,140
+Orkney Islands,2019,Male,30,118
+Orkney Islands,2019,Male,31,131
+Orkney Islands,2019,Male,32,135
+Orkney Islands,2019,Male,33,111
+Orkney Islands,2019,Male,34,141
+Orkney Islands,2019,Male,35,100
+Orkney Islands,2019,Male,36,124
+Orkney Islands,2019,Male,37,114
+Orkney Islands,2019,Male,38,105
+Orkney Islands,2019,Male,39,128
+Orkney Islands,2019,Male,40,109
+Orkney Islands,2019,Male,41,122
+Orkney Islands,2019,Male,42,102
+Orkney Islands,2019,Male,43,122
+Orkney Islands,2019,Male,44,120
+Orkney Islands,2019,Male,45,109
+Orkney Islands,2019,Male,46,129
+Orkney Islands,2019,Male,47,143
+Orkney Islands,2019,Male,48,142
+Orkney Islands,2019,Male,49,174
+Orkney Islands,2019,Male,50,151
+Orkney Islands,2019,Male,51,167
+Orkney Islands,2019,Male,52,182
+Orkney Islands,2019,Male,53,184
+Orkney Islands,2019,Male,54,187
+Orkney Islands,2019,Male,55,179
+Orkney Islands,2019,Male,56,207
+Orkney Islands,2019,Male,57,169
+Orkney Islands,2019,Male,58,187
+Orkney Islands,2019,Male,59,189
+Orkney Islands,2019,Male,60,170
+Orkney Islands,2019,Male,61,162
+Orkney Islands,2019,Male,62,176
+Orkney Islands,2019,Male,63,146
+Orkney Islands,2019,Male,64,146
+Orkney Islands,2019,Male,65,161
+Orkney Islands,2019,Male,66,171
+Orkney Islands,2019,Male,67,137
+Orkney Islands,2019,Male,68,150
+Orkney Islands,2019,Male,69,131
+Orkney Islands,2019,Male,70,161
+Orkney Islands,2019,Male,71,134
+Orkney Islands,2019,Male,72,159
+Orkney Islands,2019,Male,73,118
+Orkney Islands,2019,Male,74,114
+Orkney Islands,2019,Male,75,133
+Orkney Islands,2019,Male,76,107
+Orkney Islands,2019,Male,77,107
+Orkney Islands,2019,Male,78,72
+Orkney Islands,2019,Male,79,95
+Orkney Islands,2019,Male,80,94
+Orkney Islands,2019,Male,81,80
+Orkney Islands,2019,Male,82,59
+Orkney Islands,2019,Male,83,57
+Orkney Islands,2019,Male,84,62
+Orkney Islands,2019,Male,85,47
+Orkney Islands,2019,Male,86,32
+Orkney Islands,2019,Male,87,35
+Orkney Islands,2019,Male,88,19
+Orkney Islands,2019,Male,89,32
+Orkney Islands,2019,Male,90,74
+Perth and Kinross,2019,Female,0,592
+Perth and Kinross,2019,Female,1,624
+Perth and Kinross,2019,Female,2,641
+Perth and Kinross,2019,Female,3,715
+Perth and Kinross,2019,Female,4,731
+Perth and Kinross,2019,Female,5,674
+Perth and Kinross,2019,Female,6,757
+Perth and Kinross,2019,Female,7,776
+Perth and Kinross,2019,Female,8,809
+Perth and Kinross,2019,Female,9,757
+Perth and Kinross,2019,Female,10,826
+Perth and Kinross,2019,Female,11,801
+Perth and Kinross,2019,Female,12,799
+Perth and Kinross,2019,Female,13,779
+Perth and Kinross,2019,Female,14,814
+Perth and Kinross,2019,Female,15,807
+Perth and Kinross,2019,Female,16,774
+Perth and Kinross,2019,Female,17,778
+Perth and Kinross,2019,Female,18,772
+Perth and Kinross,2019,Female,19,638
+Perth and Kinross,2019,Female,20,650
+Perth and Kinross,2019,Female,21,635
+Perth and Kinross,2019,Female,22,666
+Perth and Kinross,2019,Female,23,749
+Perth and Kinross,2019,Female,24,706
+Perth and Kinross,2019,Female,25,791
+Perth and Kinross,2019,Female,26,884
+Perth and Kinross,2019,Female,27,761
+Perth and Kinross,2019,Female,28,817
+Perth and Kinross,2019,Female,29,718
+Perth and Kinross,2019,Female,30,812
+Perth and Kinross,2019,Female,31,859
+Perth and Kinross,2019,Female,32,860
+Perth and Kinross,2019,Female,33,849
+Perth and Kinross,2019,Female,34,952
+Perth and Kinross,2019,Female,35,929
+Perth and Kinross,2019,Female,36,882
+Perth and Kinross,2019,Female,37,908
+Perth and Kinross,2019,Female,38,915
+Perth and Kinross,2019,Female,39,862
+Perth and Kinross,2019,Female,40,812
+Perth and Kinross,2019,Female,41,803
+Perth and Kinross,2019,Female,42,834
+Perth and Kinross,2019,Female,43,858
+Perth and Kinross,2019,Female,44,829
+Perth and Kinross,2019,Female,45,969
+Perth and Kinross,2019,Female,46,1007
+Perth and Kinross,2019,Female,47,1134
+Perth and Kinross,2019,Female,48,1106
+Perth and Kinross,2019,Female,49,1092
+Perth and Kinross,2019,Female,50,1173
+Perth and Kinross,2019,Female,51,1266
+Perth and Kinross,2019,Female,52,1249
+Perth and Kinross,2019,Female,53,1187
+Perth and Kinross,2019,Female,54,1256
+Perth and Kinross,2019,Female,55,1227
+Perth and Kinross,2019,Female,56,1251
+Perth and Kinross,2019,Female,57,1185
+Perth and Kinross,2019,Female,58,1157
+Perth and Kinross,2019,Female,59,1031
+Perth and Kinross,2019,Female,60,1160
+Perth and Kinross,2019,Female,61,1086
+Perth and Kinross,2019,Female,62,1095
+Perth and Kinross,2019,Female,63,1032
+Perth and Kinross,2019,Female,64,1021
+Perth and Kinross,2019,Female,65,983
+Perth and Kinross,2019,Female,66,1055
+Perth and Kinross,2019,Female,67,979
+Perth and Kinross,2019,Female,68,1007
+Perth and Kinross,2019,Female,69,1015
+Perth and Kinross,2019,Female,70,1018
+Perth and Kinross,2019,Female,71,996
+Perth and Kinross,2019,Female,72,1143
+Perth and Kinross,2019,Female,73,856
+Perth and Kinross,2019,Female,74,793
+Perth and Kinross,2019,Female,75,752
+Perth and Kinross,2019,Female,76,833
+Perth and Kinross,2019,Female,77,741
+Perth and Kinross,2019,Female,78,629
+Perth and Kinross,2019,Female,79,645
+Perth and Kinross,2019,Female,80,675
+Perth and Kinross,2019,Female,81,593
+Perth and Kinross,2019,Female,82,571
+Perth and Kinross,2019,Female,83,536
+Perth and Kinross,2019,Female,84,494
+Perth and Kinross,2019,Female,85,414
+Perth and Kinross,2019,Female,86,360
+Perth and Kinross,2019,Female,87,368
+Perth and Kinross,2019,Female,88,345
+Perth and Kinross,2019,Female,89,289
+Perth and Kinross,2019,Female,90,1242
+Perth and Kinross,2019,Male,0,644
+Perth and Kinross,2019,Male,1,660
+Perth and Kinross,2019,Male,2,658
+Perth and Kinross,2019,Male,3,737
+Perth and Kinross,2019,Male,4,797
+Perth and Kinross,2019,Male,5,797
+Perth and Kinross,2019,Male,6,774
+Perth and Kinross,2019,Male,7,820
+Perth and Kinross,2019,Male,8,840
+Perth and Kinross,2019,Male,9,837
+Perth and Kinross,2019,Male,10,862
+Perth and Kinross,2019,Male,11,845
+Perth and Kinross,2019,Male,12,842
+Perth and Kinross,2019,Male,13,728
+Perth and Kinross,2019,Male,14,856
+Perth and Kinross,2019,Male,15,822
+Perth and Kinross,2019,Male,16,868
+Perth and Kinross,2019,Male,17,815
+Perth and Kinross,2019,Male,18,839
+Perth and Kinross,2019,Male,19,828
+Perth and Kinross,2019,Male,20,799
+Perth and Kinross,2019,Male,21,813
+Perth and Kinross,2019,Male,22,808
+Perth and Kinross,2019,Male,23,815
+Perth and Kinross,2019,Male,24,791
+Perth and Kinross,2019,Male,25,950
+Perth and Kinross,2019,Male,26,916
+Perth and Kinross,2019,Male,27,909
+Perth and Kinross,2019,Male,28,962
+Perth and Kinross,2019,Male,29,765
+Perth and Kinross,2019,Male,30,736
+Perth and Kinross,2019,Male,31,834
+Perth and Kinross,2019,Male,32,806
+Perth and Kinross,2019,Male,33,865
+Perth and Kinross,2019,Male,34,827
+Perth and Kinross,2019,Male,35,905
+Perth and Kinross,2019,Male,36,911
+Perth and Kinross,2019,Male,37,858
+Perth and Kinross,2019,Male,38,943
+Perth and Kinross,2019,Male,39,873
+Perth and Kinross,2019,Male,40,902
+Perth and Kinross,2019,Male,41,804
+Perth and Kinross,2019,Male,42,776
+Perth and Kinross,2019,Male,43,832
+Perth and Kinross,2019,Male,44,764
+Perth and Kinross,2019,Male,45,827
+Perth and Kinross,2019,Male,46,859
+Perth and Kinross,2019,Male,47,1008
+Perth and Kinross,2019,Male,48,984
+Perth and Kinross,2019,Male,49,1013
+Perth and Kinross,2019,Male,50,1033
+Perth and Kinross,2019,Male,51,1077
+Perth and Kinross,2019,Male,52,1121
+Perth and Kinross,2019,Male,53,1205
+Perth and Kinross,2019,Male,54,1230
+Perth and Kinross,2019,Male,55,1223
+Perth and Kinross,2019,Male,56,1235
+Perth and Kinross,2019,Male,57,1111
+Perth and Kinross,2019,Male,58,1099
+Perth and Kinross,2019,Male,59,1021
+Perth and Kinross,2019,Male,60,1088
+Perth and Kinross,2019,Male,61,1100
+Perth and Kinross,2019,Male,62,991
+Perth and Kinross,2019,Male,63,982
+Perth and Kinross,2019,Male,64,987
+Perth and Kinross,2019,Male,65,975
+Perth and Kinross,2019,Male,66,1065
+Perth and Kinross,2019,Male,67,941
+Perth and Kinross,2019,Male,68,913
+Perth and Kinross,2019,Male,69,942
+Perth and Kinross,2019,Male,70,956
+Perth and Kinross,2019,Male,71,968
+Perth and Kinross,2019,Male,72,1050
+Perth and Kinross,2019,Male,73,821
+Perth and Kinross,2019,Male,74,699
+Perth and Kinross,2019,Male,75,729
+Perth and Kinross,2019,Male,76,650
+Perth and Kinross,2019,Male,77,591
+Perth and Kinross,2019,Male,78,535
+Perth and Kinross,2019,Male,79,592
+Perth and Kinross,2019,Male,80,530
+Perth and Kinross,2019,Male,81,472
+Perth and Kinross,2019,Male,82,418
+Perth and Kinross,2019,Male,83,380
+Perth and Kinross,2019,Male,84,379
+Perth and Kinross,2019,Male,85,321
+Perth and Kinross,2019,Male,86,293
+Perth and Kinross,2019,Male,87,302
+Perth and Kinross,2019,Male,88,236
+Perth and Kinross,2019,Male,89,184
+Perth and Kinross,2019,Male,90,560
+Renfrewshire,2019,Female,0,808
+Renfrewshire,2019,Female,1,898
+Renfrewshire,2019,Female,2,849
+Renfrewshire,2019,Female,3,898
+Renfrewshire,2019,Female,4,865
+Renfrewshire,2019,Female,5,949
+Renfrewshire,2019,Female,6,970
+Renfrewshire,2019,Female,7,961
+Renfrewshire,2019,Female,8,1042
+Renfrewshire,2019,Female,9,926
+Renfrewshire,2019,Female,10,918
+Renfrewshire,2019,Female,11,1029
+Renfrewshire,2019,Female,12,922
+Renfrewshire,2019,Female,13,974
+Renfrewshire,2019,Female,14,958
+Renfrewshire,2019,Female,15,905
+Renfrewshire,2019,Female,16,880
+Renfrewshire,2019,Female,17,902
+Renfrewshire,2019,Female,18,947
+Renfrewshire,2019,Female,19,911
+Renfrewshire,2019,Female,20,980
+Renfrewshire,2019,Female,21,999
+Renfrewshire,2019,Female,22,1037
+Renfrewshire,2019,Female,23,1068
+Renfrewshire,2019,Female,24,1103
+Renfrewshire,2019,Female,25,1127
+Renfrewshire,2019,Female,26,1191
+Renfrewshire,2019,Female,27,1300
+Renfrewshire,2019,Female,28,1203
+Renfrewshire,2019,Female,29,1169
+Renfrewshire,2019,Female,30,1091
+Renfrewshire,2019,Female,31,1262
+Renfrewshire,2019,Female,32,1262
+Renfrewshire,2019,Female,33,1073
+Renfrewshire,2019,Female,34,1170
+Renfrewshire,2019,Female,35,1133
+Renfrewshire,2019,Female,36,1245
+Renfrewshire,2019,Female,37,1164
+Renfrewshire,2019,Female,38,1188
+Renfrewshire,2019,Female,39,1169
+Renfrewshire,2019,Female,40,1106
+Renfrewshire,2019,Female,41,1026
+Renfrewshire,2019,Female,42,971
+Renfrewshire,2019,Female,43,1005
+Renfrewshire,2019,Female,44,1115
+Renfrewshire,2019,Female,45,1102
+Renfrewshire,2019,Female,46,1178
+Renfrewshire,2019,Female,47,1320
+Renfrewshire,2019,Female,48,1395
+Renfrewshire,2019,Female,49,1458
+Renfrewshire,2019,Female,50,1402
+Renfrewshire,2019,Female,51,1468
+Renfrewshire,2019,Female,52,1519
+Renfrewshire,2019,Female,53,1470
+Renfrewshire,2019,Female,54,1480
+Renfrewshire,2019,Female,55,1471
+Renfrewshire,2019,Female,56,1397
+Renfrewshire,2019,Female,57,1439
+Renfrewshire,2019,Female,58,1466
+Renfrewshire,2019,Female,59,1308
+Renfrewshire,2019,Female,60,1302
+Renfrewshire,2019,Female,61,1313
+Renfrewshire,2019,Female,62,1158
+Renfrewshire,2019,Female,63,1154
+Renfrewshire,2019,Female,64,1087
+Renfrewshire,2019,Female,65,1092
+Renfrewshire,2019,Female,66,1014
+Renfrewshire,2019,Female,67,941
+Renfrewshire,2019,Female,68,1051
+Renfrewshire,2019,Female,69,966
+Renfrewshire,2019,Female,70,1053
+Renfrewshire,2019,Female,71,1027
+Renfrewshire,2019,Female,72,1121
+Renfrewshire,2019,Female,73,828
+Renfrewshire,2019,Female,74,820
+Renfrewshire,2019,Female,75,830
+Renfrewshire,2019,Female,76,726
+Renfrewshire,2019,Female,77,697
+Renfrewshire,2019,Female,78,644
+Renfrewshire,2019,Female,79,633
+Renfrewshire,2019,Female,80,632
+Renfrewshire,2019,Female,81,597
+Renfrewshire,2019,Female,82,582
+Renfrewshire,2019,Female,83,540
+Renfrewshire,2019,Female,84,492
+Renfrewshire,2019,Female,85,467
+Renfrewshire,2019,Female,86,371
+Renfrewshire,2019,Female,87,337
+Renfrewshire,2019,Female,88,317
+Renfrewshire,2019,Female,89,270
+Renfrewshire,2019,Female,90,923
+Renfrewshire,2019,Male,0,891
+Renfrewshire,2019,Male,1,887
+Renfrewshire,2019,Male,2,949
+Renfrewshire,2019,Male,3,934
+Renfrewshire,2019,Male,4,912
+Renfrewshire,2019,Male,5,958
+Renfrewshire,2019,Male,6,1032
+Renfrewshire,2019,Male,7,1028
+Renfrewshire,2019,Male,8,967
+Renfrewshire,2019,Male,9,988
+Renfrewshire,2019,Male,10,987
+Renfrewshire,2019,Male,11,997
+Renfrewshire,2019,Male,12,958
+Renfrewshire,2019,Male,13,973
+Renfrewshire,2019,Male,14,961
+Renfrewshire,2019,Male,15,973
+Renfrewshire,2019,Male,16,924
+Renfrewshire,2019,Male,17,916
+Renfrewshire,2019,Male,18,954
+Renfrewshire,2019,Male,19,1003
+Renfrewshire,2019,Male,20,975
+Renfrewshire,2019,Male,21,1064
+Renfrewshire,2019,Male,22,1201
+Renfrewshire,2019,Male,23,1063
+Renfrewshire,2019,Male,24,1131
+Renfrewshire,2019,Male,25,1192
+Renfrewshire,2019,Male,26,1192
+Renfrewshire,2019,Male,27,1216
+Renfrewshire,2019,Male,28,1219
+Renfrewshire,2019,Male,29,1236
+Renfrewshire,2019,Male,30,1187
+Renfrewshire,2019,Male,31,1199
+Renfrewshire,2019,Male,32,1238
+Renfrewshire,2019,Male,33,1177
+Renfrewshire,2019,Male,34,1144
+Renfrewshire,2019,Male,35,1121
+Renfrewshire,2019,Male,36,1190
+Renfrewshire,2019,Male,37,1111
+Renfrewshire,2019,Male,38,1248
+Renfrewshire,2019,Male,39,1045
+Renfrewshire,2019,Male,40,1042
+Renfrewshire,2019,Male,41,928
+Renfrewshire,2019,Male,42,904
+Renfrewshire,2019,Male,43,948
+Renfrewshire,2019,Male,44,973
+Renfrewshire,2019,Male,45,1024
+Renfrewshire,2019,Male,46,1044
+Renfrewshire,2019,Male,47,1097
+Renfrewshire,2019,Male,48,1176
+Renfrewshire,2019,Male,49,1234
+Renfrewshire,2019,Male,50,1282
+Renfrewshire,2019,Male,51,1345
+Renfrewshire,2019,Male,52,1296
+Renfrewshire,2019,Male,53,1347
+Renfrewshire,2019,Male,54,1430
+Renfrewshire,2019,Male,55,1330
+Renfrewshire,2019,Male,56,1324
+Renfrewshire,2019,Male,57,1345
+Renfrewshire,2019,Male,58,1329
+Renfrewshire,2019,Male,59,1255
+Renfrewshire,2019,Male,60,1264
+Renfrewshire,2019,Male,61,1205
+Renfrewshire,2019,Male,62,1158
+Renfrewshire,2019,Male,63,1032
+Renfrewshire,2019,Male,64,1004
+Renfrewshire,2019,Male,65,954
+Renfrewshire,2019,Male,66,940
+Renfrewshire,2019,Male,67,880
+Renfrewshire,2019,Male,68,916
+Renfrewshire,2019,Male,69,867
+Renfrewshire,2019,Male,70,857
+Renfrewshire,2019,Male,71,848
+Renfrewshire,2019,Male,72,1005
+Renfrewshire,2019,Male,73,708
+Renfrewshire,2019,Male,74,703
+Renfrewshire,2019,Male,75,698
+Renfrewshire,2019,Male,76,601
+Renfrewshire,2019,Male,77,531
+Renfrewshire,2019,Male,78,541
+Renfrewshire,2019,Male,79,446
+Renfrewshire,2019,Male,80,478
+Renfrewshire,2019,Male,81,440
+Renfrewshire,2019,Male,82,387
+Renfrewshire,2019,Male,83,344
+Renfrewshire,2019,Male,84,325
+Renfrewshire,2019,Male,85,252
+Renfrewshire,2019,Male,86,218
+Renfrewshire,2019,Male,87,197
+Renfrewshire,2019,Male,88,160
+Renfrewshire,2019,Male,89,143
+Renfrewshire,2019,Male,90,477
+Scotland,2019,Female,0,24634
+Scotland,2019,Female,1,25675
+Scotland,2019,Female,2,26221
+Scotland,2019,Female,3,27272
+Scotland,2019,Female,4,27931
+Scotland,2019,Female,5,28087
+Scotland,2019,Female,6,28829
+Scotland,2019,Female,7,29392
+Scotland,2019,Female,8,30495
+Scotland,2019,Female,9,29216
+Scotland,2019,Female,10,30000
+Scotland,2019,Female,11,29891
+Scotland,2019,Female,12,28588
+Scotland,2019,Female,13,28135
+Scotland,2019,Female,14,27573
+Scotland,2019,Female,15,27014
+Scotland,2019,Female,16,26428
+Scotland,2019,Female,17,26256
+Scotland,2019,Female,18,27931
+Scotland,2019,Female,19,30157
+Scotland,2019,Female,20,32426
+Scotland,2019,Female,21,33432
+Scotland,2019,Female,22,35056
+Scotland,2019,Female,23,35144
+Scotland,2019,Female,24,35332
+Scotland,2019,Female,25,36292
+Scotland,2019,Female,26,37629
+Scotland,2019,Female,27,39778
+Scotland,2019,Female,28,39398
+Scotland,2019,Female,29,38013
+Scotland,2019,Female,30,37992
+Scotland,2019,Female,31,38188
+Scotland,2019,Female,32,37272
+Scotland,2019,Female,33,36601
+Scotland,2019,Female,34,36775
+Scotland,2019,Female,35,35630
+Scotland,2019,Female,36,36112
+Scotland,2019,Female,37,36673
+Scotland,2019,Female,38,36109
+Scotland,2019,Female,39,35374
+Scotland,2019,Female,40,33774
+Scotland,2019,Female,41,31920
+Scotland,2019,Female,42,30822
+Scotland,2019,Female,43,32847
+Scotland,2019,Female,44,33279
+Scotland,2019,Female,45,33508
+Scotland,2019,Female,46,35671
+Scotland,2019,Female,47,38220
+Scotland,2019,Female,48,39969
+Scotland,2019,Female,49,39278
+Scotland,2019,Female,50,40785
+Scotland,2019,Female,51,41473
+Scotland,2019,Female,52,41221
+Scotland,2019,Female,53,41241
+Scotland,2019,Female,54,42430
+Scotland,2019,Female,55,42245
+Scotland,2019,Female,56,41909
+Scotland,2019,Female,57,40514
+Scotland,2019,Female,58,39564
+Scotland,2019,Female,59,38116
+Scotland,2019,Female,60,37971
+Scotland,2019,Female,61,36854
+Scotland,2019,Female,62,35598
+Scotland,2019,Female,63,34439
+Scotland,2019,Female,64,32979
+Scotland,2019,Female,65,32241
+Scotland,2019,Female,66,31538
+Scotland,2019,Female,67,30335
+Scotland,2019,Female,68,30482
+Scotland,2019,Female,69,30388
+Scotland,2019,Female,70,30897
+Scotland,2019,Female,71,31711
+Scotland,2019,Female,72,34215
+Scotland,2019,Female,73,25481
+Scotland,2019,Female,74,24213
+Scotland,2019,Female,75,24270
+Scotland,2019,Female,76,23327
+Scotland,2019,Female,77,21360
+Scotland,2019,Female,78,19566
+Scotland,2019,Female,79,19542
+Scotland,2019,Female,80,18728
+Scotland,2019,Female,81,17788
+Scotland,2019,Female,82,16665
+Scotland,2019,Female,83,15555
+Scotland,2019,Female,84,14223
+Scotland,2019,Female,85,12865
+Scotland,2019,Female,86,11405
+Scotland,2019,Female,87,10617
+Scotland,2019,Female,88,9213
+Scotland,2019,Female,89,7847
+Scotland,2019,Female,90,30247
+Scotland,2019,Male,0,26138
+Scotland,2019,Male,1,27059
+Scotland,2019,Male,2,28045
+Scotland,2019,Male,3,29267
+Scotland,2019,Male,4,29473
+Scotland,2019,Male,5,29750
+Scotland,2019,Male,6,30203
+Scotland,2019,Male,7,31168
+Scotland,2019,Male,8,31913
+Scotland,2019,Male,9,30263
+Scotland,2019,Male,10,31119
+Scotland,2019,Male,11,30969
+Scotland,2019,Male,12,29924
+Scotland,2019,Male,13,29231
+Scotland,2019,Male,14,29244
+Scotland,2019,Male,15,28678
+Scotland,2019,Male,16,27624
+Scotland,2019,Male,17,27457
+Scotland,2019,Male,18,28903
+Scotland,2019,Male,19,31510
+Scotland,2019,Male,20,33412
+Scotland,2019,Male,21,34303
+Scotland,2019,Male,22,35814
+Scotland,2019,Male,23,36286
+Scotland,2019,Male,24,36251
+Scotland,2019,Male,25,36890
+Scotland,2019,Male,26,37228
+Scotland,2019,Male,27,39349
+Scotland,2019,Male,28,39702
+Scotland,2019,Male,29,37976
+Scotland,2019,Male,30,37656
+Scotland,2019,Male,31,37555
+Scotland,2019,Male,32,36029
+Scotland,2019,Male,33,36090
+Scotland,2019,Male,34,35305
+Scotland,2019,Male,35,34205
+Scotland,2019,Male,36,34472
+Scotland,2019,Male,37,34755
+Scotland,2019,Male,38,34853
+Scotland,2019,Male,39,34339
+Scotland,2019,Male,40,33353
+Scotland,2019,Male,41,30309
+Scotland,2019,Male,42,30279
+Scotland,2019,Male,43,31511
+Scotland,2019,Male,44,31338
+Scotland,2019,Male,45,32217
+Scotland,2019,Male,46,34006
+Scotland,2019,Male,47,35622
+Scotland,2019,Male,48,36697
+Scotland,2019,Male,49,36270
+Scotland,2019,Male,50,37782
+Scotland,2019,Male,51,38446
+Scotland,2019,Male,52,39141
+Scotland,2019,Male,53,38547
+Scotland,2019,Male,54,40024
+Scotland,2019,Male,55,39184
+Scotland,2019,Male,56,39315
+Scotland,2019,Male,57,38548
+Scotland,2019,Male,58,37472
+Scotland,2019,Male,59,36256
+Scotland,2019,Male,60,35533
+Scotland,2019,Male,61,34534
+Scotland,2019,Male,62,33646
+Scotland,2019,Male,63,32428
+Scotland,2019,Male,64,30711
+Scotland,2019,Male,65,30358
+Scotland,2019,Male,66,29455
+Scotland,2019,Male,67,28260
+Scotland,2019,Male,68,28175
+Scotland,2019,Male,69,28212
+Scotland,2019,Male,70,28497
+Scotland,2019,Male,71,29071
+Scotland,2019,Male,72,30844
+Scotland,2019,Male,73,22913
+Scotland,2019,Male,74,21014
+Scotland,2019,Male,75,21118
+Scotland,2019,Male,76,19268
+Scotland,2019,Male,77,17046
+Scotland,2019,Male,78,15232
+Scotland,2019,Male,79,15222
+Scotland,2019,Male,80,14311
+Scotland,2019,Male,81,13403
+Scotland,2019,Male,82,11771
+Scotland,2019,Male,83,10682
+Scotland,2019,Male,84,9681
+Scotland,2019,Male,85,8261
+Scotland,2019,Male,86,7296
+Scotland,2019,Male,87,6384
+Scotland,2019,Male,88,5356
+Scotland,2019,Male,89,4185
+Scotland,2019,Male,90,13411
+Scottish Borders,2019,Female,0,448
+Scottish Borders,2019,Female,1,492
+Scottish Borders,2019,Female,2,513
+Scottish Borders,2019,Female,3,564
+Scottish Borders,2019,Female,4,590
+Scottish Borders,2019,Female,5,612
+Scottish Borders,2019,Female,6,620
+Scottish Borders,2019,Female,7,609
+Scottish Borders,2019,Female,8,578
+Scottish Borders,2019,Female,9,594
+Scottish Borders,2019,Female,10,617
+Scottish Borders,2019,Female,11,671
+Scottish Borders,2019,Female,12,633
+Scottish Borders,2019,Female,13,586
+Scottish Borders,2019,Female,14,619
+Scottish Borders,2019,Female,15,603
+Scottish Borders,2019,Female,16,533
+Scottish Borders,2019,Female,17,602
+Scottish Borders,2019,Female,18,546
+Scottish Borders,2019,Female,19,570
+Scottish Borders,2019,Female,20,485
+Scottish Borders,2019,Female,21,514
+Scottish Borders,2019,Female,22,594
+Scottish Borders,2019,Female,23,546
+Scottish Borders,2019,Female,24,530
+Scottish Borders,2019,Female,25,528
+Scottish Borders,2019,Female,26,564
+Scottish Borders,2019,Female,27,521
+Scottish Borders,2019,Female,28,504
+Scottish Borders,2019,Female,29,539
+Scottish Borders,2019,Female,30,514
+Scottish Borders,2019,Female,31,512
+Scottish Borders,2019,Female,32,556
+Scottish Borders,2019,Female,33,574
+Scottish Borders,2019,Female,34,597
+Scottish Borders,2019,Female,35,606
+Scottish Borders,2019,Female,36,647
+Scottish Borders,2019,Female,37,642
+Scottish Borders,2019,Female,38,598
+Scottish Borders,2019,Female,39,649
+Scottish Borders,2019,Female,40,576
+Scottish Borders,2019,Female,41,550
+Scottish Borders,2019,Female,42,573
+Scottish Borders,2019,Female,43,654
+Scottish Borders,2019,Female,44,706
+Scottish Borders,2019,Female,45,748
+Scottish Borders,2019,Female,46,779
+Scottish Borders,2019,Female,47,896
+Scottish Borders,2019,Female,48,907
+Scottish Borders,2019,Female,49,885
+Scottish Borders,2019,Female,50,941
+Scottish Borders,2019,Female,51,925
+Scottish Borders,2019,Female,52,979
+Scottish Borders,2019,Female,53,992
+Scottish Borders,2019,Female,54,953
+Scottish Borders,2019,Female,55,982
+Scottish Borders,2019,Female,56,997
+Scottish Borders,2019,Female,57,901
+Scottish Borders,2019,Female,58,914
+Scottish Borders,2019,Female,59,935
+Scottish Borders,2019,Female,60,945
+Scottish Borders,2019,Female,61,915
+Scottish Borders,2019,Female,62,912
+Scottish Borders,2019,Female,63,837
+Scottish Borders,2019,Female,64,879
+Scottish Borders,2019,Female,65,810
+Scottish Borders,2019,Female,66,827
+Scottish Borders,2019,Female,67,774
+Scottish Borders,2019,Female,68,815
+Scottish Borders,2019,Female,69,838
+Scottish Borders,2019,Female,70,835
+Scottish Borders,2019,Female,71,868
+Scottish Borders,2019,Female,72,995
+Scottish Borders,2019,Female,73,691
+Scottish Borders,2019,Female,74,672
+Scottish Borders,2019,Female,75,679
+Scottish Borders,2019,Female,76,649
+Scottish Borders,2019,Female,77,557
+Scottish Borders,2019,Female,78,517
+Scottish Borders,2019,Female,79,537
+Scottish Borders,2019,Female,80,519
+Scottish Borders,2019,Female,81,459
+Scottish Borders,2019,Female,82,460
+Scottish Borders,2019,Female,83,364
+Scottish Borders,2019,Female,84,366
+Scottish Borders,2019,Female,85,340
+Scottish Borders,2019,Female,86,301
+Scottish Borders,2019,Female,87,259
+Scottish Borders,2019,Female,88,235
+Scottish Borders,2019,Female,89,196
+Scottish Borders,2019,Female,90,723
+Scottish Borders,2019,Male,0,502
+Scottish Borders,2019,Male,1,559
+Scottish Borders,2019,Male,2,522
+Scottish Borders,2019,Male,3,582
+Scottish Borders,2019,Male,4,535
+Scottish Borders,2019,Male,5,644
+Scottish Borders,2019,Male,6,657
+Scottish Borders,2019,Male,7,642
+Scottish Borders,2019,Male,8,685
+Scottish Borders,2019,Male,9,600
+Scottish Borders,2019,Male,10,654
+Scottish Borders,2019,Male,11,598
+Scottish Borders,2019,Male,12,597
+Scottish Borders,2019,Male,13,651
+Scottish Borders,2019,Male,14,623
+Scottish Borders,2019,Male,15,623
+Scottish Borders,2019,Male,16,604
+Scottish Borders,2019,Male,17,587
+Scottish Borders,2019,Male,18,589
+Scottish Borders,2019,Male,19,548
+Scottish Borders,2019,Male,20,581
+Scottish Borders,2019,Male,21,542
+Scottish Borders,2019,Male,22,568
+Scottish Borders,2019,Male,23,604
+Scottish Borders,2019,Male,24,568
+Scottish Borders,2019,Male,25,552
+Scottish Borders,2019,Male,26,526
+Scottish Borders,2019,Male,27,490
+Scottish Borders,2019,Male,28,454
+Scottish Borders,2019,Male,29,533
+Scottish Borders,2019,Male,30,497
+Scottish Borders,2019,Male,31,531
+Scottish Borders,2019,Male,32,471
+Scottish Borders,2019,Male,33,516
+Scottish Borders,2019,Male,34,515
+Scottish Borders,2019,Male,35,515
+Scottish Borders,2019,Male,36,497
+Scottish Borders,2019,Male,37,541
+Scottish Borders,2019,Male,38,568
+Scottish Borders,2019,Male,39,627
+Scottish Borders,2019,Male,40,555
+Scottish Borders,2019,Male,41,504
+Scottish Borders,2019,Male,42,529
+Scottish Borders,2019,Male,43,595
+Scottish Borders,2019,Male,44,618
+Scottish Borders,2019,Male,45,639
+Scottish Borders,2019,Male,46,700
+Scottish Borders,2019,Male,47,803
+Scottish Borders,2019,Male,48,777
+Scottish Borders,2019,Male,49,822
+Scottish Borders,2019,Male,50,884
+Scottish Borders,2019,Male,51,929
+Scottish Borders,2019,Male,52,896
+Scottish Borders,2019,Male,53,925
+Scottish Borders,2019,Male,54,959
+Scottish Borders,2019,Male,55,905
+Scottish Borders,2019,Male,56,970
+Scottish Borders,2019,Male,57,959
+Scottish Borders,2019,Male,58,911
+Scottish Borders,2019,Male,59,904
+Scottish Borders,2019,Male,60,894
+Scottish Borders,2019,Male,61,872
+Scottish Borders,2019,Male,62,869
+Scottish Borders,2019,Male,63,836
+Scottish Borders,2019,Male,64,840
+Scottish Borders,2019,Male,65,802
+Scottish Borders,2019,Male,66,799
+Scottish Borders,2019,Male,67,757
+Scottish Borders,2019,Male,68,785
+Scottish Borders,2019,Male,69,802
+Scottish Borders,2019,Male,70,799
+Scottish Borders,2019,Male,71,897
+Scottish Borders,2019,Male,72,939
+Scottish Borders,2019,Male,73,694
+Scottish Borders,2019,Male,74,603
+Scottish Borders,2019,Male,75,609
+Scottish Borders,2019,Male,76,580
+Scottish Borders,2019,Male,77,476
+Scottish Borders,2019,Male,78,424
+Scottish Borders,2019,Male,79,444
+Scottish Borders,2019,Male,80,428
+Scottish Borders,2019,Male,81,411
+Scottish Borders,2019,Male,82,318
+Scottish Borders,2019,Male,83,309
+Scottish Borders,2019,Male,84,262
+Scottish Borders,2019,Male,85,232
+Scottish Borders,2019,Male,86,177
+Scottish Borders,2019,Male,87,148
+Scottish Borders,2019,Male,88,175
+Scottish Borders,2019,Male,89,133
+Scottish Borders,2019,Male,90,327
+Shetland Islands,2019,Female,0,103
+Shetland Islands,2019,Female,1,107
+Shetland Islands,2019,Female,2,112
+Shetland Islands,2019,Female,3,128
+Shetland Islands,2019,Female,4,128
+Shetland Islands,2019,Female,5,119
+Shetland Islands,2019,Female,6,138
+Shetland Islands,2019,Female,7,129
+Shetland Islands,2019,Female,8,123
+Shetland Islands,2019,Female,9,127
+Shetland Islands,2019,Female,10,142
+Shetland Islands,2019,Female,11,113
+Shetland Islands,2019,Female,12,132
+Shetland Islands,2019,Female,13,171
+Shetland Islands,2019,Female,14,114
+Shetland Islands,2019,Female,15,112
+Shetland Islands,2019,Female,16,122
+Shetland Islands,2019,Female,17,108
+Shetland Islands,2019,Female,18,113
+Shetland Islands,2019,Female,19,101
+Shetland Islands,2019,Female,20,91
+Shetland Islands,2019,Female,21,98
+Shetland Islands,2019,Female,22,108
+Shetland Islands,2019,Female,23,104
+Shetland Islands,2019,Female,24,116
+Shetland Islands,2019,Female,25,109
+Shetland Islands,2019,Female,26,115
+Shetland Islands,2019,Female,27,120
+Shetland Islands,2019,Female,28,141
+Shetland Islands,2019,Female,29,137
+Shetland Islands,2019,Female,30,125
+Shetland Islands,2019,Female,31,134
+Shetland Islands,2019,Female,32,157
+Shetland Islands,2019,Female,33,123
+Shetland Islands,2019,Female,34,130
+Shetland Islands,2019,Female,35,126
+Shetland Islands,2019,Female,36,122
+Shetland Islands,2019,Female,37,129
+Shetland Islands,2019,Female,38,160
+Shetland Islands,2019,Female,39,136
+Shetland Islands,2019,Female,40,129
+Shetland Islands,2019,Female,41,118
+Shetland Islands,2019,Female,42,159
+Shetland Islands,2019,Female,43,125
+Shetland Islands,2019,Female,44,131
+Shetland Islands,2019,Female,45,151
+Shetland Islands,2019,Female,46,149
+Shetland Islands,2019,Female,47,155
+Shetland Islands,2019,Female,48,186
+Shetland Islands,2019,Female,49,171
+Shetland Islands,2019,Female,50,161
+Shetland Islands,2019,Female,51,173
+Shetland Islands,2019,Female,52,164
+Shetland Islands,2019,Female,53,158
+Shetland Islands,2019,Female,54,160
+Shetland Islands,2019,Female,55,188
+Shetland Islands,2019,Female,56,173
+Shetland Islands,2019,Female,57,166
+Shetland Islands,2019,Female,58,168
+Shetland Islands,2019,Female,59,149
+Shetland Islands,2019,Female,60,130
+Shetland Islands,2019,Female,61,148
+Shetland Islands,2019,Female,62,150
+Shetland Islands,2019,Female,63,162
+Shetland Islands,2019,Female,64,165
+Shetland Islands,2019,Female,65,138
+Shetland Islands,2019,Female,66,141
+Shetland Islands,2019,Female,67,122
+Shetland Islands,2019,Female,68,144
+Shetland Islands,2019,Female,69,140
+Shetland Islands,2019,Female,70,131
+Shetland Islands,2019,Female,71,115
+Shetland Islands,2019,Female,72,133
+Shetland Islands,2019,Female,73,100
+Shetland Islands,2019,Female,74,126
+Shetland Islands,2019,Female,75,91
+Shetland Islands,2019,Female,76,124
+Shetland Islands,2019,Female,77,114
+Shetland Islands,2019,Female,78,83
+Shetland Islands,2019,Female,79,85
+Shetland Islands,2019,Female,80,71
+Shetland Islands,2019,Female,81,71
+Shetland Islands,2019,Female,82,62
+Shetland Islands,2019,Female,83,51
+Shetland Islands,2019,Female,84,66
+Shetland Islands,2019,Female,85,53
+Shetland Islands,2019,Female,86,43
+Shetland Islands,2019,Female,87,34
+Shetland Islands,2019,Female,88,29
+Shetland Islands,2019,Female,89,30
+Shetland Islands,2019,Female,90,126
+Shetland Islands,2019,Male,0,109
+Shetland Islands,2019,Male,1,115
+Shetland Islands,2019,Male,2,139
+Shetland Islands,2019,Male,3,128
+Shetland Islands,2019,Male,4,120
+Shetland Islands,2019,Male,5,121
+Shetland Islands,2019,Male,6,143
+Shetland Islands,2019,Male,7,145
+Shetland Islands,2019,Male,8,167
+Shetland Islands,2019,Male,9,162
+Shetland Islands,2019,Male,10,146
+Shetland Islands,2019,Male,11,128
+Shetland Islands,2019,Male,12,151
+Shetland Islands,2019,Male,13,135
+Shetland Islands,2019,Male,14,149
+Shetland Islands,2019,Male,15,142
+Shetland Islands,2019,Male,16,139
+Shetland Islands,2019,Male,17,124
+Shetland Islands,2019,Male,18,112
+Shetland Islands,2019,Male,19,123
+Shetland Islands,2019,Male,20,119
+Shetland Islands,2019,Male,21,115
+Shetland Islands,2019,Male,22,121
+Shetland Islands,2019,Male,23,132
+Shetland Islands,2019,Male,24,136
+Shetland Islands,2019,Male,25,145
+Shetland Islands,2019,Male,26,124
+Shetland Islands,2019,Male,27,144
+Shetland Islands,2019,Male,28,107
+Shetland Islands,2019,Male,29,141
+Shetland Islands,2019,Male,30,133
+Shetland Islands,2019,Male,31,155
+Shetland Islands,2019,Male,32,157
+Shetland Islands,2019,Male,33,163
+Shetland Islands,2019,Male,34,121
+Shetland Islands,2019,Male,35,122
+Shetland Islands,2019,Male,36,125
+Shetland Islands,2019,Male,37,139
+Shetland Islands,2019,Male,38,142
+Shetland Islands,2019,Male,39,136
+Shetland Islands,2019,Male,40,159
+Shetland Islands,2019,Male,41,120
+Shetland Islands,2019,Male,42,149
+Shetland Islands,2019,Male,43,138
+Shetland Islands,2019,Male,44,158
+Shetland Islands,2019,Male,45,150
+Shetland Islands,2019,Male,46,182
+Shetland Islands,2019,Male,47,171
+Shetland Islands,2019,Male,48,149
+Shetland Islands,2019,Male,49,157
+Shetland Islands,2019,Male,50,156
+Shetland Islands,2019,Male,51,170
+Shetland Islands,2019,Male,52,176
+Shetland Islands,2019,Male,53,198
+Shetland Islands,2019,Male,54,182
+Shetland Islands,2019,Male,55,178
+Shetland Islands,2019,Male,56,179
+Shetland Islands,2019,Male,57,171
+Shetland Islands,2019,Male,58,182
+Shetland Islands,2019,Male,59,146
+Shetland Islands,2019,Male,60,166
+Shetland Islands,2019,Male,61,157
+Shetland Islands,2019,Male,62,140
+Shetland Islands,2019,Male,63,156
+Shetland Islands,2019,Male,64,157
+Shetland Islands,2019,Male,65,146
+Shetland Islands,2019,Male,66,121
+Shetland Islands,2019,Male,67,150
+Shetland Islands,2019,Male,68,133
+Shetland Islands,2019,Male,69,140
+Shetland Islands,2019,Male,70,137
+Shetland Islands,2019,Male,71,149
+Shetland Islands,2019,Male,72,168
+Shetland Islands,2019,Male,73,110
+Shetland Islands,2019,Male,74,90
+Shetland Islands,2019,Male,75,107
+Shetland Islands,2019,Male,76,104
+Shetland Islands,2019,Male,77,89
+Shetland Islands,2019,Male,78,70
+Shetland Islands,2019,Male,79,80
+Shetland Islands,2019,Male,80,65
+Shetland Islands,2019,Male,81,58
+Shetland Islands,2019,Male,82,58
+Shetland Islands,2019,Male,83,57
+Shetland Islands,2019,Male,84,48
+Shetland Islands,2019,Male,85,34
+Shetland Islands,2019,Male,86,29
+Shetland Islands,2019,Male,87,25
+Shetland Islands,2019,Male,88,27
+Shetland Islands,2019,Male,89,16
+Shetland Islands,2019,Male,90,52
+South Ayrshire,2019,Female,0,426
+South Ayrshire,2019,Female,1,470
+South Ayrshire,2019,Female,2,477
+South Ayrshire,2019,Female,3,523
+South Ayrshire,2019,Female,4,559
+South Ayrshire,2019,Female,5,489
+South Ayrshire,2019,Female,6,494
+South Ayrshire,2019,Female,7,571
+South Ayrshire,2019,Female,8,576
+South Ayrshire,2019,Female,9,553
+South Ayrshire,2019,Female,10,583
+South Ayrshire,2019,Female,11,604
+South Ayrshire,2019,Female,12,574
+South Ayrshire,2019,Female,13,566
+South Ayrshire,2019,Female,14,611
+South Ayrshire,2019,Female,15,559
+South Ayrshire,2019,Female,16,538
+South Ayrshire,2019,Female,17,534
+South Ayrshire,2019,Female,18,523
+South Ayrshire,2019,Female,19,519
+South Ayrshire,2019,Female,20,531
+South Ayrshire,2019,Female,21,589
+South Ayrshire,2019,Female,22,608
+South Ayrshire,2019,Female,23,598
+South Ayrshire,2019,Female,24,552
+South Ayrshire,2019,Female,25,603
+South Ayrshire,2019,Female,26,548
+South Ayrshire,2019,Female,27,556
+South Ayrshire,2019,Female,28,561
+South Ayrshire,2019,Female,29,534
+South Ayrshire,2019,Female,30,567
+South Ayrshire,2019,Female,31,609
+South Ayrshire,2019,Female,32,628
+South Ayrshire,2019,Female,33,585
+South Ayrshire,2019,Female,34,601
+South Ayrshire,2019,Female,35,579
+South Ayrshire,2019,Female,36,551
+South Ayrshire,2019,Female,37,658
+South Ayrshire,2019,Female,38,653
+South Ayrshire,2019,Female,39,645
+South Ayrshire,2019,Female,40,574
+South Ayrshire,2019,Female,41,591
+South Ayrshire,2019,Female,42,568
+South Ayrshire,2019,Female,43,638
+South Ayrshire,2019,Female,44,678
+South Ayrshire,2019,Female,45,651
+South Ayrshire,2019,Female,46,711
+South Ayrshire,2019,Female,47,809
+South Ayrshire,2019,Female,48,830
+South Ayrshire,2019,Female,49,878
+South Ayrshire,2019,Female,50,841
+South Ayrshire,2019,Female,51,912
+South Ayrshire,2019,Female,52,885
+South Ayrshire,2019,Female,53,913
+South Ayrshire,2019,Female,54,953
+South Ayrshire,2019,Female,55,938
+South Ayrshire,2019,Female,56,995
+South Ayrshire,2019,Female,57,923
+South Ayrshire,2019,Female,58,964
+South Ayrshire,2019,Female,59,895
+South Ayrshire,2019,Female,60,920
+South Ayrshire,2019,Female,61,945
+South Ayrshire,2019,Female,62,900
+South Ayrshire,2019,Female,63,828
+South Ayrshire,2019,Female,64,850
+South Ayrshire,2019,Female,65,854
+South Ayrshire,2019,Female,66,838
+South Ayrshire,2019,Female,67,834
+South Ayrshire,2019,Female,68,815
+South Ayrshire,2019,Female,69,799
+South Ayrshire,2019,Female,70,820
+South Ayrshire,2019,Female,71,831
+South Ayrshire,2019,Female,72,954
+South Ayrshire,2019,Female,73,748
+South Ayrshire,2019,Female,74,699
+South Ayrshire,2019,Female,75,688
+South Ayrshire,2019,Female,76,642
+South Ayrshire,2019,Female,77,612
+South Ayrshire,2019,Female,78,525
+South Ayrshire,2019,Female,79,549
+South Ayrshire,2019,Female,80,486
+South Ayrshire,2019,Female,81,504
+South Ayrshire,2019,Female,82,464
+South Ayrshire,2019,Female,83,434
+South Ayrshire,2019,Female,84,383
+South Ayrshire,2019,Female,85,345
+South Ayrshire,2019,Female,86,329
+South Ayrshire,2019,Female,87,281
+South Ayrshire,2019,Female,88,256
+South Ayrshire,2019,Female,89,214
+South Ayrshire,2019,Female,90,902
+South Ayrshire,2019,Male,0,479
+South Ayrshire,2019,Male,1,490
+South Ayrshire,2019,Male,2,485
+South Ayrshire,2019,Male,3,548
+South Ayrshire,2019,Male,4,550
+South Ayrshire,2019,Male,5,561
+South Ayrshire,2019,Male,6,588
+South Ayrshire,2019,Male,7,533
+South Ayrshire,2019,Male,8,636
+South Ayrshire,2019,Male,9,617
+South Ayrshire,2019,Male,10,595
+South Ayrshire,2019,Male,11,606
+South Ayrshire,2019,Male,12,590
+South Ayrshire,2019,Male,13,551
+South Ayrshire,2019,Male,14,582
+South Ayrshire,2019,Male,15,562
+South Ayrshire,2019,Male,16,560
+South Ayrshire,2019,Male,17,556
+South Ayrshire,2019,Male,18,585
+South Ayrshire,2019,Male,19,617
+South Ayrshire,2019,Male,20,600
+South Ayrshire,2019,Male,21,623
+South Ayrshire,2019,Male,22,592
+South Ayrshire,2019,Male,23,561
+South Ayrshire,2019,Male,24,616
+South Ayrshire,2019,Male,25,604
+South Ayrshire,2019,Male,26,555
+South Ayrshire,2019,Male,27,566
+South Ayrshire,2019,Male,28,546
+South Ayrshire,2019,Male,29,555
+South Ayrshire,2019,Male,30,531
+South Ayrshire,2019,Male,31,525
+South Ayrshire,2019,Male,32,566
+South Ayrshire,2019,Male,33,507
+South Ayrshire,2019,Male,34,509
+South Ayrshire,2019,Male,35,519
+South Ayrshire,2019,Male,36,473
+South Ayrshire,2019,Male,37,520
+South Ayrshire,2019,Male,38,543
+South Ayrshire,2019,Male,39,562
+South Ayrshire,2019,Male,40,590
+South Ayrshire,2019,Male,41,458
+South Ayrshire,2019,Male,42,526
+South Ayrshire,2019,Male,43,530
+South Ayrshire,2019,Male,44,572
+South Ayrshire,2019,Male,45,633
+South Ayrshire,2019,Male,46,683
+South Ayrshire,2019,Male,47,691
+South Ayrshire,2019,Male,48,741
+South Ayrshire,2019,Male,49,745
+South Ayrshire,2019,Male,50,720
+South Ayrshire,2019,Male,51,809
+South Ayrshire,2019,Male,52,803
+South Ayrshire,2019,Male,53,782
+South Ayrshire,2019,Male,54,874
+South Ayrshire,2019,Male,55,907
+South Ayrshire,2019,Male,56,829
+South Ayrshire,2019,Male,57,868
+South Ayrshire,2019,Male,58,879
+South Ayrshire,2019,Male,59,796
+South Ayrshire,2019,Male,60,827
+South Ayrshire,2019,Male,61,830
+South Ayrshire,2019,Male,62,791
+South Ayrshire,2019,Male,63,782
+South Ayrshire,2019,Male,64,741
+South Ayrshire,2019,Male,65,784
+South Ayrshire,2019,Male,66,765
+South Ayrshire,2019,Male,67,727
+South Ayrshire,2019,Male,68,725
+South Ayrshire,2019,Male,69,753
+South Ayrshire,2019,Male,70,798
+South Ayrshire,2019,Male,71,780
+South Ayrshire,2019,Male,72,839
+South Ayrshire,2019,Male,73,624
+South Ayrshire,2019,Male,74,578
+South Ayrshire,2019,Male,75,615
+South Ayrshire,2019,Male,76,609
+South Ayrshire,2019,Male,77,482
+South Ayrshire,2019,Male,78,422
+South Ayrshire,2019,Male,79,413
+South Ayrshire,2019,Male,80,392
+South Ayrshire,2019,Male,81,378
+South Ayrshire,2019,Male,82,355
+South Ayrshire,2019,Male,83,308
+South Ayrshire,2019,Male,84,302
+South Ayrshire,2019,Male,85,221
+South Ayrshire,2019,Male,86,207
+South Ayrshire,2019,Male,87,178
+South Ayrshire,2019,Male,88,174
+South Ayrshire,2019,Male,89,115
+South Ayrshire,2019,Male,90,394
+South Lanarkshire,2019,Female,0,1533
+South Lanarkshire,2019,Female,1,1601
+South Lanarkshire,2019,Female,2,1608
+South Lanarkshire,2019,Female,3,1613
+South Lanarkshire,2019,Female,4,1699
+South Lanarkshire,2019,Female,5,1681
+South Lanarkshire,2019,Female,6,1736
+South Lanarkshire,2019,Female,7,1688
+South Lanarkshire,2019,Female,8,1829
+South Lanarkshire,2019,Female,9,1741
+South Lanarkshire,2019,Female,10,1799
+South Lanarkshire,2019,Female,11,1815
+South Lanarkshire,2019,Female,12,1765
+South Lanarkshire,2019,Female,13,1761
+South Lanarkshire,2019,Female,14,1681
+South Lanarkshire,2019,Female,15,1663
+South Lanarkshire,2019,Female,16,1594
+South Lanarkshire,2019,Female,17,1621
+South Lanarkshire,2019,Female,18,1637
+South Lanarkshire,2019,Female,19,1628
+South Lanarkshire,2019,Female,20,1675
+South Lanarkshire,2019,Female,21,1588
+South Lanarkshire,2019,Female,22,1750
+South Lanarkshire,2019,Female,23,1699
+South Lanarkshire,2019,Female,24,1788
+South Lanarkshire,2019,Female,25,1898
+South Lanarkshire,2019,Female,26,1837
+South Lanarkshire,2019,Female,27,1997
+South Lanarkshire,2019,Female,28,1950
+South Lanarkshire,2019,Female,29,1837
+South Lanarkshire,2019,Female,30,1835
+South Lanarkshire,2019,Female,31,1822
+South Lanarkshire,2019,Female,32,1906
+South Lanarkshire,2019,Female,33,2061
+South Lanarkshire,2019,Female,34,2023
+South Lanarkshire,2019,Female,35,2043
+South Lanarkshire,2019,Female,36,2066
+South Lanarkshire,2019,Female,37,2230
+South Lanarkshire,2019,Female,38,2221
+South Lanarkshire,2019,Female,39,2103
+South Lanarkshire,2019,Female,40,2032
+South Lanarkshire,2019,Female,41,2033
+South Lanarkshire,2019,Female,42,1842
+South Lanarkshire,2019,Female,43,1956
+South Lanarkshire,2019,Female,44,2045
+South Lanarkshire,2019,Female,45,2071
+South Lanarkshire,2019,Female,46,2192
+South Lanarkshire,2019,Female,47,2346
+South Lanarkshire,2019,Female,48,2481
+South Lanarkshire,2019,Female,49,2519
+South Lanarkshire,2019,Female,50,2498
+South Lanarkshire,2019,Female,51,2595
+South Lanarkshire,2019,Female,52,2602
+South Lanarkshire,2019,Female,53,2502
+South Lanarkshire,2019,Female,54,2614
+South Lanarkshire,2019,Female,55,2804
+South Lanarkshire,2019,Female,56,2579
+South Lanarkshire,2019,Female,57,2581
+South Lanarkshire,2019,Female,58,2498
+South Lanarkshire,2019,Female,59,2473
+South Lanarkshire,2019,Female,60,2515
+South Lanarkshire,2019,Female,61,2252
+South Lanarkshire,2019,Female,62,2310
+South Lanarkshire,2019,Female,63,2229
+South Lanarkshire,2019,Female,64,2173
+South Lanarkshire,2019,Female,65,2091
+South Lanarkshire,2019,Female,66,1958
+South Lanarkshire,2019,Female,67,1946
+South Lanarkshire,2019,Female,68,1836
+South Lanarkshire,2019,Female,69,1830
+South Lanarkshire,2019,Female,70,1846
+South Lanarkshire,2019,Female,71,1941
+South Lanarkshire,2019,Female,72,2006
+South Lanarkshire,2019,Female,73,1557
+South Lanarkshire,2019,Female,74,1378
+South Lanarkshire,2019,Female,75,1494
+South Lanarkshire,2019,Female,76,1384
+South Lanarkshire,2019,Female,77,1272
+South Lanarkshire,2019,Female,78,1249
+South Lanarkshire,2019,Female,79,1196
+South Lanarkshire,2019,Female,80,1102
+South Lanarkshire,2019,Female,81,1051
+South Lanarkshire,2019,Female,82,987
+South Lanarkshire,2019,Female,83,976
+South Lanarkshire,2019,Female,84,849
+South Lanarkshire,2019,Female,85,771
+South Lanarkshire,2019,Female,86,712
+South Lanarkshire,2019,Female,87,598
+South Lanarkshire,2019,Female,88,560
+South Lanarkshire,2019,Female,89,441
+South Lanarkshire,2019,Female,90,1702
+South Lanarkshire,2019,Male,0,1581
+South Lanarkshire,2019,Male,1,1637
+South Lanarkshire,2019,Male,2,1803
+South Lanarkshire,2019,Male,3,1789
+South Lanarkshire,2019,Male,4,1822
+South Lanarkshire,2019,Male,5,1774
+South Lanarkshire,2019,Male,6,1817
+South Lanarkshire,2019,Male,7,1950
+South Lanarkshire,2019,Male,8,1866
+South Lanarkshire,2019,Male,9,1760
+South Lanarkshire,2019,Male,10,1810
+South Lanarkshire,2019,Male,11,1830
+South Lanarkshire,2019,Male,12,1818
+South Lanarkshire,2019,Male,13,1741
+South Lanarkshire,2019,Male,14,1712
+South Lanarkshire,2019,Male,15,1726
+South Lanarkshire,2019,Male,16,1590
+South Lanarkshire,2019,Male,17,1664
+South Lanarkshire,2019,Male,18,1700
+South Lanarkshire,2019,Male,19,1805
+South Lanarkshire,2019,Male,20,1825
+South Lanarkshire,2019,Male,21,1759
+South Lanarkshire,2019,Male,22,1816
+South Lanarkshire,2019,Male,23,1872
+South Lanarkshire,2019,Male,24,1789
+South Lanarkshire,2019,Male,25,1886
+South Lanarkshire,2019,Male,26,1926
+South Lanarkshire,2019,Male,27,1931
+South Lanarkshire,2019,Male,28,1824
+South Lanarkshire,2019,Male,29,1741
+South Lanarkshire,2019,Male,30,1751
+South Lanarkshire,2019,Male,31,1841
+South Lanarkshire,2019,Male,32,1741
+South Lanarkshire,2019,Male,33,1779
+South Lanarkshire,2019,Male,34,1861
+South Lanarkshire,2019,Male,35,1818
+South Lanarkshire,2019,Male,36,1840
+South Lanarkshire,2019,Male,37,1930
+South Lanarkshire,2019,Male,38,2079
+South Lanarkshire,2019,Male,39,2097
+South Lanarkshire,2019,Male,40,1860
+South Lanarkshire,2019,Male,41,1732
+South Lanarkshire,2019,Male,42,1828
+South Lanarkshire,2019,Male,43,1841
+South Lanarkshire,2019,Male,44,1942
+South Lanarkshire,2019,Male,45,2018
+South Lanarkshire,2019,Male,46,2093
+South Lanarkshire,2019,Male,47,2286
+South Lanarkshire,2019,Male,48,2366
+South Lanarkshire,2019,Male,49,2322
+South Lanarkshire,2019,Male,50,2420
+South Lanarkshire,2019,Male,51,2409
+South Lanarkshire,2019,Male,52,2417
+South Lanarkshire,2019,Male,53,2296
+South Lanarkshire,2019,Male,54,2460
+South Lanarkshire,2019,Male,55,2407
+South Lanarkshire,2019,Male,56,2508
+South Lanarkshire,2019,Male,57,2345
+South Lanarkshire,2019,Male,58,2429
+South Lanarkshire,2019,Male,59,2363
+South Lanarkshire,2019,Male,60,2181
+South Lanarkshire,2019,Male,61,2173
+South Lanarkshire,2019,Male,62,2104
+South Lanarkshire,2019,Male,63,2085
+South Lanarkshire,2019,Male,64,1874
+South Lanarkshire,2019,Male,65,1986
+South Lanarkshire,2019,Male,66,1882
+South Lanarkshire,2019,Male,67,1726
+South Lanarkshire,2019,Male,68,1675
+South Lanarkshire,2019,Male,69,1642
+South Lanarkshire,2019,Male,70,1659
+South Lanarkshire,2019,Male,71,1720
+South Lanarkshire,2019,Male,72,1783
+South Lanarkshire,2019,Male,73,1367
+South Lanarkshire,2019,Male,74,1270
+South Lanarkshire,2019,Male,75,1294
+South Lanarkshire,2019,Male,76,1175
+South Lanarkshire,2019,Male,77,1034
+South Lanarkshire,2019,Male,78,900
+South Lanarkshire,2019,Male,79,857
+South Lanarkshire,2019,Male,80,810
+South Lanarkshire,2019,Male,81,818
+South Lanarkshire,2019,Male,82,701
+South Lanarkshire,2019,Male,83,657
+South Lanarkshire,2019,Male,84,504
+South Lanarkshire,2019,Male,85,471
+South Lanarkshire,2019,Male,86,428
+South Lanarkshire,2019,Male,87,357
+South Lanarkshire,2019,Male,88,306
+South Lanarkshire,2019,Male,89,240
+South Lanarkshire,2019,Male,90,711
+Stirling,2019,Female,0,368
+Stirling,2019,Female,1,412
+Stirling,2019,Female,2,378
+Stirling,2019,Female,3,453
+Stirling,2019,Female,4,434
+Stirling,2019,Female,5,450
+Stirling,2019,Female,6,456
+Stirling,2019,Female,7,510
+Stirling,2019,Female,8,478
+Stirling,2019,Female,9,473
+Stirling,2019,Female,10,498
+Stirling,2019,Female,11,503
+Stirling,2019,Female,12,534
+Stirling,2019,Female,13,528
+Stirling,2019,Female,14,520
+Stirling,2019,Female,15,514
+Stirling,2019,Female,16,526
+Stirling,2019,Female,17,457
+Stirling,2019,Female,18,594
+Stirling,2019,Female,19,791
+Stirling,2019,Female,20,849
+Stirling,2019,Female,21,876
+Stirling,2019,Female,22,825
+Stirling,2019,Female,23,703
+Stirling,2019,Female,24,643
+Stirling,2019,Female,25,620
+Stirling,2019,Female,26,599
+Stirling,2019,Female,27,681
+Stirling,2019,Female,28,663
+Stirling,2019,Female,29,657
+Stirling,2019,Female,30,687
+Stirling,2019,Female,31,616
+Stirling,2019,Female,32,550
+Stirling,2019,Female,33,517
+Stirling,2019,Female,34,543
+Stirling,2019,Female,35,490
+Stirling,2019,Female,36,519
+Stirling,2019,Female,37,582
+Stirling,2019,Female,38,483
+Stirling,2019,Female,39,536
+Stirling,2019,Female,40,563
+Stirling,2019,Female,41,573
+Stirling,2019,Female,42,559
+Stirling,2019,Female,43,519
+Stirling,2019,Female,44,546
+Stirling,2019,Female,45,540
+Stirling,2019,Female,46,685
+Stirling,2019,Female,47,701
+Stirling,2019,Female,48,712
+Stirling,2019,Female,49,790
+Stirling,2019,Female,50,706
+Stirling,2019,Female,51,738
+Stirling,2019,Female,52,694
+Stirling,2019,Female,53,755
+Stirling,2019,Female,54,761
+Stirling,2019,Female,55,741
+Stirling,2019,Female,56,747
+Stirling,2019,Female,57,680
+Stirling,2019,Female,58,713
+Stirling,2019,Female,59,633
+Stirling,2019,Female,60,619
+Stirling,2019,Female,61,602
+Stirling,2019,Female,62,576
+Stirling,2019,Female,63,538
+Stirling,2019,Female,64,543
+Stirling,2019,Female,65,556
+Stirling,2019,Female,66,530
+Stirling,2019,Female,67,478
+Stirling,2019,Female,68,539
+Stirling,2019,Female,69,485
+Stirling,2019,Female,70,494
+Stirling,2019,Female,71,546
+Stirling,2019,Female,72,641
+Stirling,2019,Female,73,456
+Stirling,2019,Female,74,413
+Stirling,2019,Female,75,457
+Stirling,2019,Female,76,436
+Stirling,2019,Female,77,389
+Stirling,2019,Female,78,353
+Stirling,2019,Female,79,337
+Stirling,2019,Female,80,351
+Stirling,2019,Female,81,309
+Stirling,2019,Female,82,319
+Stirling,2019,Female,83,284
+Stirling,2019,Female,84,255
+Stirling,2019,Female,85,207
+Stirling,2019,Female,86,187
+Stirling,2019,Female,87,198
+Stirling,2019,Female,88,134
+Stirling,2019,Female,89,121
+Stirling,2019,Female,90,552
+Stirling,2019,Male,0,383
+Stirling,2019,Male,1,417
+Stirling,2019,Male,2,446
+Stirling,2019,Male,3,465
+Stirling,2019,Male,4,439
+Stirling,2019,Male,5,484
+Stirling,2019,Male,6,492
+Stirling,2019,Male,7,490
+Stirling,2019,Male,8,502
+Stirling,2019,Male,9,494
+Stirling,2019,Male,10,514
+Stirling,2019,Male,11,549
+Stirling,2019,Male,12,536
+Stirling,2019,Male,13,537
+Stirling,2019,Male,14,558
+Stirling,2019,Male,15,602
+Stirling,2019,Male,16,529
+Stirling,2019,Male,17,521
+Stirling,2019,Male,18,579
+Stirling,2019,Male,19,682
+Stirling,2019,Male,20,740
+Stirling,2019,Male,21,764
+Stirling,2019,Male,22,834
+Stirling,2019,Male,23,737
+Stirling,2019,Male,24,663
+Stirling,2019,Male,25,632
+Stirling,2019,Male,26,554
+Stirling,2019,Male,27,621
+Stirling,2019,Male,28,625
+Stirling,2019,Male,29,647
+Stirling,2019,Male,30,625
+Stirling,2019,Male,31,525
+Stirling,2019,Male,32,506
+Stirling,2019,Male,33,478
+Stirling,2019,Male,34,446
+Stirling,2019,Male,35,529
+Stirling,2019,Male,36,482
+Stirling,2019,Male,37,520
+Stirling,2019,Male,38,458
+Stirling,2019,Male,39,493
+Stirling,2019,Male,40,556
+Stirling,2019,Male,41,451
+Stirling,2019,Male,42,480
+Stirling,2019,Male,43,562
+Stirling,2019,Male,44,511
+Stirling,2019,Male,45,515
+Stirling,2019,Male,46,519
+Stirling,2019,Male,47,577
+Stirling,2019,Male,48,629
+Stirling,2019,Male,49,658
+Stirling,2019,Male,50,700
+Stirling,2019,Male,51,709
+Stirling,2019,Male,52,651
+Stirling,2019,Male,53,714
+Stirling,2019,Male,54,750
+Stirling,2019,Male,55,696
+Stirling,2019,Male,56,694
+Stirling,2019,Male,57,622
+Stirling,2019,Male,58,635
+Stirling,2019,Male,59,677
+Stirling,2019,Male,60,572
+Stirling,2019,Male,61,587
+Stirling,2019,Male,62,593
+Stirling,2019,Male,63,531
+Stirling,2019,Male,64,509
+Stirling,2019,Male,65,476
+Stirling,2019,Male,66,524
+Stirling,2019,Male,67,497
+Stirling,2019,Male,68,475
+Stirling,2019,Male,69,488
+Stirling,2019,Male,70,497
+Stirling,2019,Male,71,488
+Stirling,2019,Male,72,570
+Stirling,2019,Male,73,409
+Stirling,2019,Male,74,330
+Stirling,2019,Male,75,388
+Stirling,2019,Male,76,344
+Stirling,2019,Male,77,301
+Stirling,2019,Male,78,279
+Stirling,2019,Male,79,293
+Stirling,2019,Male,80,287
+Stirling,2019,Male,81,218
+Stirling,2019,Male,82,231
+Stirling,2019,Male,83,183
+Stirling,2019,Male,84,202
+Stirling,2019,Male,85,124
+Stirling,2019,Male,86,148
+Stirling,2019,Male,87,135
+Stirling,2019,Male,88,86
+Stirling,2019,Male,89,60
+Stirling,2019,Male,90,204
+West Dunbartonshire,2019,Female,0,411
+West Dunbartonshire,2019,Female,1,399
+West Dunbartonshire,2019,Female,2,449
+West Dunbartonshire,2019,Female,3,488
+West Dunbartonshire,2019,Female,4,449
+West Dunbartonshire,2019,Female,5,481
+West Dunbartonshire,2019,Female,6,518
+West Dunbartonshire,2019,Female,7,494
+West Dunbartonshire,2019,Female,8,498
+West Dunbartonshire,2019,Female,9,496
+West Dunbartonshire,2019,Female,10,503
+West Dunbartonshire,2019,Female,11,519
+West Dunbartonshire,2019,Female,12,489
+West Dunbartonshire,2019,Female,13,475
+West Dunbartonshire,2019,Female,14,479
+West Dunbartonshire,2019,Female,15,439
+West Dunbartonshire,2019,Female,16,447
+West Dunbartonshire,2019,Female,17,469
+West Dunbartonshire,2019,Female,18,462
+West Dunbartonshire,2019,Female,19,465
+West Dunbartonshire,2019,Female,20,459
+West Dunbartonshire,2019,Female,21,464
+West Dunbartonshire,2019,Female,22,492
+West Dunbartonshire,2019,Female,23,497
+West Dunbartonshire,2019,Female,24,538
+West Dunbartonshire,2019,Female,25,521
+West Dunbartonshire,2019,Female,26,635
+West Dunbartonshire,2019,Female,27,614
+West Dunbartonshire,2019,Female,28,577
+West Dunbartonshire,2019,Female,29,591
+West Dunbartonshire,2019,Female,30,603
+West Dunbartonshire,2019,Female,31,581
+West Dunbartonshire,2019,Female,32,527
+West Dunbartonshire,2019,Female,33,610
+West Dunbartonshire,2019,Female,34,574
+West Dunbartonshire,2019,Female,35,532
+West Dunbartonshire,2019,Female,36,601
+West Dunbartonshire,2019,Female,37,568
+West Dunbartonshire,2019,Female,38,635
+West Dunbartonshire,2019,Female,39,561
+West Dunbartonshire,2019,Female,40,530
+West Dunbartonshire,2019,Female,41,478
+West Dunbartonshire,2019,Female,42,475
+West Dunbartonshire,2019,Female,43,568
+West Dunbartonshire,2019,Female,44,516
+West Dunbartonshire,2019,Female,45,544
+West Dunbartonshire,2019,Female,46,569
+West Dunbartonshire,2019,Female,47,584
+West Dunbartonshire,2019,Female,48,679
+West Dunbartonshire,2019,Female,49,684
+West Dunbartonshire,2019,Female,50,768
+West Dunbartonshire,2019,Female,51,754
+West Dunbartonshire,2019,Female,52,761
+West Dunbartonshire,2019,Female,53,755
+West Dunbartonshire,2019,Female,54,736
+West Dunbartonshire,2019,Female,55,788
+West Dunbartonshire,2019,Female,56,772
+West Dunbartonshire,2019,Female,57,704
+West Dunbartonshire,2019,Female,58,734
+West Dunbartonshire,2019,Female,59,683
+West Dunbartonshire,2019,Female,60,696
+West Dunbartonshire,2019,Female,61,688
+West Dunbartonshire,2019,Female,62,648
+West Dunbartonshire,2019,Female,63,641
+West Dunbartonshire,2019,Female,64,613
+West Dunbartonshire,2019,Female,65,588
+West Dunbartonshire,2019,Female,66,519
+West Dunbartonshire,2019,Female,67,511
+West Dunbartonshire,2019,Female,68,540
+West Dunbartonshire,2019,Female,69,521
+West Dunbartonshire,2019,Female,70,501
+West Dunbartonshire,2019,Female,71,571
+West Dunbartonshire,2019,Female,72,549
+West Dunbartonshire,2019,Female,73,393
+West Dunbartonshire,2019,Female,74,383
+West Dunbartonshire,2019,Female,75,362
+West Dunbartonshire,2019,Female,76,380
+West Dunbartonshire,2019,Female,77,344
+West Dunbartonshire,2019,Female,78,327
+West Dunbartonshire,2019,Female,79,327
+West Dunbartonshire,2019,Female,80,337
+West Dunbartonshire,2019,Female,81,274
+West Dunbartonshire,2019,Female,82,263
+West Dunbartonshire,2019,Female,83,249
+West Dunbartonshire,2019,Female,84,226
+West Dunbartonshire,2019,Female,85,197
+West Dunbartonshire,2019,Female,86,198
+West Dunbartonshire,2019,Female,87,173
+West Dunbartonshire,2019,Female,88,146
+West Dunbartonshire,2019,Female,89,130
+West Dunbartonshire,2019,Female,90,425
+West Dunbartonshire,2019,Male,0,464
+West Dunbartonshire,2019,Male,1,459
+West Dunbartonshire,2019,Male,2,464
+West Dunbartonshire,2019,Male,3,487
+West Dunbartonshire,2019,Male,4,479
+West Dunbartonshire,2019,Male,5,473
+West Dunbartonshire,2019,Male,6,507
+West Dunbartonshire,2019,Male,7,562
+West Dunbartonshire,2019,Male,8,554
+West Dunbartonshire,2019,Male,9,544
+West Dunbartonshire,2019,Male,10,546
+West Dunbartonshire,2019,Male,11,522
+West Dunbartonshire,2019,Male,12,512
+West Dunbartonshire,2019,Male,13,485
+West Dunbartonshire,2019,Male,14,507
+West Dunbartonshire,2019,Male,15,495
+West Dunbartonshire,2019,Male,16,471
+West Dunbartonshire,2019,Male,17,423
+West Dunbartonshire,2019,Male,18,437
+West Dunbartonshire,2019,Male,19,471
+West Dunbartonshire,2019,Male,20,487
+West Dunbartonshire,2019,Male,21,524
+West Dunbartonshire,2019,Male,22,535
+West Dunbartonshire,2019,Male,23,530
+West Dunbartonshire,2019,Male,24,541
+West Dunbartonshire,2019,Male,25,603
+West Dunbartonshire,2019,Male,26,564
+West Dunbartonshire,2019,Male,27,571
+West Dunbartonshire,2019,Male,28,610
+West Dunbartonshire,2019,Male,29,569
+West Dunbartonshire,2019,Male,30,494
+West Dunbartonshire,2019,Male,31,553
+West Dunbartonshire,2019,Male,32,603
+West Dunbartonshire,2019,Male,33,592
+West Dunbartonshire,2019,Male,34,551
+West Dunbartonshire,2019,Male,35,478
+West Dunbartonshire,2019,Male,36,501
+West Dunbartonshire,2019,Male,37,518
+West Dunbartonshire,2019,Male,38,553
+West Dunbartonshire,2019,Male,39,443
+West Dunbartonshire,2019,Male,40,485
+West Dunbartonshire,2019,Male,41,427
+West Dunbartonshire,2019,Male,42,466
+West Dunbartonshire,2019,Male,43,447
+West Dunbartonshire,2019,Male,44,440
+West Dunbartonshire,2019,Male,45,456
+West Dunbartonshire,2019,Male,46,545
+West Dunbartonshire,2019,Male,47,555
+West Dunbartonshire,2019,Male,48,582
+West Dunbartonshire,2019,Male,49,551
+West Dunbartonshire,2019,Male,50,628
+West Dunbartonshire,2019,Male,51,612
+West Dunbartonshire,2019,Male,52,617
+West Dunbartonshire,2019,Male,53,686
+West Dunbartonshire,2019,Male,54,715
+West Dunbartonshire,2019,Male,55,681
+West Dunbartonshire,2019,Male,56,699
+West Dunbartonshire,2019,Male,57,668
+West Dunbartonshire,2019,Male,58,664
+West Dunbartonshire,2019,Male,59,622
+West Dunbartonshire,2019,Male,60,619
+West Dunbartonshire,2019,Male,61,645
+West Dunbartonshire,2019,Male,62,569
+West Dunbartonshire,2019,Male,63,606
+West Dunbartonshire,2019,Male,64,554
+West Dunbartonshire,2019,Male,65,520
+West Dunbartonshire,2019,Male,66,504
+West Dunbartonshire,2019,Male,67,459
+West Dunbartonshire,2019,Male,68,450
+West Dunbartonshire,2019,Male,69,453
+West Dunbartonshire,2019,Male,70,442
+West Dunbartonshire,2019,Male,71,488
+West Dunbartonshire,2019,Male,72,432
+West Dunbartonshire,2019,Male,73,404
+West Dunbartonshire,2019,Male,74,346
+West Dunbartonshire,2019,Male,75,334
+West Dunbartonshire,2019,Male,76,265
+West Dunbartonshire,2019,Male,77,264
+West Dunbartonshire,2019,Male,78,213
+West Dunbartonshire,2019,Male,79,231
+West Dunbartonshire,2019,Male,80,221
+West Dunbartonshire,2019,Male,81,185
+West Dunbartonshire,2019,Male,82,164
+West Dunbartonshire,2019,Male,83,166
+West Dunbartonshire,2019,Male,84,129
+West Dunbartonshire,2019,Male,85,134
+West Dunbartonshire,2019,Male,86,96
+West Dunbartonshire,2019,Male,87,99
+West Dunbartonshire,2019,Male,88,67
+West Dunbartonshire,2019,Male,89,49
+West Dunbartonshire,2019,Male,90,182
+West Lothian,2019,Female,0,827
+West Lothian,2019,Female,1,933
+West Lothian,2019,Female,2,1001
+West Lothian,2019,Female,3,1022
+West Lothian,2019,Female,4,1007
+West Lothian,2019,Female,5,1088
+West Lothian,2019,Female,6,1153
+West Lothian,2019,Female,7,1050
+West Lothian,2019,Female,8,1172
+West Lothian,2019,Female,9,1102
+West Lothian,2019,Female,10,1188
+West Lothian,2019,Female,11,1180
+West Lothian,2019,Female,12,1137
+West Lothian,2019,Female,13,1118
+West Lothian,2019,Female,14,1093
+West Lothian,2019,Female,15,1058
+West Lothian,2019,Female,16,1015
+West Lothian,2019,Female,17,1084
+West Lothian,2019,Female,18,955
+West Lothian,2019,Female,19,932
+West Lothian,2019,Female,20,912
+West Lothian,2019,Female,21,907
+West Lothian,2019,Female,22,996
+West Lothian,2019,Female,23,962
+West Lothian,2019,Female,24,1019
+West Lothian,2019,Female,25,1142
+West Lothian,2019,Female,26,1076
+West Lothian,2019,Female,27,1083
+West Lothian,2019,Female,28,1073
+West Lothian,2019,Female,29,1101
+West Lothian,2019,Female,30,1098
+West Lothian,2019,Female,31,1230
+West Lothian,2019,Female,32,1315
+West Lothian,2019,Female,33,1299
+West Lothian,2019,Female,34,1300
+West Lothian,2019,Female,35,1220
+West Lothian,2019,Female,36,1337
+West Lothian,2019,Female,37,1340
+West Lothian,2019,Female,38,1335
+West Lothian,2019,Female,39,1228
+West Lothian,2019,Female,40,1196
+West Lothian,2019,Female,41,1158
+West Lothian,2019,Female,42,1073
+West Lothian,2019,Female,43,1194
+West Lothian,2019,Female,44,1272
+West Lothian,2019,Female,45,1254
+West Lothian,2019,Female,46,1398
+West Lothian,2019,Female,47,1418
+West Lothian,2019,Female,48,1434
+West Lothian,2019,Female,49,1494
+West Lothian,2019,Female,50,1478
+West Lothian,2019,Female,51,1502
+West Lothian,2019,Female,52,1498
+West Lothian,2019,Female,53,1439
+West Lothian,2019,Female,54,1483
+West Lothian,2019,Female,55,1368
+West Lothian,2019,Female,56,1389
+West Lothian,2019,Female,57,1360
+West Lothian,2019,Female,58,1301
+West Lothian,2019,Female,59,1230
+West Lothian,2019,Female,60,1233
+West Lothian,2019,Female,61,1150
+West Lothian,2019,Female,62,1076
+West Lothian,2019,Female,63,1029
+West Lothian,2019,Female,64,950
+West Lothian,2019,Female,65,1023
+West Lothian,2019,Female,66,1013
+West Lothian,2019,Female,67,951
+West Lothian,2019,Female,68,926
+West Lothian,2019,Female,69,913
+West Lothian,2019,Female,70,973
+West Lothian,2019,Female,71,1015
+West Lothian,2019,Female,72,1006
+West Lothian,2019,Female,73,800
+West Lothian,2019,Female,74,728
+West Lothian,2019,Female,75,722
+West Lothian,2019,Female,76,698
+West Lothian,2019,Female,77,652
+West Lothian,2019,Female,78,572
+West Lothian,2019,Female,79,542
+West Lothian,2019,Female,80,545
+West Lothian,2019,Female,81,491
+West Lothian,2019,Female,82,420
+West Lothian,2019,Female,83,402
+West Lothian,2019,Female,84,357
+West Lothian,2019,Female,85,331
+West Lothian,2019,Female,86,266
+West Lothian,2019,Female,87,285
+West Lothian,2019,Female,88,215
+West Lothian,2019,Female,89,158
+West Lothian,2019,Female,90,678
+West Lothian,2019,Male,0,957
+West Lothian,2019,Male,1,1017
+West Lothian,2019,Male,2,1071
+West Lothian,2019,Male,3,1041
+West Lothian,2019,Male,4,1172
+West Lothian,2019,Male,5,1158
+West Lothian,2019,Male,6,1095
+West Lothian,2019,Male,7,1197
+West Lothian,2019,Male,8,1283
+West Lothian,2019,Male,9,1186
+West Lothian,2019,Male,10,1277
+West Lothian,2019,Male,11,1257
+West Lothian,2019,Male,12,1198
+West Lothian,2019,Male,13,1166
+West Lothian,2019,Male,14,1169
+West Lothian,2019,Male,15,1121
+West Lothian,2019,Male,16,1036
+West Lothian,2019,Male,17,982
+West Lothian,2019,Male,18,1051
+West Lothian,2019,Male,19,957
+West Lothian,2019,Male,20,1064
+West Lothian,2019,Male,21,977
+West Lothian,2019,Male,22,1069
+West Lothian,2019,Male,23,1128
+West Lothian,2019,Male,24,1133
+West Lothian,2019,Male,25,1157
+West Lothian,2019,Male,26,1157
+West Lothian,2019,Male,27,1066
+West Lothian,2019,Male,28,1125
+West Lothian,2019,Male,29,1061
+West Lothian,2019,Male,30,1084
+West Lothian,2019,Male,31,1235
+West Lothian,2019,Male,32,1174
+West Lothian,2019,Male,33,1135
+West Lothian,2019,Male,34,1140
+West Lothian,2019,Male,35,1237
+West Lothian,2019,Male,36,1195
+West Lothian,2019,Male,37,1186
+West Lothian,2019,Male,38,1193
+West Lothian,2019,Male,39,1209
+West Lothian,2019,Male,40,1191
+West Lothian,2019,Male,41,1056
+West Lothian,2019,Male,42,1161
+West Lothian,2019,Male,43,1186
+West Lothian,2019,Male,44,1189
+West Lothian,2019,Male,45,1260
+West Lothian,2019,Male,46,1246
+West Lothian,2019,Male,47,1381
+West Lothian,2019,Male,48,1423
+West Lothian,2019,Male,49,1284
+West Lothian,2019,Male,50,1406
+West Lothian,2019,Male,51,1454
+West Lothian,2019,Male,52,1374
+West Lothian,2019,Male,53,1335
+West Lothian,2019,Male,54,1435
+West Lothian,2019,Male,55,1338
+West Lothian,2019,Male,56,1319
+West Lothian,2019,Male,57,1272
+West Lothian,2019,Male,58,1283
+West Lothian,2019,Male,59,1235
+West Lothian,2019,Male,60,1183
+West Lothian,2019,Male,61,1090
+West Lothian,2019,Male,62,1038
+West Lothian,2019,Male,63,997
+West Lothian,2019,Male,64,898
+West Lothian,2019,Male,65,898
+West Lothian,2019,Male,66,848
+West Lothian,2019,Male,67,843
+West Lothian,2019,Male,68,854
+West Lothian,2019,Male,69,844
+West Lothian,2019,Male,70,864
+West Lothian,2019,Male,71,910
+West Lothian,2019,Male,72,919
+West Lothian,2019,Male,73,705
+West Lothian,2019,Male,74,658
+West Lothian,2019,Male,75,590
+West Lothian,2019,Male,76,579
+West Lothian,2019,Male,77,527
+West Lothian,2019,Male,78,474
+West Lothian,2019,Male,79,432
+West Lothian,2019,Male,80,431
+West Lothian,2019,Male,81,384
+West Lothian,2019,Male,82,332
+West Lothian,2019,Male,83,296
+West Lothian,2019,Male,84,270
+West Lothian,2019,Male,85,226
+West Lothian,2019,Male,86,178
+West Lothian,2019,Male,87,176
+West Lothian,2019,Male,88,120
+West Lothian,2019,Male,89,103
+West Lothian,2019,Male,90,342
